@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Sendung für die vernetzte Welt</title>
-    <link>https://sfdvw.github.io/series/</link>
+    <link>https://sfdvw.de/series/</link>
     <description>Recent content in Series on Sendung für die vernetzte Welt</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zn-Hans</language>
-    <lastBuildDate>Sun, 01 Sep 2019 20:00:00 +0000</lastBuildDate>
+    <language>de</language>
+    <lastBuildDate>Sat, 21 Sep 2019 19:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://sfdvw.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sfdvw.de/series/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Post</title>
-      <link>https://sfdvw.github.io/series/post/</link>
-      <pubDate>Sun, 01 Sep 2019 20:00:00 +0000</pubDate>
+      <link>https://sfdvw.de/series/post/</link>
+      <pubDate>Sat, 21 Sep 2019 19:00:00 +0000</pubDate>
       
-      <guid>https://sfdvw.github.io/series/post/</guid>
+      <guid>https://sfdvw.de/series/post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sfdvw</title>
-      <link>https://sfdvw.github.io/series/sfdvw/</link>
-      <pubDate>Sat, 21 Sep 2019 20:00:00 +0000</pubDate>
+      <link>https://sfdvw.de/series/sfdvw/</link>
+      <pubDate>Sat, 21 Sep 2019 00:20:00 +0200</pubDate>
       
-      <guid>https://sfdvw.github.io/series/sfdvw/</guid>
+      <guid>https://sfdvw.de/series/sfdvw/</guid>
       <description></description>
     </item>
     

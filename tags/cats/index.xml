@@ -2,25 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cats on Sendung für die vernetzte Welt</title>
-    <link>https://sfdvw.github.io/tags/cats/</link>
+    <link>https://sfdvw.de/tags/cats/</link>
     <description>Recent content in Cats on Sendung für die vernetzte Welt</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zn-Hans</language>
-    <lastBuildDate>Sun, 01 Sep 2019 20:00:00 +0000</lastBuildDate>
+    <language>de</language>
+    <lastBuildDate>Sat, 21 Sep 2019 19:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://sfdvw.github.io/tags/cats/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sfdvw.de/tags/cats/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>cats in space</title>
-      <link>https://sfdvw.github.io/blog/2019-09/cats-in-space/</link>
-      <pubDate>Sun, 01 Sep 2019 20:00:00 +0000</pubDate>
+      <title>Hello World - cats in space - sfdvw.de</title>
+      <link>https://sfdvw.de/blog/2019-09/hello-world-cats-in-space-sfdvw.de/</link>
+      <pubDate>Sat, 21 Sep 2019 19:00:00 +0000</pubDate>
       
-      <guid>https://sfdvw.github.io/blog/2019-09/cats-in-space/</guid>
-      <description>Hi here you can see cats in space
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce porttitor quis metus non commodo. Fusce mi quam, pulvinar non maximus sit amet, condimentum in quam. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Duis ante urna, mattis non odio in, tincidunt sollicitudin magna. Nullam rhoncus ipsum in ultrices viverra. Suspendisse in suscipit massa, sed rhoncus augue. Etiam mattis elit non quam condimentum, id congue nibh ullamcorper. Vivamus viverra libero diam, auctor tempor quam imperdiet nec. Fusce sed vulputate odio.
-Ut aliquet aliquet nulla, ac ornare eros sagittis quis. In hac habitasse platea dictumst. Nunc congue semper lectus, vel dapibus magna condimentum ut. Phasellus bibendum egestas neque, a tincidunt purus dignissim a. Curabitur accumsan metus ut lacus ultrices, nec convallis lorem scelerisque. Cras consectetur scelerisque ullamcorper. Pellentesque malesuada diam eget metus egestas, ut molestie leo accumsan. Vestibulum non dui volutpat, tincidunt sapien ac, consequat ex. Aenean vehicula nulla a sapien varius, id pellentesque turpis tincidunt.
-Donec blandit tortor ante. Nulla libero arcu, sollicitudin consequat vulputate non, posuere eget mauris. Curabitur molestie augue lorem, id elementum urna elementum id. Aenean elementum urna et mi lacinia, eget feugiat quam vulputate. Vivamus sit amet malesuada lorem.</description>
+      <guid>https://sfdvw.de/blog/2019-09/hello-world-cats-in-space-sfdvw.de/</guid>
+      <description>Hello World,
+Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer kleinen Seite über die Sendung für die vernetzte Welt Radio Corax Freies Radio im Raum Halle Immer am dritten Samstag des Monats 20.00 Uhr live</description>
     </item>
     
   </channel>

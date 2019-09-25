@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Junghacker on Sendung für die vernetzte Welt</title>
+    <link>https://sfdvw.de/tags/junghacker/</link>
+    <description>Recent content in Junghacker on Sendung für die vernetzte Welt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <lastBuildDate>Sat, 17 Aug 2019 00:20:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://sfdvw.de/tags/junghacker/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SfdvW - 83 - Jugend hackt, junghacker, EBK TdoT</title>
+      <link>https://sfdvw.de/blog/2019-08/sfdvw-83-jugend-hackt-junghacker-ebk-tdot/</link>
+      <pubDate>Sat, 17 Aug 2019 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/blog/2019-08/sfdvw-83-jugend-hackt-junghacker-ebk-tdot/</guid>
+      <description>Mit dabei: tmk, nilo</description>
+    </item>
+    
+  </channel>
+</rss>

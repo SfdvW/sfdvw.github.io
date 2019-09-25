@@ -2,66 +2,174 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Sendung für die vernetzte Welt</title>
-    <link>https://sfdvw.github.io/tags/</link>
+    <link>https://sfdvw.de/tags/</link>
     <description>Recent content in Tags on Sendung für die vernetzte Welt</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zn-Hans</language>
-    <lastBuildDate>Sun, 01 Sep 2019 20:00:00 +0000</lastBuildDate>
+    <language>de</language>
+    <lastBuildDate>Sat, 19 Jan 2019 00:20:00 +0200</lastBuildDate>
     
-	<atom:link href="https://sfdvw.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sfdvw.de/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Cats</title>
-      <link>https://sfdvw.github.io/tags/cats/</link>
-      <pubDate>Sun, 01 Sep 2019 20:00:00 +0000</pubDate>
+      <title>35c3</title>
+      <link>https://sfdvw.de/tags/35c3/</link>
+      <pubDate>Sat, 19 Jan 2019 00:20:00 +0200</pubDate>
       
-      <guid>https://sfdvw.github.io/tags/cats/</guid>
+      <guid>https://sfdvw.de/tags/35c3/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Corax</title>
-      <link>https://sfdvw.github.io/tags/corax/</link>
-      <pubDate>Sat, 21 Sep 2019 20:00:00 +0000</pubDate>
+      <title>Cats</title>
+      <link>https://sfdvw.de/tags/cats/</link>
+      <pubDate>Sat, 21 Sep 2019 19:00:00 +0000</pubDate>
       
-      <guid>https://sfdvw.github.io/tags/corax/</guid>
+      <guid>https://sfdvw.de/tags/cats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ccc</title>
+      <link>https://sfdvw.de/tags/ccc/</link>
+      <pubDate>Sat, 15 Dec 2018 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/tags/ccc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cre</title>
+      <link>https://sfdvw.de/tags/cre/</link>
+      <pubDate>Sat, 15 Dec 2018 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/tags/cre/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ebk</title>
+      <link>https://sfdvw.de/tags/ebk/</link>
+      <pubDate>Sat, 17 Aug 2019 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/tags/ebk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>First</title>
-      <link>https://sfdvw.github.io/tags/first/</link>
-      <pubDate>Sun, 01 Sep 2019 20:00:00 +0000</pubDate>
+      <link>https://sfdvw.de/tags/first/</link>
+      <pubDate>Sat, 21 Sep 2019 19:00:00 +0000</pubDate>
       
-      <guid>https://sfdvw.github.io/tags/first/</guid>
+      <guid>https://sfdvw.de/tags/first/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Live</title>
-      <link>https://sfdvw.github.io/tags/live/</link>
-      <pubDate>Sat, 21 Sep 2019 20:00:00 +0000</pubDate>
+      <title>Gametrack</title>
+      <link>https://sfdvw.de/tags/gametrack/</link>
+      <pubDate>Sat, 21 Jul 2018 00:20:00 +0200</pubDate>
       
-      <guid>https://sfdvw.github.io/tags/live/</guid>
+      <guid>https://sfdvw.de/tags/gametrack/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Sfdvw</title>
-      <link>https://sfdvw.github.io/tags/sfdvw/</link>
-      <pubDate>Sat, 21 Sep 2019 20:00:00 +0000</pubDate>
+      <title>Hebocon</title>
+      <link>https://sfdvw.de/tags/hebocon/</link>
+      <pubDate>Sat, 19 Jan 2019 00:20:00 +0200</pubDate>
       
-      <guid>https://sfdvw.github.io/tags/sfdvw/</guid>
+      <guid>https://sfdvw.de/tags/hebocon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jugend</title>
+      <link>https://sfdvw.de/tags/jugend/</link>
+      <pubDate>Sat, 17 Aug 2019 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/tags/jugend/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Junghacker</title>
+      <link>https://sfdvw.de/tags/junghacker/</link>
+      <pubDate>Sat, 17 Aug 2019 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/tags/junghacker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>https://sfdvw.de/tags/linux/</link>
+      <pubDate>Sat, 16 Mar 2019 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Musik</title>
+      <link>https://sfdvw.de/tags/musik/</link>
+      <pubDate>Sat, 16 Jun 2018 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/tags/musik/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rip</title>
+      <link>https://sfdvw.de/tags/rip/</link>
+      <pubDate>Sat, 21 Jul 2018 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/tags/rip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shutup10</title>
+      <link>https://sfdvw.de/tags/shutup10/</link>
+      <pubDate>Sat, 21 Sep 2019 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/tags/shutup10/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Space</title>
-      <link>https://sfdvw.github.io/tags/space/</link>
-      <pubDate>Sun, 01 Sep 2019 20:00:00 +0000</pubDate>
+      <link>https://sfdvw.de/tags/space/</link>
+      <pubDate>Sat, 21 Sep 2019 19:00:00 +0000</pubDate>
       
-      <guid>https://sfdvw.github.io/tags/space/</guid>
+      <guid>https://sfdvw.de/tags/space/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systemd</title>
+      <link>https://sfdvw.de/tags/systemd/</link>
+      <pubDate>Sat, 16 Mar 2019 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/tags/systemd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Win10</title>
+      <link>https://sfdvw.de/tags/win10/</link>
+      <pubDate>Sat, 21 Sep 2019 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/tags/win10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Windows</title>
+      <link>https://sfdvw.de/tags/windows/</link>
+      <pubDate>Sat, 21 Sep 2019 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/tags/windows/</guid>
       <description></description>
     </item>
     

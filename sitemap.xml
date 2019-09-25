@@ -3,111 +3,208 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sfdvw.github.io/about/</loc>
+    <loc>https://sfdvw.de/about/</loc>
     <lastmod>2019-09-22T20:50:18+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sfdvw.github.io/blog/2019-09/sendung-2/</loc>
-    <lastmod>2019-09-21T20:00:00+00:00</lastmod>
+    <loc>https://sfdvw.de/blog/2019-09/hello-world-cats-in-space-sfdvw.de/</loc>
+    <lastmod>2019-09-21T19:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sfdvw.github.io/blog/2019-09/sendung-1/</loc>
-    <lastmod>2019-09-10T00:14:19+08:00</lastmod>
+    <loc>https://sfdvw.de/blog/2019-09/sfdvw-84-win10-privat/</loc>
+    <lastmod>2019-09-21T00:20:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sfdvw.github.io/blog/2019-09/cats-in-space/</loc>
-    <lastmod>2019-09-01T20:00:00+00:00</lastmod>
+    <loc>https://sfdvw.de/blog/2019-08/sfdvw-83-jugend-hackt-junghacker-ebk-tdot/</loc>
+    <lastmod>2019-08-17T00:20:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sfdvw.github.io/blog/</loc>
-    <lastmod>2019-09-21T20:00:00+00:00</lastmod>
+    <loc>https://sfdvw.de/blog/2019-03/sfdvw-82-tragedy-of-systemd/</loc>
+    <lastmod>2019-03-16T00:20:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sfdvw.de/blog/2019-01/sfdvw-81-35c3-immer-noch-nichts-zu-verbergen-und-hebocon/</loc>
+    <lastmod>2019-01-19T00:20:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sfdvw.de/blog/2018-12/sfdvw-80-cre-161-ccc-geschichte/</loc>
+    <lastmod>2018-12-15T00:20:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sfdvw.de/blog/2018-07/sfdvw-79-r.i.p.-gametrack-2/</loc>
+    <lastmod>2018-07-21T00:20:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sfdvw.de/blog/2018-06/sfdvw-78-tmks-lieblingsmusik-3/</loc>
+    <lastmod>2018-06-16T00:20:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sfdvw.de/tags/35c3/</loc>
+    <lastmod>2019-01-19T00:20:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sfdvw.github.io/categories/</loc>
+    <loc>https://sfdvw.de/blog/</loc>
+    <lastmod>2019-09-21T19:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sfdvw.github.io/tags/cats/</loc>
-    <lastmod>2019-09-01T20:00:00+00:00</lastmod>
+    <loc>https://sfdvw.de/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sfdvw.github.io/tags/corax/</loc>
-    <lastmod>2019-09-21T20:00:00+00:00</lastmod>
+    <loc>https://sfdvw.de/tags/cats/</loc>
+    <lastmod>2019-09-21T19:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sfdvw.github.io/tags/first/</loc>
-    <lastmod>2019-09-01T20:00:00+00:00</lastmod>
+    <loc>https://sfdvw.de/tags/ccc/</loc>
+    <lastmod>2018-12-15T00:20:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sfdvw.github.io/tags/live/</loc>
-    <lastmod>2019-09-21T20:00:00+00:00</lastmod>
+    <loc>https://sfdvw.de/tags/cre/</loc>
+    <lastmod>2018-12-15T00:20:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sfdvw.github.io/series/post/</loc>
-    <lastmod>2019-09-01T20:00:00+00:00</lastmod>
+    <loc>https://sfdvw.de/tags/ebk/</loc>
+    <lastmod>2019-08-17T00:20:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sfdvw.github.io/categories/sci/</loc>
-    <lastmod>2019-09-01T20:00:00+00:00</lastmod>
+    <loc>https://sfdvw.de/tags/first/</loc>
+    <lastmod>2019-09-21T19:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sfdvw.github.io/categories/sendebeitrag/</loc>
-    <lastmod>2019-09-21T20:00:00+00:00</lastmod>
+    <loc>https://sfdvw.de/tags/gametrack/</loc>
+    <lastmod>2018-07-21T00:20:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sfdvw.github.io/</loc>
-    <lastmod>2019-09-21T20:00:00+00:00</lastmod>
+    <loc>https://sfdvw.de/tags/hebocon/</loc>
+    <lastmod>2019-01-19T00:20:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sfdvw.github.io/series/</loc>
-    <lastmod>2019-09-01T20:00:00+00:00</lastmod>
+    <loc>https://sfdvw.de/tags/jugend/</loc>
+    <lastmod>2019-08-17T00:20:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sfdvw.github.io/tags/sfdvw/</loc>
-    <lastmod>2019-09-21T20:00:00+00:00</lastmod>
+    <loc>https://sfdvw.de/tags/junghacker/</loc>
+    <lastmod>2019-08-17T00:20:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sfdvw.github.io/series/sfdvw/</loc>
-    <lastmod>2019-09-21T20:00:00+00:00</lastmod>
+    <loc>https://sfdvw.de/tags/linux/</loc>
+    <lastmod>2019-03-16T00:20:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sfdvw.github.io/tags/space/</loc>
-    <lastmod>2019-09-01T20:00:00+00:00</lastmod>
+    <loc>https://sfdvw.de/tags/musik/</loc>
+    <lastmod>2018-06-16T00:20:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sfdvw.github.io/tags/</loc>
-    <lastmod>2019-09-01T20:00:00+00:00</lastmod>
+    <loc>https://sfdvw.de/series/post/</loc>
+    <lastmod>2019-09-21T19:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sfdvw.de/tags/rip/</loc>
+    <lastmod>2018-07-21T00:20:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sfdvw.de/categories/sci/</loc>
+    <lastmod>2019-09-21T19:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sfdvw.de/categories/sendebeitrag/</loc>
+    <lastmod>2019-09-21T00:20:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sfdvw.de/</loc>
+    <lastmod>2019-09-21T19:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sfdvw.de/series/</loc>
+    <lastmod>2019-09-21T19:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sfdvw.de/series/sfdvw/</loc>
+    <lastmod>2019-09-21T00:20:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sfdvw.de/tags/shutup10/</loc>
+    <lastmod>2019-09-21T00:20:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sfdvw.de/tags/space/</loc>
+    <lastmod>2019-09-21T19:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sfdvw.de/tags/systemd/</loc>
+    <lastmod>2019-03-16T00:20:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sfdvw.de/tags/</loc>
+    <lastmod>2019-01-19T00:20:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sfdvw.de/tags/win10/</loc>
+    <lastmod>2019-09-21T00:20:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sfdvw.de/tags/windows/</loc>
+    <lastmod>2019-09-21T00:20:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
