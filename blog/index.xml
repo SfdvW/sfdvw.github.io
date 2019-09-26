@@ -27,23 +27,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Sat, 21 Sep 2019 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2019-09/sfdvw-84-win10-privat/</guid>
-      <description>Sendungetermin: 21.09.2019
-Mit dabei: tmk, nilo, markus, jotilux
-Corax-ID_Informatik_Jingle_schnell.MP3y
-1. Anmod
-2. Online-Konto oder lokales Konto
-3. One-Note, Office, App-Bloat
-4. Datenschutz-Einstellungen, Update Nutzungszeit
-4.1 Windows 10 Spy-Funktionen abschalten https://www.youtube.com/watch?v=J8J1UGEloGo
-5. Ordneroptionen Dateiendungen anzeigen, Defender oder 3rd Party Defender-Einstellungen
-6. Windows 10 zum Schweigen bringen! / Shut Up 10 https://www.oo-software.com/de/shutup10 7. ShutUp10 1 Wiederherstellungspunkt und Einstellungen
-8. ShutUp10 2 Abwägung Einstellungen Desktop- oder Mobilgerät
-10. ITZ MLU Win 10 Privacy, Link: https://www.itz.uni-halle.de/win10
-11. Win 10 Major Update alles von vorne
-12. Warum ist das so aufwendig/ Win 10 genießen
-Kommende Veranstaltungen:
-Sonntag 22.09.2019 Datenspuren Dresden
-Samstag 28.09.2019 Junghackertag Eigenbaukombinat Halle e.V.</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw84.json&#39;);  </description>
     </item>
     
     <item>
