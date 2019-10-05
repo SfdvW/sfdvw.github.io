@@ -103,7 +103,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Sat, 17 Mar 2018 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2018-03/sfdvw-77-radio-garden-von-bernd-und-lars/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw77.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw77.json&#39;);  </description>
     </item>
     
     <item>
@@ -112,7 +113,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Sat, 17 Feb 2018 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2018-02/sfdvw-76-klinke-live-todo/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw76.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw76.json&#39;);  </description>
     </item>
     
     <item>
@@ -121,7 +123,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Sat, 20 Jan 2018 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2018-01/sfdvw-75-mit-code-die-welt-verbessern/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw75.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw75.json&#39;);  </description>
     </item>
     
     <item>
@@ -130,7 +133,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Sat, 16 Dec 2017 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2017-12/sfdvw-74-einf%C3%BChrung-in-die-blockchain/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw74.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw74.json&#39;);  </description>
     </item>
     
     <item>
@@ -139,7 +143,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Sat, 21 Oct 2017 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2017-10/sfdvw-73-do-you-know-squarepusher-paulstretch/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw73.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw73.json&#39;);  </description>
     </item>
     
     <item>
@@ -148,7 +153,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Sat, 15 Jul 2017 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2017-07/sfdvw-72-r.i.p.-gametrack/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw72.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw72.json&#39;);  </description>
     </item>
     
     <item>
@@ -157,7 +163,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Sat, 15 Apr 2017 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2017-04/sfdvw-71-ebk-junghacker/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw71.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw71.json&#39;);  </description>
     </item>
     
     <item>
@@ -166,7 +173,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Sat, 18 Mar 2017 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2017-03/sfdvw-70-frank-rieger-im-nsa-untersuchungsausschuss/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw70.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw70.json&#39;);  </description>
     </item>
     
     <item>
@@ -175,7 +183,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Sat, 18 Feb 2017 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2017-02/sfdvw-69-computermuseum-halle/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw69.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw69.json&#39;);  </description>
     </item>
     
     <item>
@@ -184,7 +193,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Sat, 21 Jan 2017 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2017-01/sfdvw-68-kongressfieber/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw68.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw68.json&#39;);  </description>
     </item>
     
     <item>
@@ -193,7 +203,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Sat, 17 Dec 2016 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2016-12/sfdvw-67-industrie%C3%A4sthetik/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw67.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw67.json&#39;);  </description>
     </item>
     
     <item>
@@ -202,7 +213,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Sat, 19 Nov 2016 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2016-11/sfdvw-66-amateurfunk/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw66.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw66.json&#39;);  </description>
     </item>
     
     <item>
@@ -211,7 +223,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Sat, 15 Oct 2016 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2016-10/sfdvw-65-radio-revolten/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw65.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw65.json&#39;);  </description>
     </item>
     
     <item>
@@ -220,7 +233,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Sat, 17 Sep 2016 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2016-09/sfdvw-64-el-grande-nada-live/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw64.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw64.json&#39;);  </description>
     </item>
     
     <item>
@@ -229,7 +243,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Sat, 16 Jul 2016 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2016-07/sfdvw-63-tmks-lieblingsmusik-2/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw63.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw63.json&#39;);  </description>
     </item>
     
     <item>
@@ -238,7 +253,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Sat, 21 May 2016 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2016-05/sfdvw-62-wireless-community-weekend-2016-ffharz-tvwhitespace/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw62.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw62.json&#39;);  </description>
     </item>
     
     <item>
@@ -247,7 +263,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Sat, 23 Jan 2016 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2016-01/sfdvw-61-freifunk-halle/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw61.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw61.json&#39;);  </description>
     </item>
     
     <item>
@@ -256,7 +273,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Sat, 31 Oct 2015 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2015-10/sfdvw-60-pommes-weltreisen-teil-1/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw60.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw60.json&#39;);  </description>
     </item>
     
     <item>
@@ -265,7 +283,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Sat, 05 Sep 2015 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2015-09/sfdvw-59-alexander-gerst-6-monate-leben-und-arbeiten-auf-der-iss-re-publica-2015/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw59.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw59.json&#39;);  </description>
     </item>
     
     <item>
@@ -274,7 +293,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Sat, 16 May 2015 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2015-05/sfdvw-58-frank-riegers-vorschlag-re-publica-2015/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw58.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw58.json&#39;);  </description>
     </item>
     
     <item>
@@ -283,7 +303,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Sat, 24 Jan 2015 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2015-01/sfdvw-57-cre203-freifunk-statt-angst/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw57.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw57.json&#39;);  </description>
     </item>
     
     <item>
@@ -292,7 +313,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Sat, 01 Nov 2014 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2014-11/sfdvw-56-alternativlos-32-%C3%BCber-den-kalten-krieg-damals-und-heute/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw56.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw56.json&#39;);  </description>
     </item>
     
     <item>
@@ -301,7 +323,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Sat, 12 Jul 2014 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2014-07/sfdvw-55-alexander-gerst-auf-der-iss/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw55.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw55.json&#39;);  </description>
     </item>
     
     <item>
@@ -310,7 +333,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Sat, 14 Jun 2014 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2014-06/sfdvw-54-technikfolgenabsch%C3%A4tzung/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw54.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw54.json&#39;);  </description>
     </item>
     
     <item>
@@ -319,7 +343,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Sat, 17 May 2014 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2014-05/sfdvw-53-kulturprodukt-2014-und-bsd-mit-sthag-und-jay/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw53.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw53.json&#39;);  </description>
     </item>
     
     <item>
@@ -328,7 +353,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Sat, 19 Apr 2014 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2014-04/sfdvw-52-alpha-forum-mit-constanze-kurz/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw52.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw52.json&#39;);  </description>
     </item>
     
     <item>
@@ -337,7 +363,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Sat, 13 Jul 2013 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2013-07/sfdvw-51-guru-meditation/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw51.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw51.json&#39;);  </description>
     </item>
     
     <item>
@@ -346,7 +373,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Sat, 20 Apr 2013 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2013-04/sfdvw-50-omri-lahav-remixed/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw50.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw50.json&#39;);  </description>
     </item>
     
     <item>
@@ -355,7 +383,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Sat, 23 Mar 2013 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2013-03/sfdvw-49-big-picture-science-we-heart-robots/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw49.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw49.json&#39;);  </description>
     </item>
     
     <item>
@@ -364,7 +393,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Sat, 26 Jan 2013 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2013-01/sfdvw-48-tmks-lieblingsmusik/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw48.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw48.json&#39;);  </description>
     </item>
     
     <item>
@@ -373,7 +403,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Sat, 29 Dec 2012 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2012-12/sfdvw-47-29c3-jacob-applebaum/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw47.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw47.json&#39;);  </description>
     </item>
     
     <item>
@@ -382,7 +413,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Sat, 06 Oct 2012 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2012-10/sfdvw-46-radio-wauland-wdr/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw46.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw46.json&#39;);  </description>
     </item>
     
     <item>
@@ -391,7 +423,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Sat, 08 Sep 2012 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2012-09/sfdvw-45-keygen-musik/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw45.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw45.json&#39;);  </description>
     </item>
     
     <item>
@@ -400,7 +433,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Sat, 19 May 2012 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2012-05/sfdvw-44-wireless-weekend-2012/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw44.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw44.json&#39;);  </description>
     </item>
     
     <item>
@@ -409,7 +443,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Sat, 21 Apr 2012 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2012-04/sfdvw-43-v%C3%B6gel/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw43.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw43.json&#39;);  </description>
     </item>
     
     <item>
@@ -418,7 +453,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Sat, 24 Mar 2012 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2012-03/sfdvw-42-gametrack-machinarium/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw42.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw42.json&#39;);  </description>
     </item>
     
     <item>
@@ -427,7 +463,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Sat, 25 Feb 2012 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2012-02/sfdvw-41-wikipedia-run-mit-jay/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw41.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw41.json&#39;);  </description>
     </item>
     
     <item>
@@ -436,7 +473,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Sat, 28 Jan 2012 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2012-01/sfdvw-40-cx-jingles-mit-jay-b/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw40.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw40.json&#39;);  </description>
     </item>
     
     <item>
@@ -445,7 +483,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Sat, 31 Dec 2011 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2011-12/sfdvw-39-lan/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw39.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw39.json&#39;);  </description>
     </item>
     
     <item>
@@ -454,7 +493,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Sat, 03 Dec 2011 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2011-12/sfdvw-38-korg-meets-minecraft-feat-jay-und-jay/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw38.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw38.json&#39;);  </description>
     </item>
     
     <item>
@@ -463,7 +503,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Sat, 05 Nov 2011 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2011-11/sfdvw-37-buchla-700/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw37.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw37.json&#39;);  </description>
     </item>
     
     <item>
@@ -472,7 +513,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Sat, 08 Oct 2011 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2011-10/sfdvw-36-dradiowissen-netzreporter-piraten-in-berlin/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw36.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw36.json&#39;);  </description>
     </item>
     
     <item>
@@ -481,7 +523,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Sat, 10 Sep 2011 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2011-09/sfdvw-35-gpn11-1378km-inkl-jingle-am-anfang/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw35.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw35.json&#39;);  </description>
     </item>
     
     <item>
@@ -490,7 +533,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Sat, 13 Aug 2011 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2011-08/sfdvw-34-dradiowissen-netzreporter-urheberrecht/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw34.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw34.json&#39;);  </description>
     </item>
     
     <item>
@@ -499,7 +543,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Sat, 16 Jul 2011 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2011-07/sfdvw-33-ct-online-talk-auf-dradiowissen-ipv6/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw33.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw33.json&#39;);  </description>
     </item>
     
     <item>
@@ -508,7 +553,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Sat, 18 Jun 2011 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2011-06/sfdvw-32-ct-online-talk-auf-dradiowissen-hacktivismus/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw32.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw32.json&#39;);  </description>
     </item>
     
     <item>
@@ -517,7 +563,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Sat, 26 Mar 2011 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2011-03/sfdvw-31-hans-peter-duerr/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw31.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw31.json&#39;);  </description>
     </item>
     
     <item>
@@ -526,7 +573,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Sat, 29 Jan 2011 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2011-01/sfdvw-30-nam-june-paik/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw30.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw30.json&#39;);  </description>
     </item>
     
     <item>
@@ -535,7 +583,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Sat, 01 Jan 2011 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2011-01/sfdvw-29-knowledge-box/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw29.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw29.json&#39;);  </description>
     </item>
     
     <item>
@@ -544,7 +593,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Sat, 11 Sep 2010 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2010-09/sfdvw-28-radio-chaotica-auf-querfunk-gulaschprogrammiernacht8/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw28.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw28.json&#39;);  </description>
     </item>
     
     <item>
@@ -553,7 +603,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Sat, 14 Aug 2010 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2010-08/sfdvw-27-radio-tux-sommersendung/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw27.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw27.json&#39;);  </description>
     </item>
     
     <item>
@@ -562,7 +613,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Sat, 17 Jul 2010 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2010-07/sfdvw-26-rechnerfiepen/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw26.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw26.json&#39;);  </description>
     </item>
     
     <item>
@@ -571,7 +623,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Sat, 19 Jun 2010 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2010-06/sfdvw-25-freifunk-stand-der-dinge-wcw2010-wbotm3-fossasia-gsoc/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw25.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw25.json&#39;);  </description>
     </item>
     
     <item>
@@ -580,7 +633,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Sat, 24 Apr 2010 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2010-04/sfdvw-24-zusammenfassung-ohne-inhalt-mit-yht/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw24.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw24.json&#39;);  </description>
     </item>
     
     <item>
@@ -589,7 +643,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Sat, 27 Mar 2010 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2010-03/sfdvw-23-gro%C3%9Fvater-gerhard/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw23.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw23.json&#39;);  </description>
     </item>
     
     <item>
@@ -598,7 +653,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Sat, 27 Feb 2010 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2010-02/sfdvw-22-memtest/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw22.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw22.json&#39;);  </description>
     </item>
     
     <item>
@@ -607,7 +663,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Sat, 30 Jan 2010 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2010-01/sfdvw-21-cop15-26c3-heizwerk/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw21.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw21.json&#39;);  </description>
     </item>
     
     <item>
@@ -616,7 +673,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Sat, 02 Jan 2010 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2010-01/sfdvw-20-lan-party/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw20.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw20.json&#39;);  </description>
     </item>
     
     <item>
@@ -625,7 +683,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Sat, 05 Dec 2009 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2009-12/sfdvw-19-soziale-netzwerke-im-internet/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw19.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw19.json&#39;);  </description>
     </item>
     
     <item>
@@ -634,7 +693,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Sat, 10 Oct 2009 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2009-10/sfdvw-18-1-freiheit-statt-angst/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw18-1.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw18-1.json&#39;);  </description>
     </item>
     
     <item>
@@ -643,7 +703,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Sat, 10 Oct 2009 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2009-10/sfdvw-18-2-altes-heizwerk-community-media-center-in-halle/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw18-2.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw18-2.json&#39;);  </description>
     </item>
     
     <item>
@@ -652,7 +713,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Sat, 15 Aug 2009 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2009-08/sfdvw-17-sommersendung/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw17.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw17.json&#39;);  </description>
     </item>
     
     <item>
@@ -661,7 +723,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Sat, 20 Jun 2009 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2009-06/sfdvw-16-zensursula-und-internet-in-afrika-teil-2/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw16.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw16.json&#39;);  </description>
     </item>
     
     <item>
@@ -670,7 +733,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Wed, 29 Apr 2009 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2009-04/sfdvw-14-internet-in-afrika-teil-1-olpc/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw14.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw14.json&#39;);  </description>
     </item>
     
     <item>
@@ -679,7 +743,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Wed, 25 Mar 2009 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2009-03/sfdvw-13-2.0-hacken-freiheit-anarchie-eine-suche-nach-schnittstellen/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw13-2.0.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw13-2.0.json&#39;);  </description>
     </item>
     
     <item>
@@ -688,7 +753,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Wed, 25 Feb 2009 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2009-02/sfdvw-12-gamboy-musik/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw12.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw12.json&#39;);  </description>
     </item>
     
     <item>
@@ -697,7 +763,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Wed, 28 Jan 2009 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2009-01/sfdvw-11-ip-adressen/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw11.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw11.json&#39;);  </description>
     </item>
     
     <item>
@@ -706,7 +773,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Wed, 26 Nov 2008 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2008-11/sfdvw-10-chaos-communication-congress/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw10.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw10.json&#39;);  </description>
     </item>
     
     <item>
@@ -715,7 +783,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Wed, 29 Oct 2008 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2008-10/sfdvw-09-krude-websites/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw09.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw09.json&#39;);  </description>
     </item>
     
     <item>
@@ -724,7 +793,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Wed, 24 Sep 2008 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2008-09/sfdvw-08-betriebssysteme/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw08.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw08.json&#39;);  </description>
     </item>
     
     <item>
@@ -733,7 +803,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Wed, 30 Jul 2008 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2008-07/sfdvw-07-terminal-21-im-ferienkommunismus/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw07.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw07.json&#39;);  </description>
     </item>
     
     <item>
@@ -742,7 +813,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Wed, 28 May 2008 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2008-05/sfdvw-06-freifunk/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw06.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw06.json&#39;);  </description>
     </item>
     
     <item>
@@ -751,7 +823,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Wed, 30 Apr 2008 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2008-04/sfdvw-05-principia-discordia/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw05.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw05.json&#39;);  </description>
     </item>
     
     <item>
@@ -760,7 +833,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Wed, 26 Mar 2008 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2008-03/sfdvw-04-taz-stallman-interview-und-chaosradio-pfandhacking/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw04.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw04.json&#39;);  </description>
     </item>
     
     <item>
@@ -769,7 +843,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Wed, 05 Mar 2008 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2008-03/sfdvw-03-richard-stallman-ueber-gnu/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw03.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw03.json&#39;);  </description>
     </item>
     
     <item>
@@ -778,7 +853,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Wed, 06 Feb 2008 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2008-02/sfdvw-02-ff-info-und-chaosradio-getting-things-done/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw02.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw02.json&#39;);  </description>
     </item>
     
     <item>
@@ -787,7 +863,8 @@ Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer k
       <pubDate>Wed, 23 Jan 2008 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2008-01/sfdvw-01-hacker1nnen/</guid>
-      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw01.json&amp;rsquo;);</description>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw01.json&#39;);  </description>
     </item>
     
   </channel>
