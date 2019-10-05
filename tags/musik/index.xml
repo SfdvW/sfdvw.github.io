@@ -17,7 +17,9 @@
       <pubDate>Sat, 16 Jun 2018 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2018-06/sfdvw-78-tmks-lieblingsmusik-3/</guid>
-      <description>Mit dabei: tmk</description>
+      <description>Mit dabei: tmk
+ 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw78.json&#39;);  </description>
     </item>
     
   </channel>

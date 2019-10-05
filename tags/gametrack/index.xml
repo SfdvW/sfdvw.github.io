@@ -17,7 +17,9 @@
       <pubDate>Sat, 21 Jul 2018 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2018-07/sfdvw-79-r.i.p.-gametrack-2/</guid>
-      <description>Mit dabei: tmk</description>
+      <description>Mit dabei: tmk
+ 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw79.json&#39;);  </description>
     </item>
     
   </channel>

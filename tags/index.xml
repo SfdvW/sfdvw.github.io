@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Sendung für die vernetzte Welt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Sat, 19 Jan 2019 00:20:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 17 Feb 2018 00:20:00 +0200</lastBuildDate>
     
 	<atom:link href="https://sfdvw.de/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://sfdvw.de/tags/</link>
+      <pubDate>Sat, 17 Feb 2018 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/tags/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>35c3</title>
@@ -116,6 +125,15 @@
       <pubDate>Sat, 16 Jun 2018 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/tags/musik/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radio.garden</title>
+      <link>https://sfdvw.de/tags/radio.garden/</link>
+      <pubDate>Sat, 17 Mar 2018 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/tags/radio.garden/</guid>
       <description></description>
     </item>
     

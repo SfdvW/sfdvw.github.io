@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Radio.garden on Sendung für die vernetzte Welt</title>
+    <link>https://sfdvw.de/tags/radio.garden/</link>
+    <description>Recent content in Radio.garden on Sendung für die vernetzte Welt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <lastBuildDate>Sat, 17 Mar 2018 00:20:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://sfdvw.de/tags/radio.garden/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SfdvW - 77 - Radio Garden von Bernd und Lars</title>
+      <link>https://sfdvw.de/blog/2018-03/sfdvw-77-radio-garden-von-bernd-und-lars/</link>
+      <pubDate>Sat, 17 Mar 2018 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/blog/2018-03/sfdvw-77-radio-garden-von-bernd-und-lars/</guid>
+      <description>podlovePlayer(&amp;lsquo;#example&amp;rsquo;, &amp;lsquo;/blog/sfdvw77.json&amp;rsquo;);</description>
+    </item>
+    
+  </channel>
+</rss>

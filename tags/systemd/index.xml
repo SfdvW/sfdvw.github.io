@@ -17,7 +17,9 @@
       <pubDate>Sat, 16 Mar 2019 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2019-03/sfdvw-82-tragedy-of-systemd/</guid>
-      <description>Mit dabei: tmk, marcus, simon, tim</description>
+      <description>Mit dabei: tmk, marcus, simon, tim
+ 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw82.json&#39;);  </description>
     </item>
     
   </channel>

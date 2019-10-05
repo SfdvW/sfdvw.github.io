@@ -17,7 +17,9 @@
       <pubDate>Sat, 15 Dec 2018 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2018-12/sfdvw-80-cre-161-ccc-geschichte/</guid>
-      <description>Mit dabei: tmk</description>
+      <description>Mit dabei: tmk
+ 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw80.json&#39;);  </description>
     </item>
     
   </channel>
