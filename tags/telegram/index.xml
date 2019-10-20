@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Telegram on Sendung für die vernetzte Welt</title>
+    <link>https://sfdvw.de/tags/telegram/</link>
+    <description>Recent content in Telegram on Sendung für die vernetzte Welt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <lastBuildDate>Sat, 19 Oct 2019 00:20:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://sfdvw.de/tags/telegram/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SfdvW - 85 - mobile Messenger</title>
+      <link>https://sfdvw.de/blog/2019-10/sfdvw-85-mobile-messenger/</link>
+      <pubDate>Sat, 19 Oct 2019 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/blog/2019-10/sfdvw-85-mobile-messenger/</guid>
+      <description>podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw85.json&#39;);  Feedback zur Sendung? Schreibe uns ein Kommentar
+SfdvW2019-10-19(85)_mobile_Messenger Sendungstermin 19.10.2019 20-21Uhr mit dabei: tmk, nilo, Wolfgang, markus
+Worum geht es Heute  Thema mobile messenger: &amp;ldquo;Die Liste von Kommunikationsprogrammen resp. Diensten ist lang. Eine Auswahl schwierig. Meist wird daher der Dienst zur eigenen Gewohnheit übernommen, welcher auch das persönliche Umfeld am häufigsten benutzt. Die Unterschiede sind jedoch gross, so dass sich eine genauere Betrachtung lohnt.&amp;rdquo; - digitale-gesellschaft.ch 2016-11-07 Überblick Wikipedia: https://de.wikipedia.org/wiki/Liste_von_mobilen_Instant-Messengern Überblick digitale Gesellschaft: https://www.digitale-gesellschaft.ch/2016/11/07/whatsapp-e-mail-sms-co-auf-sicherheit-und-nachhaltigkeit-bewertet-produktvergleich/ Funktionen die ein mobile messenger haben kann  Textnachrichten, Sprachnachrichten, Bildnachrichten, Gruppenchat, Asynchrone Kommunikation (Nachricht wird bei Status Offline zwischengespeichert)   &amp;ldquo;früher&amp;rdquo;  pager (quix, telmi, scall, skyper)  Funkmeldeempfänger und Pager Computer:Club2 https://www.youtube.com/watch?v=7N-CxZXpV_8  sms / stille sms https://de.wikipedia.org/wiki/Stille_SMS  wie verbreitet ist es  Persönliche Erfahrung: Was nutzen/haben wir genutzt?
+ Riot (Matrix)  https://en.wikipedia.org/wiki/Matrix_(communication_protocol)  Whatsapp  am weiten verbreitetestr Ende zu Ende verschlüsselter Messanger  Verschlüsselung von Signal &amp;ldquo;eingekauft&amp;rdquo;   Signal  https://signal.org/blog/signal-foundation/ benötigt eine Telefonnummer  Threema  Bosch und Schweizer Bundesbehörden nutzen es closed Source  Telegram  open Source Client, Server closed Source Selbstentwickelte Verschlüsselung MTProto-Protokoll  XMPP/Jabber  Selbst hosten, kompliziert aber Grundlage vieler anderer messagnger (facebook) Androidclient  Chiffry (https://www.</description>
+    </item>
+    
+  </channel>
+</rss>

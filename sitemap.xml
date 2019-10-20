@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://sfdvw.de/blog/2019-10/sfdvw-85-mobile-messenger/</loc>
+    <lastmod>2019-10-19T00:20:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sfdvw.de/about/</loc>
     <lastmod>2019-09-22T20:50:18+02:00</lastmod>
   </url>
@@ -446,7 +451,13 @@
   
   <url>
     <loc>https://sfdvw.de/blog/</loc>
-    <lastmod>2019-09-21T19:00:00+00:00</lastmod>
+    <lastmod>2019-10-19T00:20:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sfdvw.de/tags/briar/</loc>
+    <lastmod>2019-10-19T00:20:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -468,8 +479,20 @@
   </url>
   
   <url>
+    <loc>https://sfdvw.de/tags/chiffry/</loc>
+    <lastmod>2019-10-19T00:20:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://sfdvw.de/tags/cre/</loc>
     <lastmod>2018-12-15T00:20:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sfdvw.de/tags/discord/</loc>
+    <lastmod>2019-10-19T00:20:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -516,6 +539,18 @@
   </url>
   
   <url>
+    <loc>https://sfdvw.de/tags/messenger/</loc>
+    <lastmod>2019-10-19T00:20:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sfdvw.de/tags/moblie/</loc>
+    <lastmod>2019-10-19T00:20:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://sfdvw.de/tags/musik/</loc>
     <lastmod>2018-06-16T00:20:00+02:00</lastmod>
     <priority>0</priority>
@@ -534,6 +569,12 @@
   </url>
   
   <url>
+    <loc>https://sfdvw.de/tags/riot/</loc>
+    <lastmod>2019-10-19T00:20:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://sfdvw.de/tags/rip/</loc>
     <lastmod>2018-07-21T00:20:00+02:00</lastmod>
     <priority>0</priority>
@@ -547,13 +588,13 @@
   
   <url>
     <loc>https://sfdvw.de/categories/sendebeitrag/</loc>
-    <lastmod>2019-09-21T00:20:00+02:00</lastmod>
+    <lastmod>2019-10-19T00:20:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sfdvw.de/</loc>
-    <lastmod>2019-09-21T19:00:00+00:00</lastmod>
+    <lastmod>2019-10-19T00:20:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -565,13 +606,25 @@
   
   <url>
     <loc>https://sfdvw.de/series/sfdvw/</loc>
-    <lastmod>2019-09-21T00:20:00+02:00</lastmod>
+    <lastmod>2019-10-19T00:20:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sfdvw.de/tags/shutup10/</loc>
     <lastmod>2019-09-21T00:20:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sfdvw.de/tags/signal/</loc>
+    <lastmod>2019-10-19T00:20:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sfdvw.de/tags/slack/</loc>
+    <lastmod>2019-10-19T00:20:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -594,6 +647,30 @@
   </url>
   
   <url>
+    <loc>https://sfdvw.de/tags/telegram/</loc>
+    <lastmod>2019-10-19T00:20:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sfdvw.de/tags/threema/</loc>
+    <lastmod>2019-10-19T00:20:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sfdvw.de/tags/twitter/</loc>
+    <lastmod>2019-10-19T00:20:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sfdvw.de/tags/whatsapp/</loc>
+    <lastmod>2019-10-19T00:20:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://sfdvw.de/tags/win10/</loc>
     <lastmod>2019-09-21T00:20:00+02:00</lastmod>
     <priority>0</priority>
@@ -602,6 +679,12 @@
   <url>
     <loc>https://sfdvw.de/tags/windows/</loc>
     <lastmod>2019-09-21T00:20:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sfdvw.de/tags/xmpp/jabber/</loc>
+    <lastmod>2019-10-19T00:20:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   

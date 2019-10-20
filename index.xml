@@ -21,12 +21,242 @@
     </itunes:category>
     
     <item>
+      <title>SfdvW - 85 - mobile Messenger</title>
+      <link>https://sfdvw.de/blog/2019-10/sfdvw-85-mobile-messenger/</link>
+      <pubDate>Sat, 19 Oct 2019 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/blog/2019-10/sfdvw-85-mobile-messenger/</guid>
+      <description>
+
+&lt;p&gt;&lt;div id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;script&gt;
+  podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw85.json&#39;);
+&lt;/script&gt;
+
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;sfdvw-2019-10-19-85-mobile-messenger&#34;&gt;SfdvW&lt;em&gt;2019-10-19&lt;/em&gt;(85)_mobile_Messenger&lt;/h3&gt;
+
+&lt;p&gt;Sendungstermin 19.10.2019 20-21Uhr
+mit dabei: tmk, nilo, Wolfgang, markus&lt;/p&gt;
+
+&lt;h4 id=&#34;worum-geht-es-heute&#34;&gt;Worum geht es Heute&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Thema mobile messenger: &amp;ldquo;Die Liste von Kommunikationsprogrammen resp. Diensten ist lang. Eine Auswahl schwierig. Meist wird daher der Dienst zur &lt;strong&gt;eigenen Gewohnheit&lt;/strong&gt; übernommen, welcher auch das &lt;strong&gt;persönliche Umfeld&lt;/strong&gt; am häufigsten benutzt. Die Unterschiede sind jedoch gross, so dass sich eine genauere Betrachtung lohnt.&amp;rdquo; - digitale-gesellschaft.ch 2016-11-07&lt;/li&gt;
+&lt;li&gt;Überblick Wikipedia: &lt;a href=&#34;https://de.wikipedia.org/wiki/Liste_von_mobilen_Instant-Messengern&#34;&gt;https://de.wikipedia.org/wiki/Liste_von_mobilen_Instant-Messengern&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Überblick digitale Gesellschaft: &lt;a href=&#34;https://www.digitale-gesellschaft.ch/2016/11/07/whatsapp-e-mail-sms-co-auf-sicherheit-und-nachhaltigkeit-bewertet-produktvergleich/&#34;&gt;https://www.digitale-gesellschaft.ch/2016/11/07/whatsapp-e-mail-sms-co-auf-sicherheit-und-nachhaltigkeit-bewertet-produktvergleich/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Funktionen die ein mobile messenger haben kann
+
+&lt;ul&gt;
+&lt;li&gt;Textnachrichten, Sprachnachrichten, Bildnachrichten, Gruppenchat, Asynchrone Kommunikation (Nachricht wird bei Status Offline zwischengespeichert)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;früher&#34;&gt;&amp;ldquo;früher&amp;rdquo;&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;pager (&lt;a href=&#34;https://de.wikipedia.org/wiki/Quix&#34;&gt;quix&lt;/a&gt;, telmi, &lt;a href=&#34;https://de.wikipedia.org/wiki/Scall&#34;&gt;scall&lt;/a&gt;, &lt;a href=&#34;https://de.wikipedia.org/wiki/Skyper_(Pager)&#34;&gt;skyper&lt;/a&gt;)
+
+&lt;ul&gt;
+&lt;li&gt;Funkmeldeempfänger und Pager Computer:Club2  &lt;a href=&#34;https://www.youtube.com/watch?v=7N-CxZXpV_8&#34;&gt;https://www.youtube.com/watch?v=7N-CxZXpV_8&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;sms / stille sms &lt;a href=&#34;https://de.wikipedia.org/wiki/Stille_SMS&#34;&gt;https://de.wikipedia.org/wiki/Stille_SMS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;wie-verbreitet-ist-es&#34;&gt;wie verbreitet ist es&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Persönliche Erfahrung:  Was nutzen/haben wir genutzt?&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Riot (Matrix)
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Matrix_(communication_protocol&#34;&gt;https://en.wikipedia.org/wiki/Matrix_(communication_protocol&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Whatsapp
+
+&lt;ul&gt;
+&lt;li&gt;am weiten verbreitetestr Ende zu Ende verschlüsselter Messanger
+
+&lt;ul&gt;
+&lt;li&gt;Verschlüsselung von Signal &amp;ldquo;eingekauft&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Signal
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://signal.org/blog/signal-foundation/&#34;&gt;https://signal.org/blog/signal-foundation/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;benötigt eine Telefonnummer&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Threema
+
+&lt;ul&gt;
+&lt;li&gt;Bosch und Schweizer Bundesbehörden nutzen es&lt;/li&gt;
+&lt;li&gt;closed Source&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Telegram
+
+&lt;ul&gt;
+&lt;li&gt;open Source Client, Server closed Source&lt;/li&gt;
+&lt;li&gt;Selbstentwickelte Verschlüsselung &lt;a href=&#34;https://de.wikipedia.org/wiki/Telegram#cite_note-88&#34;&gt;MTProto-Protokoll&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;XMPP/Jabber
+
+&lt;ul&gt;
+&lt;li&gt;Selbst hosten, kompliziert aber Grundlage vieler anderer messagnger (facebook)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://conversations.im/&#34;&gt;Androidclient&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Chiffry (&lt;a href=&#34;https://www.chiffry.de/&#34;&gt;https://www.chiffry.de/&lt;/a&gt;)
+
+&lt;ul&gt;
+&lt;li&gt;Regional (Teutschenthal)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;briar (&lt;a href=&#34;https://briarproject.org/&#34;&gt;https://briarproject.org/&lt;/a&gt;)
+
+&lt;ul&gt;
+&lt;li&gt;serverless
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;gibt auch noch andere Tools, die für messaging benutzt werden können&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Slack, discord
+
+&lt;ul&gt;
+&lt;li&gt;closed Source&lt;/li&gt;
+&lt;li&gt;freie alternativen: rocketchat, mattermost, zulip, &amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;auch DM-Funktionen in sozialen netzwerken werden benutzt&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;twitter&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Telefonzelle_(Deutschland)&#34;&gt;Telefonzelle_(Deutschland)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Dia_(Fotografie)&#34;&gt;Dia_(Fotografie)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.heise.de/newsticker/meldung/Studie-zu-Darknet-Preisen-Daten-von-Europaeern-sind-teuer-4560072.html&#34;&gt;Heise.de - Studie zu Darknet Preisen Daten von Europaeern sind teuer&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;thema-sicherheit&#34;&gt;Thema Sicherheit&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Wer bezahlt die infrastruktur / Entwickt die Software
+
+&lt;ul&gt;
+&lt;li&gt;Wie verdienen Sie ihren unterhalt?&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Metadaten (Wer, mit wem, wann, wie oft)&lt;/li&gt;
+&lt;li&gt;welche Verschlüsselungstechnologie bzw. welches Verschlüsselungsprotokoll kommt zum Einsatz
+
+&lt;ul&gt;
+&lt;li&gt;Sollte offen kommuniziert sein und kein Geheimnis&lt;/li&gt;
+&lt;li&gt;E2E-Verschlüsselung (Client-Client)
+
+&lt;ul&gt;
+&lt;li&gt;keine, Eigententwicklung, Standardverfahren(OTR, TLS)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Client-Server-Verschlüsselung (unverschlüsselt auf dem Server, bzw. unvers. Server-Server)
+
+&lt;ul&gt;
+&lt;li&gt;keine, Eigententwicklung, Standardverfahren(&lt;a href=&#34;https://de.wikipedia.org/wiki/Off-the-Record_Messaging&#34;&gt;OTR&lt;/a&gt;, &lt;a href=&#34;https://de.wikipedia.org/wiki/Signal-Protokoll, [TLS](https://de.wikipedia.org/wiki/Transport_Layer_Security),&#34;&gt;Signal Protokoll&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Authentifizierung (kryptographische Methoden, mit denen die Echtheit einer Nachricht überprüft werden kann)&lt;/li&gt;
+&lt;li&gt;Abstreitbarkeit (siehe Wikipedia)&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Perfect Forward Secrecy (PFS, jede Nachricht wird mit einem neuen Kurzzeitschlüssel verschlüsselt, der von einem Langzeitschlüssel abgeleitet wird und innerhalb kurzer Zeit gelöscht wird -&amp;gt; Schlüsselleak für nicht zur entschlüsselung älterer Nachrichten!)&lt;/p&gt;
+
+&lt;h4 id=&#34;thema-datenschutz-und-risiken&#34;&gt;Thema Datenschutz und Risiken&lt;/h4&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Metadaten (Übertragung der Verbindungsdaten)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Übertragung der Kontakte&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;personalisierte Werbung&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Cybermobbing (Messenger sind unmoderiert, Es gibt meist keine Möglichkeit, Störer oder Belästiger zu melden. Deshalb liegen hier auch die Hemmschwellen für Belästigungen niedriger. Mobile Messenger werden häufig für Cybermobbing genutzt – den Ausschluss aus Gruppen, das Gründen von Hetz-Gruppen, das Verbreiten peinlicher Fotos und das Versenden beleidigender Nachrichten. Durch die Mobilität der Anwendungen werden so Konflikte aus dem Klassenzimmer und vom Schulhof bis nach Hause mitgenommen. Für die Opfer bedeutet das eine noch größere Belastung und Hilflosigkeit.)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Ungeeignete Inhalte (Propaganda sowie Pornografie- oder Gewaltvideos)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Wem gehören die Übertragenen Inhalte&lt;/p&gt;
+
+&lt;h4 id=&#34;self-hosted-vs-cloud-vs-serverless&#34;&gt;self hosted vs. cloud vs. serverless&lt;/h4&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;eigene-erfahrungen-und-empfehlungen&#34;&gt;eigene Erfahrungen und Empfehlungen&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Nachhaltigkeit
+
+&lt;ul&gt;
+&lt;li&gt;Offener Standard: Es wird ein offener Standard verwendet, der frei implementiert werden kann.&lt;/li&gt;
+&lt;li&gt;Open Source Software: Die Software steht im Quellcode zur Verfügung und kann von Dritten eingesehen, geändert und weiterverwendet werden.
+
+&lt;ul&gt;
+&lt;li&gt;Heißt nicht mehr Sicherheit&lt;/li&gt;
+&lt;li&gt;Wenn die Entwickler das Projekt ablegen können andere übernehmen&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Dezentrale Architektur: Die Software ist nicht von einem einzigen, zentralen Anbieter abhängig.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;extra&#34;&gt;extra&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Mobile Messenger: Nichts für Kinder? (Laut der europäischen Datenschutzgrundverordnung (DSGVO) dürfen Onlineanbieter personenbezogene Daten von Kindern unter 16 Jahren nicht ohne Einwilligung ihrer Eltern verarbeitet werden. Das gilt auch für Messenger. Installation und Anmeldung der Angebote sind also eigentlich Elternsache. In der Umsetzung wird das durch die meisten Anbieter jedoch nicht kontrolliert. Oft genügt die Eingabe des Geburtsdatums oder eine einfache Bestätigung zur Datenverarbeitung - bei Angaben können also leicht von Kindern allein gemacht werden.)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;WhatsApp-Sprachnachricht&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://netzpolitik.org/tag/messenger/&#34;&gt;https://netzpolitik.org/tag/messenger/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;non-verbale-Kommunikation aka warum gibt es die bunten bildchen eigentlich&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.stuttgarter-nachrichten.de/inhalt.emojis-in-der-forschung-wie-emojis-unsere-kommunikation-ergaenzen.61649867-1f7d-4c30-8c5f-4a6e38e00f79.html&#34;&gt;emojis in der Forschung - wie emojis unsere Kommunikation ergaenzen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.n-joy.de/multimedia/Die-Emoji-Falle,emoji672.html&#34;&gt;Die-Emoji-Falle&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://gegen-die-panik.de&#34;&gt;Sieben Regeln für mehr Social-Media-Gelassenheit&lt;/a&gt;  / &lt;a href=&#34;https://www.sueddeutsche.de/digital/nach-dem-anschlag-von-muenster-gegen-die-panik-1.3935620&#34;&gt;Artikel Süddeutsche&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;veranstaltungshinweise&#34;&gt;Veranstaltungshinweise&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Chaos Communication Congress auch diese Jahr wieder in Leipzig
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ccc.de/en/updates/2019/36c3-in-leipzig&#34;&gt;36C3: Resource Exhaustion.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jugendhackt.org/events/halle/&#34;&gt;jungend hackt Halle 8.-10. November 2019&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <enclosure url="" type="audio/mpeg" length="1" />
+    </item>
+    
+    <item>
       <title>SfdvW - 84 - Win10-Privat</title>
       <link>https://sfdvw.de/blog/2019-09/sfdvw-84-win10-privat/</link>
       <pubDate>Sat, 21 Sep 2019 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2019-09/sfdvw-84-win10-privat/</guid>
-      <description>Sendung Nummer 84 Win10-Private</description>
+      <description>&lt;p&gt;&lt;div id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;script&gt;
+  podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw84.json&#39;);
+&lt;/script&gt;
+</description>
       <enclosure url="https://tmkrth.jumpingcrab.com:28828/.sfdvw/Sendung_fuer_die_vernetzte_Welt_%2884%29_2019_09_21_Windows_10_Privatsph%C3%A4re.flac" type="audio/mpeg" length="1" />
     </item>
     
@@ -36,7 +266,15 @@
       <pubDate>Sat, 17 Aug 2019 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2019-08/sfdvw-83-jugend-hackt-junghacker-ebk-tdot/</guid>
-      <description>Sendung Nummer 83 - Jugend hackt, junghacker, EBK TdoT</description>
+      <description>&lt;p&gt;Mit dabei: tmk, nilo&lt;/p&gt;
+
+&lt;p&gt;&lt;div id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;script&gt;
+  podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw83.json&#39;);
+&lt;/script&gt;
+</description>
       <enclosure url="" type="audio/mpeg" length="1" />
     </item>
     
@@ -46,7 +284,15 @@
       <pubDate>Sat, 16 Mar 2019 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2019-03/sfdvw-82-tragedy-of-systemd/</guid>
-      <description>Sendung Nummer 82 - tragedy of systemd</description>
+      <description>&lt;p&gt;Mit dabei: tmk, marcus, simon, tim&lt;/p&gt;
+
+&lt;p&gt;&lt;div id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;script&gt;
+  podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw82.json&#39;);
+&lt;/script&gt;
+</description>
       <enclosure url="https://tmkrth.jumpingcrab.com:28828/.sfdvw/Sendung_fuer_die_vernetzte_Welt_%2882%29_2019_03_16_tragedy_of_systemd.flac" type="audio/mpeg" length="1" />
     </item>
     
