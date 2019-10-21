@@ -17,9 +17,7 @@
       <pubDate>Sat, 17 Aug 2019 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2019-08/sfdvw-83-jugend-hackt-junghacker-ebk-tdot/</guid>
-      <description>Mit dabei: tmk, nilo
- 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw83.json&#39;);  </description>
+      <description>podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw83.json&#39;);  Mit dabei: tmk, nilo</description>
     </item>
     
   </channel>

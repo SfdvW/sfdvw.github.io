@@ -11,13 +11,13 @@
     <itunes:author>SfdvW</itunes:author>
     <itunes:summary>Immer am dritten Samstag des Monats, 20.00 Uhr, befasst sich die Sendung für die vernetzte Welt mit den Themenfeldern Technik und Gesellschaft, Internet und neue Medien. Die rechnerphile Redaktion versucht euch mitzunehmen auf eine Reise in die Welt der Daten und Netzwerke, der Onlinecommunities und Netz- und Softwarekunst. Radio Corax Freies Radio im Raum Halle ist zu höhren auf UKW 95.9 oder im Webplayer unter: https://radiocorax.de/wp-content/themes/Radiocorax/popup-player/popupplayer.php Ihr könnt live mitmachen 2.0: Über Jabber (tmkrth aat jabber ddot radiocorax ddot de) oder das Sendediensttelefon (Halle/4700744). Schreibt eure Fragen und Kritiken über eMail an SfdvW aat radiocorax ddot de. Funk frei!</itunes:summary>
     <itunes:owner>
-        <itunes:name>SfdvW</itunes:name>
+        <itunes:name>Sendung für die vernetzte Welt</itunes:name>
         <itunes:email></itunes:email>
     </itunes:owner>
     <itunes:explicit>No</itunes:explicit>
     <itunes:image href="https://sfdvw.de/img/profile.png"/>
-     <itunes:category text="">
-        <itunes:category text="" />
+     <itunes:category text="Podcast">
+        <itunes:category text="Podcast" />
     </itunes:category>
     
     <item>
@@ -28,7 +28,7 @@
       <guid>https://sfdvw.de/blog/2019-10/sfdvw-85-mobile-messenger/</guid>
       <description>
 
-&lt;p&gt;&lt;div id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
 &lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
 
 &lt;script&gt;
@@ -38,7 +38,7 @@
 &lt;p&gt;Feedback zur Sendung?
 &lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;sfdvw-2019-10-19-85-mobile-messenger&#34;&gt;SfdvW&lt;em&gt;2019-10-19&lt;/em&gt;(85)_mobile_Messenger&lt;/h3&gt;
+&lt;h3 id=&#34;sfdvw-85-mobile-messenger&#34;&gt;SfdvW - 85 - mobile Messenger&lt;/h3&gt;
 
 &lt;p&gt;Sendungstermin 19.10.2019 20-21Uhr
 mit dabei: tmk, nilo, Wolfgang, markus&lt;/p&gt;
@@ -47,8 +47,8 @@ mit dabei: tmk, nilo, Wolfgang, markus&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Thema mobile messenger: &amp;ldquo;Die Liste von Kommunikationsprogrammen resp. Diensten ist lang. Eine Auswahl schwierig. Meist wird daher der Dienst zur &lt;strong&gt;eigenen Gewohnheit&lt;/strong&gt; übernommen, welcher auch das &lt;strong&gt;persönliche Umfeld&lt;/strong&gt; am häufigsten benutzt. Die Unterschiede sind jedoch gross, so dass sich eine genauere Betrachtung lohnt.&amp;rdquo; - digitale-gesellschaft.ch 2016-11-07&lt;/li&gt;
-&lt;li&gt;Überblick Wikipedia: &lt;a href=&#34;https://de.wikipedia.org/wiki/Liste_von_mobilen_Instant-Messengern&#34;&gt;https://de.wikipedia.org/wiki/Liste_von_mobilen_Instant-Messengern&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Überblick digitale Gesellschaft: &lt;a href=&#34;https://www.digitale-gesellschaft.ch/2016/11/07/whatsapp-e-mail-sms-co-auf-sicherheit-und-nachhaltigkeit-bewertet-produktvergleich/&#34;&gt;https://www.digitale-gesellschaft.ch/2016/11/07/whatsapp-e-mail-sms-co-auf-sicherheit-und-nachhaltigkeit-bewertet-produktvergleich/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Liste_von_mobilen_Instant-Messengern&#34;&gt;Überblick Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.digitale-gesellschaft.ch/2016/11/07/whatsapp-e-mail-sms-co-auf-sicherheit-und-nachhaltigkeit-bewertet-produktvergleich/&#34;&gt;Überblick digitale Gesellschaft&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Funktionen die ein mobile messenger haben kann
 
 &lt;ul&gt;
@@ -62,9 +62,9 @@ mit dabei: tmk, nilo, Wolfgang, markus&lt;/p&gt;
 &lt;li&gt;pager (&lt;a href=&#34;https://de.wikipedia.org/wiki/Quix&#34;&gt;quix&lt;/a&gt;, telmi, &lt;a href=&#34;https://de.wikipedia.org/wiki/Scall&#34;&gt;scall&lt;/a&gt;, &lt;a href=&#34;https://de.wikipedia.org/wiki/Skyper_(Pager)&#34;&gt;skyper&lt;/a&gt;)
 
 &lt;ul&gt;
-&lt;li&gt;Funkmeldeempfänger und Pager Computer:Club2  &lt;a href=&#34;https://www.youtube.com/watch?v=7N-CxZXpV_8&#34;&gt;https://www.youtube.com/watch?v=7N-CxZXpV_8&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=7N-CxZXpV_8&#34;&gt;Funkmeldeempfänger und Pager Computer:Club2&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;sms / stille sms &lt;a href=&#34;https://de.wikipedia.org/wiki/Stille_SMS&#34;&gt;https://de.wikipedia.org/wiki/Stille_SMS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;sms / &lt;a href=&#34;https://de.wikipedia.org/wiki/Stille_SMS&#34;&gt;stille sms&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h4 id=&#34;wie-verbreitet-ist-es&#34;&gt;wie verbreitet ist es&lt;/h4&gt;
@@ -76,7 +76,7 @@ mit dabei: tmk, nilo, Wolfgang, markus&lt;/p&gt;
 &lt;li&gt;Riot (Matrix)
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Matrix_(communication_protocol&#34;&gt;https://en.wikipedia.org/wiki/Matrix_(communication_protocol&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Matrix_(communication_protocol)&#34;&gt;Matrix_(communication_protocol)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Whatsapp
 
@@ -90,7 +90,7 @@ mit dabei: tmk, nilo, Wolfgang, markus&lt;/p&gt;
 &lt;li&gt;Signal
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://signal.org/blog/signal-foundation/&#34;&gt;https://signal.org/blog/signal-foundation/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://signal.org/blog/signal-foundation/&#34;&gt;signal-foundation&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;benötigt eine Telefonnummer&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Threema
@@ -111,12 +111,12 @@ mit dabei: tmk, nilo, Wolfgang, markus&lt;/p&gt;
 &lt;li&gt;Selbst hosten, kompliziert aber Grundlage vieler anderer messagnger (facebook)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://conversations.im/&#34;&gt;Androidclient&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Chiffry (&lt;a href=&#34;https://www.chiffry.de/&#34;&gt;https://www.chiffry.de/&lt;/a&gt;)
+&lt;li&gt;&lt;a href=&#34;https://www.chiffry.de/&#34;&gt;Chiffry&lt;/a&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Regional (Teutschenthal)&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;briar (&lt;a href=&#34;https://briarproject.org/&#34;&gt;https://briarproject.org/&lt;/a&gt;)
+&lt;li&gt;&lt;a href=&#34;https://briarproject.org/&#34;&gt;briar&lt;/a&gt;
 
 &lt;ul&gt;
 &lt;li&gt;serverless
@@ -218,7 +218,7 @@ mit dabei: tmk, nilo, Wolfgang, markus&lt;/p&gt;
 
 &lt;li&gt;&lt;p&gt;WhatsApp-Sprachnachricht&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://netzpolitik.org/tag/messenger/&#34;&gt;https://netzpolitik.org/tag/messenger/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://netzpolitik.org/tag/messenger/&#34;&gt;Netzpolitikartikel über Messenger&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;non-verbale-Kommunikation aka warum gibt es die bunten bildchen eigentlich&lt;/p&gt;
 
@@ -241,59 +241,42 @@ mit dabei: tmk, nilo, Wolfgang, markus&lt;/p&gt;
 &lt;li&gt;&lt;a href=&#34;https://jugendhackt.org/events/halle/&#34;&gt;jungend hackt Halle 8.-10. November 2019&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <enclosure url="" type="audio/mpeg" length="1" />
+      <enclosure url="https://sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2885%29_2019_10_19_Mobile_Messenger.mp3" type="audio/mpeg" length="1" />
+      
+      
+      <psc:chapters version="1.2" xmlns:psc="http://podlove.org/simple-chapters">
+      
+                
+      </psc:chapters>
+      
     </item>
     
     <item>
-      <title>SfdvW - 84 - Win10-Privat</title>
-      <link>https://sfdvw.de/blog/2019-09/sfdvw-84-win10-privat/</link>
-      <pubDate>Sat, 21 Sep 2019 00:20:00 +0200</pubDate>
+      <title>SfdvW - 81 - 35C3 Immer noch nichts zu verbergen und Hebocon</title>
+      <link>https://sfdvw.de/blog/2019-01/sfdvw-81-35c3-immer-noch-nichts-zu-verbergen-und-hebocon/</link>
+      <pubDate>Sat, 19 Jan 2019 00:20:00 +0200</pubDate>
       
-      <guid>https://sfdvw.de/blog/2019-09/sfdvw-84-win10-privat/</guid>
-      <description>&lt;p&gt;&lt;div id=&#34;example&#34;&gt;&lt;/div&gt;
+      <guid>https://sfdvw.de/blog/2019-01/sfdvw-81-35c3-immer-noch-nichts-zu-verbergen-und-hebocon/</guid>
+      <description>&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
 &lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
 
 &lt;script&gt;
-  podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw84.json&#39;);
+  podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw81.json&#39;);
 &lt;/script&gt;
+
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Mit dabei: tmk&lt;/p&gt;
 </description>
-      <enclosure url="https://tmkrth.jumpingcrab.com:28828/.sfdvw/Sendung_fuer_die_vernetzte_Welt_%2884%29_2019_09_21_Windows_10_Privatsph%C3%A4re.flac" type="audio/mpeg" length="1" />
-    </item>
-    
-    <item>
-      <title>SfdvW - 83 - Jugend hackt, junghacker, EBK TdoT</title>
-      <link>https://sfdvw.de/blog/2019-08/sfdvw-83-jugend-hackt-junghacker-ebk-tdot/</link>
-      <pubDate>Sat, 17 Aug 2019 00:20:00 +0200</pubDate>
+      <enclosure url="https://sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2881%29_2019_01_19_35C3_Immer_noch_nichts_zu_verbergen_und_Hebocon.mp3" type="audio/mpeg" length="1" />
       
-      <guid>https://sfdvw.de/blog/2019-08/sfdvw-83-jugend-hackt-junghacker-ebk-tdot/</guid>
-      <description>&lt;p&gt;Mit dabei: tmk, nilo&lt;/p&gt;
-
-&lt;p&gt;&lt;div id=&#34;example&#34;&gt;&lt;/div&gt;
-&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;script&gt;
-  podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw83.json&#39;);
-&lt;/script&gt;
-</description>
-      <enclosure url="" type="audio/mpeg" length="1" />
-    </item>
-    
-    <item>
-      <title>SfdvW - 82 - tragedy of systemd</title>
-      <link>https://sfdvw.de/blog/2019-03/sfdvw-82-tragedy-of-systemd/</link>
-      <pubDate>Sat, 16 Mar 2019 00:20:00 +0200</pubDate>
       
-      <guid>https://sfdvw.de/blog/2019-03/sfdvw-82-tragedy-of-systemd/</guid>
-      <description>&lt;p&gt;Mit dabei: tmk, marcus, simon, tim&lt;/p&gt;
-
-&lt;p&gt;&lt;div id=&#34;example&#34;&gt;&lt;/div&gt;
-&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;script&gt;
-  podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw82.json&#39;);
-&lt;/script&gt;
-</description>
-      <enclosure url="https://tmkrth.jumpingcrab.com:28828/.sfdvw/Sendung_fuer_die_vernetzte_Welt_%2882%29_2019_03_16_tragedy_of_systemd.flac" type="audio/mpeg" length="1" />
+      <psc:chapters version="1.2" xmlns:psc="http://podlove.org/simple-chapters">
+      
+                &lt;psc:chapter start=&#34;0&#34; title=&#34;35C3&#34; /&gt;&lt;psc:chapter start=&#34;27:18&#34; title=&#34;Hebocon&#34; /&gt;
+      </psc:chapters>
+      
     </item>
     
 </channel>
