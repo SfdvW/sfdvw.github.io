@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Sendung für die vernetzte Welt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Sat, 17 Feb 2018 00:20:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 16 Nov 2019 00:20:00 +0200</lastBuildDate>
     
 	<atom:link href="https://sfdvw.de/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title></title>
       <link>https://sfdvw.de/tags/</link>
-      <pubDate>Sat, 17 Feb 2018 00:20:00 +0200</pubDate>
+      <pubDate>Sat, 16 Nov 2019 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/tags/</guid>
       <description></description>
@@ -147,6 +147,15 @@
     </item>
     
     <item>
+      <title>Linuxeinstieg</title>
+      <link>https://sfdvw.de/tags/linuxeinstieg/</link>
+      <pubDate>Sat, 16 Nov 2019 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/tags/linuxeinstieg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Messenger</title>
       <link>https://sfdvw.de/tags/messenger/</link>
       <pubDate>Sat, 19 Oct 2019 00:20:00 +0200</pubDate>
@@ -269,6 +278,15 @@
       <pubDate>Sat, 19 Oct 2019 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/tags/twitter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ubuntu</title>
+      <link>https://sfdvw.de/tags/ubuntu/</link>
+      <pubDate>Sat, 16 Nov 2019 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/tags/ubuntu/</guid>
       <description></description>
     </item>
     

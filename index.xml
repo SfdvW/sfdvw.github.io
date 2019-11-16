@@ -21,6 +21,181 @@
     </itunes:category>
     
     <item>
+      <title>SfdvW - 86 - Ubuntu-Linuxeinstieg</title>
+      <link>https://sfdvw.de/blog/2019-11/sfdvw-86-ubuntu-linuxeinstieg/</link>
+      <pubDate>Sat, 16 Nov 2019 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/blog/2019-11/sfdvw-86-ubuntu-linuxeinstieg/</guid>
+      <description>
+
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;script&gt;
+  podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw86.json&#39;);
+&lt;/script&gt;
+
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;sfdvw-86-ubuntu-linuxeinstieg&#34;&gt;SfdvW - 86 - Ubuntu-Linuxeinstieg&lt;/h3&gt;
+
+&lt;p&gt;Sendungstermin 16.11.2019 20-21Uhr
+mit dabei: tmk, nilo, Wolfgang, markus, jotilux, mantu&lt;/p&gt;
+
+&lt;h3 id=&#34;worum-geht-es-heute&#34;&gt;Worum geht es Heute&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;scheinbar alte Hardware weiter verwenden, die mit Windows 10 nicht mehr benutzbar wäre&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.heise.de/newsticker/meldung/ARD-Doku-Einsatz-von-Microsoft-Produkten-in-Behoerden-problematisch-3973448.html&#34;&gt;Das Microsoft-Dilemma heise.de&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Warum *buntu ?
+
+&lt;ul&gt;
+&lt;li&gt;ganz gut für den Einstieg&lt;/li&gt;
+&lt;li&gt;verbreitete Community&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;live installieren und Infos für danach
+
+&lt;ul&gt;
+&lt;li&gt;im &lt;a href=&#34;https://twitch.tv/sfdvw&#34;&gt;Twitch-Livestream zuschauen&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Xubuntu,Kubuntu,Lubuntu
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://wiki.ubuntuusers.de/Ubuntu/Derivate/&#34;&gt;wiki.ubuntuusers.de/Ubuntu/Derivate/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Windowmanager (I3, XFCE, KDM GNOME, Cinnamon, Mate)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;vorbereitung&#34;&gt;Vorbereitung&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Backup der Daten auf dem Gerät machen !!&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Stick vorbereiten wie geht das
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://tutorials.ubuntu.com/tutorial/try-ubuntu-before-you-install#0&#34;&gt;try-ubuntu-before-you-install&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.easy2boot.com/&#34;&gt;easy2boot.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Linux live von USB-Stick ausprobieren&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Eine mögliche Installation im &lt;a href=&#34;https://wiki.ubuntuusers.de/Dualboot/&#34;&gt;Dual Boot Betrieb&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Windows und Linux gemeinsam auf einer Festplatte&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Alternativ kann neben der vorhandenen Festplatte auch eine neue Eingabaut serden (Bootreihenfolge im BIOS)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Linux/BSD/freie OS warum?&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Liste_von_Linux-Distributionen&#34;&gt;wikipedia Liste_von_Linux-Distributionen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Update einfacher&lt;/li&gt;
+&lt;li&gt;Umstieg auf andere Distributionen sehr einfach&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Finanzierung&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Canonical&#34;&gt;wikipediavCanonical&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Support kostet Geld - Die Programme nicht&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;mal ein anderes OS/Betriebssystem ausprobieren?&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://distrowatch.org/&#34;&gt;DistroWatch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Höhrerhinweis/-frage z.B auch gern &lt;a href=&#34;https://de.wikipedia.org/wiki/Linux_Mint&#34;&gt;Linux Mint&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;ein gutes Nachschlagewerk&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://wiki.ubuntuusers.de/Startseite/&#34;&gt;wiki.ubuntuusers.de&lt;/a&gt; , &lt;a href=&#34;https://wiki.debian.org&#34;&gt;wiki.debian.org&lt;/a&gt; oder &lt;a href=&#34;https://wiki.archlinux.org/&#34;&gt;wiki.archlinux.org&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;die-installation&#34;&gt;Die Installation&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Was heißt Bionic oder Xenial?
+
+&lt;ul&gt;
+&lt;li&gt;Die Codenamen sind Tierarten mit einem vorangestellten Adjektiv
+
+&lt;ul&gt;
+&lt;li&gt;alphabetisch fortgeführt&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ubuntu.com/about/release-cycle&#34;&gt;ubuntu release-cycle&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Was heißt LTS?
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://wiki.ubuntu.com/LTS&#34;&gt;Long Term Support&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;nicht die neueste aber stabilere Software&lt;/li&gt;
+&lt;li&gt;5 Jahre updates
+
+&lt;ul&gt;
+&lt;li&gt;weitere 5 Jahre extended Support als Kunde von Cannonical&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Dateisystem und Partitionierung
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://wiki.ubuntuusers.de/Partitionierung/#Root&#34;&gt;Root-Partition&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Welches ist denn das richtige *buntu für mich?&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wiki.ubuntuusers.de/Unterschiede_zu_Windows/&#34;&gt;Unterschiede zu Windows&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Alles ist eine &amp;ldquo;Datei&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;eigene-erfahrungen-und-empfehlungen&#34;&gt;eigene Erfahrungen und Empfehlungen&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;alte Rechner: Flaschenhals HDD, Memory, 32bit
+
+&lt;ul&gt;
+&lt;li&gt;SSD macht bei Aufrüstung sinn&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wiki.ubuntuusers.de/Alte_Hardware/&#34;&gt;wiki.ubuntuusers.de/Alte_Hardware&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;lohnt es sich 32bit-Systeme nochmal zu beleben?
+
+&lt;ul&gt;
+&lt;li&gt;Es kommt auf den Einsatzzweck an&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;veranstaltungshinweise&#34;&gt;Veranstaltungshinweise&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Review Jugend Hackt Halle&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLQsLR7zBwcw1nCd-RCPdjxiLxgVysDn-n&#34;&gt;Abschlusspräsentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.flickr.com/photos/okfde/albums/72157711734951991/&#34;&gt;Fotos&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;dezentrale Leipzig 20.11.2019 mit Support aus Berline (SSDeV | Sportsfreunde der Sperrtechnik - Deutschland e.V.)&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://dezentrale.space/events/tag-der-offenen-t%C3%BCr/&#34;&gt;Schlösser öffnen mit Support aus Berlin&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <enclosure url="" type="audio/mpeg" length="1" />
+      
+      
+      <psc:chapters version="1.2" xmlns:psc="http://podlove.org/simple-chapters">
+      
+                
+      </psc:chapters>
+      
+    </item>
+    
+    <item>
       <title>SfdvW - 85 - mobile Messenger</title>
       <link>https://sfdvw.de/blog/2019-10/sfdvw-85-mobile-messenger/</link>
       <pubDate>Sat, 19 Oct 2019 00:20:00 +0200</pubDate>
