@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jacob on Sendung für die vernetzte Welt</title>
+    <link>https://sfdvw.de/tags/jacob/</link>
+    <description>Recent content in Jacob on Sendung für die vernetzte Welt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <lastBuildDate>Sat, 29 Dec 2012 00:20:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://sfdvw.de/tags/jacob/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SfdvW - 47 - 29C3 Jacob Applebaum</title>
+      <link>https://sfdvw.de/blog/2012-12/sfdvw-47-29c3-jacob-applebaum/</link>
+      <pubDate>Sat, 29 Dec 2012 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/blog/2012-12/sfdvw-47-29c3-jacob-applebaum/</guid>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw47.json&#39;);  </description>
+    </item>
+    
+  </channel>
+</rss>

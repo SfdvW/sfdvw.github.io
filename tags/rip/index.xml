@@ -22,5 +22,15 @@
  podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw79.json&#39;);  </description>
     </item>
     
+    <item>
+      <title>SfdvW - 72 - R.I.P. Gametrack</title>
+      <link>https://sfdvw.de/blog/2017-07/sfdvw-72-r.i.p.-gametrack/</link>
+      <pubDate>Sat, 15 Jul 2017 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/blog/2017-07/sfdvw-72-r.i.p.-gametrack/</guid>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw72.json&#39;);  </description>
+    </item>
+    
   </channel>
 </rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Principia on Sendung für die vernetzte Welt</title>
+    <link>https://sfdvw.de/tags/principia/</link>
+    <description>Recent content in Principia on Sendung für die vernetzte Welt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <lastBuildDate>Wed, 30 Apr 2008 00:20:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://sfdvw.de/tags/principia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SfdvW - 05 - principia discordia</title>
+      <link>https://sfdvw.de/blog/2008-04/sfdvw-05-principia-discordia/</link>
+      <pubDate>Wed, 30 Apr 2008 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/blog/2008-04/sfdvw-05-principia-discordia/</guid>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw05.json&#39;);  </description>
+    </item>
+    
+  </channel>
+</rss>

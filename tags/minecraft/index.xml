@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Minecraft on Sendung für die vernetzte Welt</title>
+    <link>https://sfdvw.de/tags/minecraft/</link>
+    <description>Recent content in Minecraft on Sendung für die vernetzte Welt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <lastBuildDate>Sat, 03 Dec 2011 00:20:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://sfdvw.de/tags/minecraft/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SfdvW - 38 - Korg meets Minecraft feat Jay und Jay</title>
+      <link>https://sfdvw.de/blog/2011-12/sfdvw-38-korg-meets-minecraft-feat-jay-und-jay/</link>
+      <pubDate>Sat, 03 Dec 2011 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/blog/2011-12/sfdvw-38-korg-meets-minecraft-feat-jay-und-jay/</guid>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw38.json&#39;);  </description>
+    </item>
+    
+  </channel>
+</rss>

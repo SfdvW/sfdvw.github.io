@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chaotica on Sendung für die vernetzte Welt</title>
+    <link>https://sfdvw.de/tags/chaotica/</link>
+    <description>Recent content in Chaotica on Sendung für die vernetzte Welt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <lastBuildDate>Sat, 11 Sep 2010 00:20:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://sfdvw.de/tags/chaotica/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SfdvW - 28 - Radio Chaotica auf Querfunk Gulaschprogrammiernacht8</title>
+      <link>https://sfdvw.de/blog/2010-09/sfdvw-28-radio-chaotica-auf-querfunk-gulaschprogrammiernacht8/</link>
+      <pubDate>Sat, 11 Sep 2010 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/blog/2010-09/sfdvw-28-radio-chaotica-auf-querfunk-gulaschprogrammiernacht8/</guid>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw28.json&#39;);  </description>
+    </item>
+    
+  </channel>
+</rss>

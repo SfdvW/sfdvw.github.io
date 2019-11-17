@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Knowledge_box on Sendung für die vernetzte Welt</title>
+    <link>https://sfdvw.de/tags/knowledge_box/</link>
+    <description>Recent content in Knowledge_box on Sendung für die vernetzte Welt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <lastBuildDate>Sat, 01 Jan 2011 00:20:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://sfdvw.de/tags/knowledge_box/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SfdvW - 29 - Knowledge Box</title>
+      <link>https://sfdvw.de/blog/2011-01/sfdvw-29-knowledge-box/</link>
+      <pubDate>Sat, 01 Jan 2011 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/blog/2011-01/sfdvw-29-knowledge-box/</guid>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw29.json&#39;);  </description>
+    </item>
+    
+  </channel>
+</rss>

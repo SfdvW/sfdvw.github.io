@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Taz Stallman Interview on Sendung für die vernetzte Welt</title>
+    <link>https://sfdvw.de/tags/taz-stallman-interview/</link>
+    <description>Recent content in Taz Stallman Interview on Sendung für die vernetzte Welt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <lastBuildDate>Wed, 26 Mar 2008 00:20:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://sfdvw.de/tags/taz-stallman-interview/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SfdvW - 04 - taz-Stallman Interview und Chaosradio Pfandhacking</title>
+      <link>https://sfdvw.de/blog/2008-03/sfdvw-04-taz-stallman-interview-und-chaosradio-pfandhacking/</link>
+      <pubDate>Wed, 26 Mar 2008 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/blog/2008-03/sfdvw-04-taz-stallman-interview-und-chaosradio-pfandhacking/</guid>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw04.json&#39;);  </description>
+    </item>
+    
+  </channel>
+</rss>

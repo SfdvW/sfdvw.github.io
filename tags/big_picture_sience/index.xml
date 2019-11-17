@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Big_picture_sience on Sendung für die vernetzte Welt</title>
+    <link>https://sfdvw.de/tags/big_picture_sience/</link>
+    <description>Recent content in Big_picture_sience on Sendung für die vernetzte Welt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <lastBuildDate>Sat, 23 Mar 2013 00:20:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://sfdvw.de/tags/big_picture_sience/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SfdvW - 49 - Big Picture Science We Heart Robots</title>
+      <link>https://sfdvw.de/blog/2013-03/sfdvw-49-big-picture-science-we-heart-robots/</link>
+      <pubDate>Sat, 23 Mar 2013 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/blog/2013-03/sfdvw-49-big-picture-science-we-heart-robots/</guid>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw49.json&#39;);  </description>
+    </item>
+    
+  </channel>
+</rss>

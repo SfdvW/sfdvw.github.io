@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chaos on Sendung für die vernetzte Welt</title>
+    <link>https://sfdvw.de/tags/chaos/</link>
+    <description>Recent content in Chaos on Sendung für die vernetzte Welt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <lastBuildDate>Wed, 26 Nov 2008 00:20:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://sfdvw.de/tags/chaos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SfdvW - 10 - Chaos Communication Congress</title>
+      <link>https://sfdvw.de/blog/2008-11/sfdvw-10-chaos-communication-congress/</link>
+      <pubDate>Wed, 26 Nov 2008 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/blog/2008-11/sfdvw-10-chaos-communication-congress/</guid>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw10.json&#39;);  </description>
+    </item>
+    
+  </channel>
+</rss>

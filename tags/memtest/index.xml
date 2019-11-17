@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Memtest on Sendung für die vernetzte Welt</title>
+    <link>https://sfdvw.de/tags/memtest/</link>
+    <description>Recent content in Memtest on Sendung für die vernetzte Welt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <lastBuildDate>Sat, 27 Feb 2010 00:20:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://sfdvw.de/tags/memtest/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SfdvW - 22 - Memtest</title>
+      <link>https://sfdvw.de/blog/2010-02/sfdvw-22-memtest/</link>
+      <pubDate>Sat, 27 Feb 2010 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/blog/2010-02/sfdvw-22-memtest/</guid>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw22.json&#39;);  </description>
+    </item>
+    
+  </channel>
+</rss>

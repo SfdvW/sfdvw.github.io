@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jugend_hackt on Sendung für die vernetzte Welt</title>
+    <link>https://sfdvw.de/tags/jugend_hackt/</link>
+    <description>Recent content in Jugend_hackt on Sendung für die vernetzte Welt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <lastBuildDate>Sat, 17 Aug 2019 00:20:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://sfdvw.de/tags/jugend_hackt/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SfdvW - 83 - Jugend hackt, junghacker, EBK TdoT</title>
+      <link>https://sfdvw.de/blog/2019-08/sfdvw-83-jugend-hackt-junghacker-ebk-tdot/</link>
+      <pubDate>Sat, 17 Aug 2019 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/blog/2019-08/sfdvw-83-jugend-hackt-junghacker-ebk-tdot/</guid>
+      <description>podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw83.json&#39;);  Mit dabei: tmk, nilo</description>
+    </item>
+    
+    <item>
+      <title>SfdvW - 75 - Mit Code die Welt verbessern</title>
+      <link>https://sfdvw.de/blog/2018-01/sfdvw-75-mit-code-die-welt-verbessern/</link>
+      <pubDate>Sat, 20 Jan 2018 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/blog/2018-01/sfdvw-75-mit-code-die-welt-verbessern/</guid>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw75.json&#39;);  </description>
+    </item>
+    
+  </channel>
+</rss>

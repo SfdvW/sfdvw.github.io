@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sommersendung on Sendung für die vernetzte Welt</title>
+    <link>https://sfdvw.de/tags/sommersendung/</link>
+    <description>Recent content in Sommersendung on Sendung für die vernetzte Welt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <lastBuildDate>Sat, 14 Aug 2010 00:20:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://sfdvw.de/tags/sommersendung/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SfdvW - 27 - Radio Tux Sommersendung</title>
+      <link>https://sfdvw.de/blog/2010-08/sfdvw-27-radio-tux-sommersendung/</link>
+      <pubDate>Sat, 14 Aug 2010 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/blog/2010-08/sfdvw-27-radio-tux-sommersendung/</guid>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw27.json&#39;);  </description>
+    </item>
+    
+    <item>
+      <title>SfdvW - 17 - Sommersendung</title>
+      <link>https://sfdvw.de/blog/2009-08/sfdvw-17-sommersendung/</link>
+      <pubDate>Sat, 15 Aug 2009 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/blog/2009-08/sfdvw-17-sommersendung/</guid>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw17.json&#39;);  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -20,5 +20,15 @@
       <description>podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw83.json&#39;);  Mit dabei: tmk, nilo</description>
     </item>
     
+    <item>
+      <title>SfdvW - 71 - EBK Junghacker</title>
+      <link>https://sfdvw.de/blog/2017-04/sfdvw-71-ebk-junghacker/</link>
+      <pubDate>Sat, 15 Apr 2017 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/blog/2017-04/sfdvw-71-ebk-junghacker/</guid>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw71.json&#39;);  </description>
+    </item>
+    
   </channel>
 </rss>

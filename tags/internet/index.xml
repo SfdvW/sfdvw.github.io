@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Internet on Sendung für die vernetzte Welt</title>
+    <link>https://sfdvw.de/tags/internet/</link>
+    <description>Recent content in Internet on Sendung für die vernetzte Welt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <lastBuildDate>Sat, 05 Dec 2009 00:20:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://sfdvw.de/tags/internet/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SfdvW - 19 - Soziale Netzwerke im Internet</title>
+      <link>https://sfdvw.de/blog/2009-12/sfdvw-19-soziale-netzwerke-im-internet/</link>
+      <pubDate>Sat, 05 Dec 2009 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/blog/2009-12/sfdvw-19-soziale-netzwerke-im-internet/</guid>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw19.json&#39;);  </description>
+    </item>
+    
+    <item>
+      <title>SfdvW - 16 - Zensursula und Internet in Afrika Teil 2</title>
+      <link>https://sfdvw.de/blog/2009-06/sfdvw-16-zensursula-und-internet-in-afrika-teil-2/</link>
+      <pubDate>Sat, 20 Jun 2009 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/blog/2009-06/sfdvw-16-zensursula-und-internet-in-afrika-teil-2/</guid>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw16.json&#39;);  </description>
+    </item>
+    
+    <item>
+      <title>SfdvW - 14 - Internet in Afrika Teil 1 OLPC</title>
+      <link>https://sfdvw.de/blog/2009-04/sfdvw-14-internet-in-afrika-teil-1-olpc/</link>
+      <pubDate>Wed, 29 Apr 2009 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/blog/2009-04/sfdvw-14-internet-in-afrika-teil-1-olpc/</guid>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw14.json&#39;);  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alternativlos on Sendung für die vernetzte Welt</title>
+    <link>https://sfdvw.de/tags/alternativlos/</link>
+    <description>Recent content in Alternativlos on Sendung für die vernetzte Welt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <lastBuildDate>Sat, 01 Nov 2014 00:20:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://sfdvw.de/tags/alternativlos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SfdvW - 56 - Alternativlos 32 Über den kalten Krieg damals und heute</title>
+      <link>https://sfdvw.de/blog/2014-11/sfdvw-56-alternativlos-32-%C3%BCber-den-kalten-krieg-damals-und-heute/</link>
+      <pubDate>Sat, 01 Nov 2014 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/blog/2014-11/sfdvw-56-alternativlos-32-%C3%BCber-den-kalten-krieg-damals-und-heute/</guid>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw56.json&#39;);  </description>
+    </item>
+    
+  </channel>
+</rss>

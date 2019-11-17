@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>El_grande_nada on Sendung für die vernetzte Welt</title>
+    <link>https://sfdvw.de/tags/el_grande_nada/</link>
+    <description>Recent content in El_grande_nada on Sendung für die vernetzte Welt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <lastBuildDate>Sat, 17 Sep 2016 00:20:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://sfdvw.de/tags/el_grande_nada/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SfdvW - 64 - El Grande Nada Live</title>
+      <link>https://sfdvw.de/blog/2016-09/sfdvw-64-el-grande-nada-live/</link>
+      <pubDate>Sat, 17 Sep 2016 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/blog/2016-09/sfdvw-64-el-grande-nada-live/</guid>
+      <description> 
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw64.json&#39;);  </description>
+    </item>
+    
+  </channel>
+</rss>
