@@ -185,13 +185,11 @@ mit dabei: tmk, nilo, Wolfgang, markus, jotilux, mantu&lt;/p&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <enclosure url="" type="audio/mpeg" length="1" />
-      
+      <enclosure url="https://sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2886%29_2019_11_16_Linuxeinstieg_mit_Ubuntu.mp3" type="audio/mpeg" length="1" />
       
       <chapters>
-                      &lt;chapter start=&#34;00:00:00&#34; title=&#34;Intro&#34; /&gt;
+                      &lt;chapter start=&#34;00:00:00&#34; title=&#34;Intro&#34;/&gt;
       </chapters>
-      
     </item>
     
     <item>
@@ -417,11 +415,9 @@ mit dabei: tmk, nilo, Wolfgang, markus&lt;/p&gt;
 </description>
       <enclosure url="https://sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2885%29_2019_10_19_Mobile_Messenger.mp3" type="audio/mpeg" length="1" />
       
-      
       <chapters>
                       &lt;chapter start=&#34;00:00:00&#34; title=&#34;Intro&#34; /&gt;
       </chapters>
-      
     </item>
     
     <item>
@@ -439,11 +435,9 @@ mit dabei: tmk, nilo, Wolfgang, markus&lt;/p&gt;
 </description>
       <enclosure url="" type="audio/mpeg" length="1" />
       
-      
       <chapters>
                       &lt;chapter start=&#34;00:00:00&#34; title=&#34;Intro&#34; /&gt;
       </chapters>
-      
     </item>
     
     <item>
@@ -463,11 +457,9 @@ mit dabei: tmk, nilo, Wolfgang, markus&lt;/p&gt;
 </description>
       <enclosure url="" type="audio/mpeg" length="1" />
       
-      
       <chapters>
                       &lt;chapter start=&#34;00:00:00&#34; title=&#34;Intro&#34; /&gt;
       </chapters>
-      
     </item>
     
     <item>
@@ -487,11 +479,9 @@ mit dabei: tmk, nilo, Wolfgang, markus&lt;/p&gt;
 </description>
       <enclosure url="" type="audio/mpeg" length="1" />
       
-      
       <chapters>
                       &lt;chapter start=&#34;00:00:00&#34; title=&#34;Intro&#34; /&gt;
       </chapters>
-      
     </item>
     
     <item>
@@ -514,11 +504,9 @@ mit dabei: tmk, nilo, Wolfgang, markus&lt;/p&gt;
 </description>
       <enclosure url="https://sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2881%29_2019_01_19_35C3_Immer_noch_nichts_zu_verbergen_und_Hebocon.mp3" type="audio/mpeg" length="1" />
       
-      
       <chapters>
                       &lt;chapter start=&#34;00:00:00&#34; title=&#34;35C3&#34; /&gt;&lt;psc:chapter start=&#34;00:27:18&#34; title=&#34;Hebocon&#34; /&gt;
       </chapters>
-      
     </item>
     
 </channel>
