@@ -6,10 +6,30 @@
     <description>Recent content in Sfdvw on Sendung für die vernetzte Welt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Sat, 16 Nov 2019 00:20:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 21 Dec 2019 00:20:00 +0200</lastBuildDate>
     
 	<atom:link href="https://sfdvw.de/series/sfdvw/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>SfdvW - 87 - Backups</title>
+      <link>https://sfdvw.de/blog/2019-12/sfdvw-87-backups/</link>
+      <pubDate>Sat, 21 Dec 2019 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/blog/2019-12/sfdvw-87-backups/</guid>
+      <description>podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw87.json&#39;);  Feedback zur Sendung? Schreibe uns ein Kommentar
+SfdvW - 87 - Backups mit dabei: tmk, markus, reem, jotilux
+Worum geht es Heute Weihnachtszeit ist Backup-Zeit -&amp;gt; Chaos Communicaton Congress + IT Support bei der Familie
+Hardware- oder Softwaredefekt, Viren/Trojaner, Diebstahl oder höhere Gewalt(Überspannung/Hochwasser): schon sind die Daten weg
+Hinweise Ihr wollte nicht Daten-Sichern, Ihr wollt sie Wiederherstellen.
+Backup(Datensicherung) heißt Daten mindestens zweimal zu haben möglichst ortsgetrennt(Disaster Recovery)
+Backupstrategien  Großvater-Vater-Sohn-Prinzip / Generationsprinzip
+ 21 Bänder  12 Stück Januar - Dezember (Großvater) 5 Stück Freitag 1 - Freitag 5 (Vater) 4 Stück Mo - Do (Sohn)   Vollbackup
+ pro: alle Dateien, Restore mit nur einem Medium con: viel Platz pro Backup  Inkrementelles Backup (Archiv-Bit)
+ Mo - Vollbackup Di - Do Intrementell (Änderungen täglich) Ausfall Do d.h. benötigt Do, Mi, Di, Mo  Differenzielles Backup
+ Mo - Vollbackup Di - Do Differenziell (Änderungen Wöchentlich) Do beinhaltet alle Änderungen bis Mo Ausfall Do d.h. benötigt Do, Mo   Fragen über Fragen  Datensicherungen
+ machen oder nicht?  habe ich wichtige Daten?  Bewerbung, Zeugniskopie/Urkunden, Zertifikate, digitale Fotos, Videoaufnahmen der ersten Schritte des Kindes, Audioaufnahmen der Band, Spielstände, Verträge,   wenn ja wohin?</description>
+    </item>
     
     <item>
       <title>SfdvW - 86 - Ubuntu-Linuxeinstieg</title>

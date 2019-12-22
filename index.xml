@@ -21,6 +21,204 @@
     </itunes:category>
     
     <item>
+      <title>SfdvW - 87 - Backups</title>
+      <link>https://sfdvw.de/blog/2019-12/sfdvw-87-backups/</link>
+      <pubDate>Sat, 21 Dec 2019 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/blog/2019-12/sfdvw-87-backups/</guid>
+      <description>
+
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;script&gt;
+  podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw87.json&#39;);
+&lt;/script&gt;
+
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;sfdvw-87-backups&#34;&gt;SfdvW - 87 - Backups&lt;/h2&gt;
+
+&lt;p&gt;mit dabei: tmk, markus, reem, jotilux&lt;/p&gt;
+
+&lt;h3 id=&#34;worum-geht-es-heute&#34;&gt;Worum geht es Heute&lt;/h3&gt;
+
+&lt;p&gt;Weihnachtszeit ist Backup-Zeit -&amp;gt; Chaos Communicaton Congress + IT Support bei der Familie&lt;/p&gt;
+
+&lt;p&gt;Hardware- oder Softwaredefekt, Viren/Trojaner, Diebstahl oder höhere Gewalt(Überspannung/Hochwasser): schon sind die Daten weg&lt;/p&gt;
+
+&lt;h3 id=&#34;hinweise&#34;&gt;Hinweise&lt;/h3&gt;
+
+&lt;p&gt;Ihr wollte nicht Daten-Sichern, Ihr wollt sie Wiederherstellen.&lt;/p&gt;
+
+&lt;p&gt;Backup(Datensicherung) heißt Daten mindestens zweimal zu haben
+möglichst ortsgetrennt(Disaster Recovery)&lt;/p&gt;
+
+&lt;h3 id=&#34;backupstrategien&#34;&gt;Backupstrategien&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Großvater-Vater-Sohn-Prinzip  / &lt;a href=&#34;https://de.wikipedia.org/wiki/Generationenprinzip&#34;&gt;Generationsprinzip&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;21 Bänder
+
+&lt;ul&gt;
+&lt;li&gt;12 Stück Januar - Dezember (Großvater)&lt;/li&gt;
+&lt;li&gt;5 Stück Freitag 1 - Freitag 5 (Vater)&lt;/li&gt;
+&lt;li&gt;4 Stück Mo - Do (Sohn)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Vollbackup&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;pro: alle Dateien, Restore mit nur einem Medium&lt;/li&gt;
+&lt;li&gt;con: viel Platz pro Backup&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Inkrementelles Backup (&lt;a href=&#34;https://de.wikipedia.org/wiki/Archivbit&#34;&gt;Archiv-Bit&lt;/a&gt;)&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Mo - Vollbackup&lt;/li&gt;
+&lt;li&gt;Di - Do Intrementell (Änderungen täglich)&lt;/li&gt;
+&lt;li&gt;Ausfall Do d.h. benötigt Do, Mi, Di, Mo&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Differenzielles Backup&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Mo - Vollbackup&lt;/li&gt;
+&lt;li&gt;Di - Do Differenziell (Änderungen Wöchentlich)&lt;/li&gt;
+&lt;li&gt;Do beinhaltet alle Änderungen bis Mo&lt;/li&gt;
+&lt;li&gt;Ausfall Do d.h. benötigt Do, Mo&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;fragen-über-fragen&#34;&gt;Fragen über Fragen&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Datensicherungen&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;machen oder nicht?
+
+&lt;ul&gt;
+&lt;li&gt;habe ich wichtige Daten?
+
+&lt;ul&gt;
+&lt;li&gt;Bewerbung, Zeugniskopie/Urkunden, Zertifikate, digitale Fotos, Videoaufnahmen der ersten Schritte des Kindes, Audioaufnahmen der Band, Spielstände, Verträge,&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;wenn ja wohin?
+
+&lt;ul&gt;
+&lt;li&gt;zu Fremden?&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Immer alles oder nur die unterschiede
+
+&lt;ul&gt;
+&lt;li&gt;incrementell/ differenziell / vollbackup&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Verschlüsseln?&lt;/li&gt;
+&lt;li&gt;Wie oft
+
+&lt;ul&gt;
+&lt;li&gt;Automatisch machen lassen? push/pull?&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Einhörnchen strategie
+
+&lt;ul&gt;
+&lt;li&gt;Überall mal ein Backup &amp;ldquo;vergraben&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Backups zurückspielen zwingend prüfen!&lt;/li&gt;
+&lt;li&gt;Raid ist kein Backup!&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Closed oder Opensource Software?&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Linux&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;restic&lt;/li&gt;
+&lt;li&gt;rsync /grsync&lt;/li&gt;
+&lt;li&gt;Onboard Software&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Windows&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;Aktenkoffer&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;onboard backup&lt;/li&gt;
+&lt;li&gt;einfach kopieren&lt;/li&gt;
+&lt;li&gt;restic&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;*OS&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Time-machine&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Dateisysteme&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/ZFS_(Dateisystem)&#34;&gt;zfs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;firma&#34;&gt;Firma:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Gesetzliche Archivierungspflicht über Jahre (z.B. Multimediaarchiv für TV in 4k mit Datenmengen in Größenordnungen)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Disaster_Recovery&#34;&gt;Disaster_Recovery&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=X5UCfU9Q-iA&#34;&gt;Bandlaufwerksroboter für Wartung begehbar&lt;/a&gt; &lt;a href=&#34;https://www.youtube.com/watch?v=74l96vMPI5c&#34;&gt;Teil2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;NAS&lt;/li&gt;
+&lt;li&gt;Cloud&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;privat&#34;&gt;privat&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;08/15 usb sticks vs. vernünftige externe festplatte/ssd vs. NAS vs. Cloud&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;verein&#34;&gt;Verein&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Wie macht das Radio Corax mit dem Backup?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;unsere-empfehlungen&#34;&gt;unsere Empfehlungen&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://clonezilla.org/&#34;&gt;clonezilla&lt;/a&gt; bzw. bei mehreren Geräten &lt;a href=&#34;https://fogproject.org/&#34;&gt;FOG Project&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=jN5mICXIG9M&#34;&gt;Der Backup-Reminder vom Browser Ballett&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;flash-ssd-vs-tape-libary-vs-helium-hdds-vs-nas&#34;&gt;Flash/SSD vs. Tape libary vs. Helium HDDs vs. NAS&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Tapes lohnen sich preislich erst ab vielen&lt;/li&gt;
+&lt;li&gt;Festplatten sind billig&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;veranstaltungshinweise&#34;&gt;Veranstaltungshinweise&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;28.12.2019 Congress Junghacker-Tag&lt;/li&gt;
+&lt;li&gt;16.05.2020Llinux Präsentation Day&lt;/li&gt;
+&lt;li&gt;31.03.2020 &lt;a href=&#34;http://www.worldbackupday.com/de/&#34;&gt;World Backup Day&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <enclosure url="https://sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2887%29_2019_12_21_Backups.mp3" type="audio/mpeg" length="1" />
+      
+      <chapters>
+                      
+      </chapters>
+    </item>
+    
+    <item>
       <title>SfdvW - 86 - Ubuntu-Linuxeinstieg</title>
       <link>https://sfdvw.de/blog/2019-11/sfdvw-86-ubuntu-linuxeinstieg/</link>
       <pubDate>Sat, 16 Nov 2019 00:20:00 +0200</pubDate>
