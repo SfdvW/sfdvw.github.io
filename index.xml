@@ -31,10 +31,6 @@
 &lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
 &lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
 
-&lt;script&gt;
-  podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw87.json&#39;);
-&lt;/script&gt;
-
 &lt;p&gt;Feedback zur Sendung?
 &lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
 
@@ -210,6 +206,10 @@ möglichst ortsgetrennt(Disaster Recovery)&lt;/p&gt;
 &lt;li&gt;16.05.2020Llinux Präsentation Day&lt;/li&gt;
 &lt;li&gt;31.03.2020 &lt;a href=&#34;http://www.worldbackupday.com/de/&#34;&gt;World Backup Day&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;script&gt;
+  podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw87.json&#39;);
+&lt;/script&gt;
 </description>
       <enclosure url="https://sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2887%29_2019_12_21_Backups.mp3" type="audio/mpeg" length="1" />
       
