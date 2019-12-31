@@ -37,7 +37,7 @@ Backupstrategien  Großvater-Vater-Sohn-Prinzip / Generationsprinzip
       <pubDate>Sat, 16 Nov 2019 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2019-11/sfdvw-86-ubuntu-linuxeinstieg/</guid>
-      <description>podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw86.json&#39;);  Feedback zur Sendung? Schreibe uns ein Kommentar
+      <description>Feedback zur Sendung? Schreibe uns ein Kommentar
 SfdvW - 86 - Ubuntu-Linuxeinstieg Sendungstermin 16.11.2019 20-21Uhr mit dabei: tmk, nilo, Wolfgang, markus, jotilux, mantu
 Worum geht es Heute  scheinbar alte Hardware weiter verwenden, die mit Windows 10 nicht mehr benutzbar wäre Das Microsoft-Dilemma heise.de Warum *buntu ?  ganz gut für den Einstieg verbreitete Community  live installieren und Infos für danach  im Twitch-Livestream zuschauen  Xubuntu,Kubuntu,Lubuntu  wiki.ubuntuusers.de/Ubuntu/Derivate/  Windowmanager (I3, XFCE, KDM GNOME, Cinnamon, Mate)  Vorbereitung  Backup der Daten auf dem Gerät machen !! Stick vorbereiten wie geht das  try-ubuntu-before-you-install easy2boot.com Linux live von USB-Stick ausprobieren  Eine mögliche Installation im Dual Boot Betrieb  Windows und Linux gemeinsam auf einer Festplatte  Alternativ kann neben der vorhandenen Festplatte auch eine neue Eingabaut serden (Bootreihenfolge im BIOS)
  Linux/BSD/freie OS warum?
@@ -53,7 +53,7 @@ Worum geht es Heute  scheinbar alte Hardware weiter verwenden, die mit Windows 1
       <pubDate>Sat, 19 Oct 2019 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2019-10/sfdvw-85-mobile-messenger/</guid>
-      <description>podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw85.json&#39;);  Feedback zur Sendung? Schreibe uns ein Kommentar
+      <description>Feedback zur Sendung? Schreibe uns ein Kommentar
 SfdvW - 85 - mobile Messenger Sendungstermin 19.10.2019 20-21Uhr mit dabei: tmk, nilo, Wolfgang, markus
 Worum geht es Heute  Thema mobile messenger: &amp;ldquo;Die Liste von Kommunikationsprogrammen resp. Diensten ist lang. Eine Auswahl schwierig. Meist wird daher der Dienst zur eigenen Gewohnheit übernommen, welcher auch das persönliche Umfeld am häufigsten benutzt. Die Unterschiede sind jedoch gross, so dass sich eine genauere Betrachtung lohnt.&amp;rdquo; - digitale-gesellschaft.ch 2016-11-07 Überblick Wikipedia Überblick digitale Gesellschaft Funktionen die ein mobile messenger haben kann  Textnachrichten, Sprachnachrichten, Bildnachrichten, Gruppenchat, Asynchrone Kommunikation (Nachricht wird bei Status Offline zwischengespeichert)   &amp;ldquo;früher&amp;rdquo;  pager (quix, telmi, scall, skyper)  Funkmeldeempfänger und Pager Computer:Club2  sms / stille sms  wie verbreitet ist es  Persönliche Erfahrung: Was nutzen/haben wir genutzt?
  Riot (Matrix)  Matrix_(communication_protocol)  Whatsapp  am weiten verbreitetestr Ende zu Ende verschlüsselter Messanger  Verschlüsselung von Signal &amp;ldquo;eingekauft&amp;rdquo;   Signal  signal-foundation benötigt eine Telefonnummer  Threema  Bosch und Schweizer Bundesbehörden nutzen es closed Source  Telegram  open Source Client, Server closed Source Selbstentwickelte Verschlüsselung MTProto-Protokoll  XMPP/Jabber  Selbst hosten, kompliziert aber Grundlage vieler anderer messagnger (facebook) Androidclient  Chiffry  Regional (Teutschenthal)  briar  serverless    gibt auch noch andere Tools, die für messaging benutzt werden können</description>
@@ -75,7 +75,9 @@ Worum geht es Heute  Thema mobile messenger: &amp;ldquo;Die Liste von Kommunikat
       <pubDate>Sat, 17 Aug 2019 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2019-08/sfdvw-83-jugend-hackt-junghacker-ebk-tdot/</guid>
-      <description>podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw83.json&#39;);  Mit dabei: tmk, nilo</description>
+      <description> 
+Mit dabei: tmk, nilo
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw83.json&#39;);  </description>
     </item>
     
     <item>
@@ -84,8 +86,8 @@ Worum geht es Heute  Thema mobile messenger: &amp;ldquo;Die Liste von Kommunikat
       <pubDate>Sat, 16 Mar 2019 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2019-03/sfdvw-82-tragedy-of-systemd/</guid>
-      <description>Mit dabei: tmk, marcus, simon, tim
- 
+      <description> 
+Mit dabei: tmk, marcus, simon, tim
  podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw82.json&#39;);  </description>
     </item>
     
@@ -95,8 +97,10 @@ Worum geht es Heute  Thema mobile messenger: &amp;ldquo;Die Liste von Kommunikat
       <pubDate>Sat, 19 Jan 2019 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2019-01/sfdvw-81-35c3-immer-noch-nichts-zu-verbergen-und-hebocon/</guid>
-      <description>podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw81.json&#39;);  Feedback zur Sendung? Schreibe uns ein Kommentar
-Mit dabei: tmk</description>
+      <description> 
+Feedback zur Sendung? Schreibe uns ein Kommentar
+Mit dabei: tmk
+ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw81.json&#39;);  </description>
     </item>
     
     <item>
@@ -105,8 +109,8 @@ Mit dabei: tmk</description>
       <pubDate>Sat, 15 Dec 2018 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2018-12/sfdvw-80-cre-161-ccc-geschichte/</guid>
-      <description>Mit dabei: tmk
- 
+      <description> 
+Mit dabei: tmk
  podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw80.json&#39;);  </description>
     </item>
     

@@ -229,10 +229,6 @@ möglichst ortsgetrennt(Disaster Recovery)&lt;/p&gt;
 &lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
 &lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
 
-&lt;script&gt;
-  podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw86.json&#39;);
-&lt;/script&gt;
-
 &lt;p&gt;Feedback zur Sendung?
 &lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
 
@@ -382,6 +378,10 @@ mit dabei: tmk, nilo, Wolfgang, markus, jotilux, mantu&lt;/p&gt;
 &lt;li&gt;&lt;a href=&#34;https://dezentrale.space/events/tag-der-offenen-t%C3%BCr/&#34;&gt;Schlösser öffnen mit Support aus Berlin&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;script&gt;
+  podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw86.json&#39;);
+&lt;/script&gt;
 </description>
       <enclosure url="https://sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2886%29_2019_11_16_Linuxeinstieg_mit_Ubuntu.mp3" type="audio/mpeg" length="1" />
       
@@ -400,10 +400,6 @@ mit dabei: tmk, nilo, Wolfgang, markus, jotilux, mantu&lt;/p&gt;
 
 &lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
 &lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;script&gt;
-  podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw85.json&#39;);
-&lt;/script&gt;
 
 &lt;p&gt;Feedback zur Sendung?
 &lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
@@ -610,6 +606,10 @@ mit dabei: tmk, nilo, Wolfgang, markus&lt;/p&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://jugendhackt.org/events/halle/&#34;&gt;jungend hackt Halle 8.-10. November 2019&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;script&gt;
+  podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw85.json&#39;);
+&lt;/script&gt;
 </description>
       <enclosure url="https://sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2885%29_2019_10_19_Mobile_Messenger.mp3" type="audio/mpeg" length="1" />
       
@@ -647,11 +647,11 @@ mit dabei: tmk, nilo, Wolfgang, markus&lt;/p&gt;
       <description>&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
 &lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
 
+&lt;p&gt;Mit dabei: tmk, nilo&lt;/p&gt;
+
 &lt;script&gt;
   podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw83.json&#39;);
 &lt;/script&gt;
-
-&lt;p&gt;Mit dabei: tmk, nilo&lt;/p&gt;
 </description>
       <enclosure url="" type="audio/mpeg" length="1" />
       
@@ -666,10 +666,10 @@ mit dabei: tmk, nilo, Wolfgang, markus&lt;/p&gt;
       <pubDate>Sat, 16 Mar 2019 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2019-03/sfdvw-82-tragedy-of-systemd/</guid>
-      <description>&lt;p&gt;Mit dabei: tmk, marcus, simon, tim&lt;/p&gt;
-
-&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+      <description>&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
 &lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;Mit dabei: tmk, marcus, simon, tim&lt;/p&gt;
 
 &lt;script&gt;
   podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw82.json&#39;);
@@ -691,14 +691,14 @@ mit dabei: tmk, nilo, Wolfgang, markus&lt;/p&gt;
       <description>&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
 &lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
 
-&lt;script&gt;
-  podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw81.json&#39;);
-&lt;/script&gt;
-
 &lt;p&gt;Feedback zur Sendung?
 &lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Mit dabei: tmk&lt;/p&gt;
+
+&lt;script&gt;
+  podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw81.json&#39;);
+&lt;/script&gt;
 </description>
       <enclosure url="https://sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2881%29_2019_01_19_35C3_Immer_noch_nichts_zu_verbergen_und_Hebocon.mp3" type="audio/mpeg" length="1" />
       
