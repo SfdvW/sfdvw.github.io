@@ -21,6 +21,187 @@
     </itunes:category>
     
     <item>
+      <title>SfdvW - 88 - Congress Review 36C3</title>
+      <link>https://sfdvw.de/blog/2020-01/sfdvw-88-congress-review-36c3/</link>
+      <pubDate>Sat, 18 Jan 2020 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/blog/2020-01/sfdvw-88-congress-review-36c3/</guid>
+      <description>
+
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;sfdvw-88-congressreview&#34;&gt;SfdvW - 88 - Congressreview&lt;/h2&gt;
+
+&lt;p&gt;mit dabei: tmk, markus, nilo, jotilux&lt;/p&gt;
+
+&lt;h3 id=&#34;worum-geht-es-heute&#34;&gt;Worum geht es Heute?&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;der 36. Chaos Communication Congress (36C3) fand in Leipzig vom 27.-30.12.2019 statt&lt;/li&gt;
+&lt;li&gt;eine Vier-Tage-Konferenz mit 17k Teilnehmer/innen über Technologie, Gesellschaft und Utopie organisiert vom Chaos Computer Club (CCC) und vielen ehrenamtlichen Helfern mit Vorträgen, Workshops und Kunst&lt;/li&gt;
+&lt;li&gt;das Motto des 36C3 war &amp;ldquo;Resource Exhaustion&amp;rdquo; eine Doppeldeutung bezogen auf &lt;a href=&#34;https://en.wikipedia.org/wiki/Resource_exhaustion_attack&#34;&gt;technische&lt;/a&gt; und &lt;a href=&#34;https://www.overshootday.org/&#34;&gt;gesellschaftliche&lt;/a&gt; Belage&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/hashtag/36c3&#34;&gt;Twitter #36c3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;einen kleinen visuellen Eindruck zum LASER &amp;amp; Co. kann man beim Hacker-&amp;amp; Makerspace Bingen im &lt;a href=&#34;https://flic.kr/s/aHsmKy6EQB&#34;&gt;flicker Fotostream&lt;/a&gt; erhalten&lt;/li&gt;
+&lt;li&gt;Recordings der Vorträge gibt es unter &lt;a href=&#34;https://media.ccc.de/c/36c3&#34;&gt;media.ccc.de&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Earth_Overshoot_Day&#34;&gt;Der Earth Overshoot Day &lt;/a&gt; (auch „Erdüberlastungstag“ genannt – und immer seltener auch „Ecological Debt Day“, „Welterschöpfungstag“, „Weltüberlastungstag“ oder „Ökoschuldentag“) ist in einer jährlichen Kampagne der Organisation Global Footprint Network der Tag des laufenden Jahres, an dem die menschliche Nachfrage nach nachwachsenden Rohstoffen das Angebot und die Kapazität der Erde zur Reproduktion dieser Ressourcen in diesem Jahr übersteigt. Der Earth Overshoot Day ist ein Aktionstag.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;vortäge&#34;&gt;Vortäge&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Vortrag Verkehrswende selber hacken (robbi5, ubahnverleih)&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://media.ccc.de/v/36c3-10881-verkehrswende_selber_hacken&#34;&gt;36c3-10881-verkehrswende_selber_hacken&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Sicherheit von bestehenden Verleihsystemen&lt;/li&gt;
+&lt;li&gt;kein kommerzieller Anbieter in Ulm (wegen Bergen)&lt;/li&gt;
+&lt;li&gt;Verschwörhaus ist kommunal betriebener Hackspace, Fellowship um Fahrradverleih zu entwickeln, konnten Fahrräder anschaffen&lt;/li&gt;
+&lt;li&gt;Ziel: open source Infrastruktur für selbstorganisierten unkommerziellen Fahrradverleih, auch von anderen benutzbar&lt;/li&gt;
+&lt;li&gt;in Halle auch möglich?&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;API / &lt;a href=&#34;https://de.wikipedia.org/wiki/Programmierschnittstelle&#34;&gt;application programming interface&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://radforschung.org/&#34;&gt;radforschung.org&lt;/a&gt; ein offenes Bikesharing für alle&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Vortrag BahnMinig (David Kriesel)&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://media.ccc.de/v/36c3-10652-bahnmining_-_punktlichkeit_ist_eine_zier&#34;&gt;36c3-10652-bahnmining_-_punktlichkeit_ist_eine_zier&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;hat Leipzig bei Riesa eingetragen&lt;/li&gt;
+&lt;li&gt;modernisierte Bahnhöfe machen negative Verspätung (Nürnberg &amp;lt;-&amp;gt; Erfurt, Leipzig)&lt;/li&gt;
+&lt;li&gt;VDE #8
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Verkehrsprojekt_Deutsche_Einheit_Nr._8&#34;&gt;Verkehrsprojekt_Deutsche_Einheit_Nr._8&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Verkehrsprojekte_Deutsche_Einheit&#34;&gt;Verkehrsprojekte_Deutsche_Einheit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;ICEs fallen eher mal aus als die Pünktlichkeitsstatistik negativ zu beeinflussen&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;mit &lt;a href=&#34;https://de.wikipedia.org/wiki/Citizen_Science&#34;&gt;Citizen Science&lt;/a&gt; einfach selber messen&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Vortrag Let’s play Infokrieg (Arne Vogelgesang)&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Wie die radikale Rechte (ihre) Politik gamifiziert&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://media.ccc.de/v/36c3-10639-let_s_play_infokrieg&#34;&gt;36c3-10639-let_s_play_infokrieg&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://36c3.bleeptrack.de/&#34;&gt;36C3-Logo-Genarator&lt;/a&gt; von bleeptrack&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://events.ccc.de/congress/2019/wiki/index.php/Static:Volunteers&#34;&gt;Engel/Angels&lt;/a&gt; auf dem Congress&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;noch mehr Bilder vom Congress mit LASER &amp;amp; Co. und auch mal von oben von Simon Waldherr im &lt;a href=&#34;https://www.flickr.com/photos/simonwaldherr/&#34;&gt;flicker Fotostream&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;noch mehr mehr mehr &lt;a href=&#34;https://www.flickriver.com/groups/chaoscomputerclub/pool/&#34;&gt;Bilder vom 36C3&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Infrastruktur / FACILITIES&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Infodesk (DECT 1111) – 42, the answer to everything&lt;/li&gt;
+&lt;li&gt;CERT (DECT 112) – chaos emergency response team&lt;/li&gt;
+&lt;li&gt;Awareness (DECT 113)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://events.ccc.de/congress/2019/wiki/index.php/Static:POC&#34;&gt;POC&lt;/a&gt; – your connection via the DECT network&lt;/li&gt;
+&lt;li&gt;GSM – if you prefer the GSM network&lt;/li&gt;
+&lt;li&gt;Network – questions, information and help around the network&lt;/li&gt;
+&lt;li&gt;Membership Desk – CCC office on tour: become a CCC supporter&lt;/li&gt;
+&lt;li&gt;Kidspace – a place for kids and parents&lt;/li&gt;
+&lt;li&gt;Chaos Post – delivering postcards inside and outside congress&lt;/li&gt;
+&lt;li&gt;LOC – Logistics Operation Center, parcels, heavy lifting, &amp;hellip;&lt;/li&gt;
+&lt;li&gt;Cloakroom – storing your jackets and/or luggage&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Vortag Hackers &amp;amp; makers changing music technology (Helen Leigh)&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://media.ccc.de/v/36c3-10548-hackers_makers_changing_music_technology&#34;&gt;36c3-10548-hackers_makers_changing_music_technology&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Helen baut verrückte Musikinstrumente
+
+&lt;ul&gt;
+&lt;li&gt;z.B. Plüsch-Tentakel&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Historischer Abriss:
+
+&lt;ul&gt;
+&lt;li&gt;Daphne Oram hat in den 40ern (beim BBC Radio) das Sampling &amp;ldquo;erfunden&amp;rdquo; (Magnetbänder zerschnippeln und zusammensetzen)&lt;/li&gt;
+&lt;li&gt;Dr. Who Theme&lt;/li&gt;
+&lt;li&gt;The Beatles - &lt;a href=&#34;https://youtu.be/Ah2ckzXgrx4?t=6&#34;&gt;Tomorrow never knows&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;steffen koritsch &lt;a href=&#34;https://noisio.de/&#34;&gt;noisio.de&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;letztes jahr: photonotron (theremin mit licht)&lt;/li&gt;
+&lt;li&gt;neu: &amp;ldquo;next gen&amp;rdquo; attiny punk console + lfo platine&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;All creatures are welcome – A reminder to &lt;a href=&#34;https://www.ccc.de/de/updates/2016/a-reminder-to-be-excellent-to-each-other&#34;&gt;be excellent to each other&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Vortrag Infrastructure Review mit Statisitk&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://media.ccc.de/v/36c3-11235-36c3_infrastructure_review&#34;&gt;36c3-11235-36c3_infrastructure_review&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Song &lt;a href=&#34;https://en.wikipedia.org/wiki/Tomorrow_Never_Knows&#34;&gt;Tomorrow Never Knows&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Vortrag &amp;ldquo;Hacker hin oder her&amp;rdquo;: Die elektronische Patientenakte kommt! (Martin Tschirsich, cbro - Dr. med. Christian Brodowski and Dr. André Zilch)&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://media.ccc.de/v/36c3-10595-hacker_hin_oder_her_die_elektronische_patientenakte_kommt&#34;&gt;36c3-10595-hacker_hin_oder_her_die_elektronische_patientenakte_kommt&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://halfnarp.events.ccc.de/&#34;&gt;Fahrplan&lt;/a&gt; mit Kategorie - Einsteigervortrag/Foundations&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Chaoszone Review&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;Orbit/Cluster&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Assemblyfamilie: Halle, Dresden, Leipzig, Potsdam, Chemnitz, Zwickau, Vogtland, Jena, Weimar, Erfurt, Gotha, Magdeburg&lt;/li&gt;
+&lt;li&gt;ca. 200 Menschen&lt;/li&gt;
+&lt;li&gt;Bühne &amp;amp; Workshops: 30 Programmpunkte
+
+&lt;ul&gt;
+&lt;li&gt;Bühne mit 70-90 Plätzen + Stehplätze&lt;/li&gt;
+&lt;li&gt;Highlights:
+
+&lt;ul&gt;
+&lt;li&gt;Rumkalypse an Tag 3 (Sonntag&amp;hellip;) -&amp;gt; DANKE Wuschelhase&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=_H-Keya6xB8&#34;&gt;devops disasters&lt;/a&gt;, stefan&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Chaoszone Merch&lt;/li&gt;
+&lt;li&gt;hebocon Workshop &amp;amp; prefinal, honky (Grüße an Pentaradio!)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cfp.chaoszone.cz/36c3/schedule/&#34;&gt;Fahrplan&lt;/a&gt; der Chaoszone&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;party: liveperformance &amp;ldquo;der warst&amp;rdquo;, &amp;ldquo;musik&amp;rdquo; mit gehackten telefonen und anrufbeantwortern, djs&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://36c3.c3nav.de/&#34;&gt;C3NAV/Indoornavigation&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;nächster-congress-37c3&#34;&gt;nächster Congress 37C3&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;27. - 30.12.2020!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;script&gt;
+  podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw88.json&#39;);
+&lt;/script&gt;
+</description>
+      <enclosure url="https://sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2888%29_2020_01_18_Congress_Review_36C3.mp3" type="audio/mpeg" length="1" />
+      
+      <chapters>
+                      
+      </chapters>
+    </item>
+    
+    <item>
       <title>SfdvW - 87 - Backups</title>
       <link>https://sfdvw.de/blog/2019-12/sfdvw-87-backups/</link>
       <pubDate>Sat, 21 Dec 2019 00:20:00 +0200</pubDate>

@@ -27,8 +27,7 @@ Backupstrategien  Großvater-Vater-Sohn-Prinzip / Generationsprinzip
  21 Bänder  12 Stück Januar - Dezember (Großvater) 5 Stück Freitag 1 - Freitag 5 (Vater) 4 Stück Mo - Do (Sohn)   Vollbackup
  pro: alle Dateien, Restore mit nur einem Medium con: viel Platz pro Backup  Inkrementelles Backup (Archiv-Bit)
  Mo - Vollbackup Di - Do Intrementell (Änderungen täglich) Ausfall Do d.h. benötigt Do, Mi, Di, Mo  Differenzielles Backup
- Mo - Vollbackup Di - Do Differenziell (Änderungen Wöchentlich) Do beinhaltet alle Änderungen bis Mo Ausfall Do d.h. benötigt Do, Mo   Fragen über Fragen  Datensicherungen
- machen oder nicht?  habe ich wichtige Daten?  Bewerbung, Zeugniskopie/Urkunden, Zertifikate, digitale Fotos, Videoaufnahmen der ersten Schritte des Kindes, Audioaufnahmen der Band, Spielstände, Verträge,   wenn ja wohin?</description>
+ Mo - Vollbackup Di - Do Differenziell (Änderungen Wöchentlich) Do beinhaltet alle Änderungen bis Mo Ausfall Do d.</description>
     </item>
     
   </channel>
