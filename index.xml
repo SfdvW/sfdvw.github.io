@@ -31,8 +31,7 @@
 &lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
 &lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
 
-&lt;p&gt;Feedback zur Sendung?
-&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;sfdvw-89-congressreview&#34;&gt;SfdvW - 89 - Congressreview&lt;/h2&gt;
 
@@ -123,7 +122,7 @@
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://tickets.eigenbaukombinat.de/ebk/szh2020/&#34;&gt;Anmeldung&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://ßh.de&#34;&gt;https://ßh.de&lt;/a&gt; punycode aware oder &lt;a href=&#34;https://xn--h-pfa.de&#34;&gt;https://xn&amp;ndash;h-pfa.de&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ßh.de&#34;&gt;https://ßh.de&lt;/a&gt; punycode aware oder &lt;a href=&#34;https://xn--h-pfa.de&#34;&gt;https://xn–h-pfa.de&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;03-05.07.2020 &lt;a href=&#34;https://jugendhackt.org/event-rueckblick/halle-2019/&#34;&gt;Jugendhackt Halle&lt;/a&gt; im Eingenebaukombinat&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://makerspace-leipzig.de/&#34;&gt;Makerspace Leipzig&lt;/a&gt; sucht eine neue Unterkunft&lt;/li&gt;
@@ -141,7 +140,7 @@
 &lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Chladnische_Klangfigur&#34;&gt;Wikipedia Chladnische Klangfigur&lt;/a&gt;
 
 &lt;ul&gt;
-&lt;li&gt;sind Muster, die auf einer mit Sand bestreuten dünnen Platte (am besten aus Metall) entstehen, wenn diese in Schwingungen versetzt wird&amp;hellip;  Das war leider nicht was wir suchten&lt;/li&gt;
+&lt;li&gt;sind Muster, die auf einer mit Sand bestreuten dünnen Platte (am besten aus Metall) entstehen, wenn diese in Schwingungen versetzt wird… Das war leider nicht was wir suchten&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Lissajous-Figur&#34;&gt;Wikipedia Lissajous-Figur&lt;/a&gt;
 
@@ -155,7 +154,7 @@
   podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw89.json&#39;);
 &lt;/script&gt;
 </description>
-      <enclosure url="https://sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2889%29_2020_02_15_Congress_Review_2_36C3.mp3" type="audio/mpeg" length="1" />
+      <enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2889%29_2020_02_15_Congress_Review_2_36C3.mp3" type="audio/mpeg" length="1" />
       
       <chapters>
                       
@@ -336,7 +335,7 @@
   podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw88.json&#39;);
 &lt;/script&gt;
 </description>
-      <enclosure url="https://sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2888%29_2020_01_18_Congress_Review_36C3.mp3" type="audio/mpeg" length="1" />
+      <enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2888%29_2020_01_18_Congress_Review_36C3.mp3" type="audio/mpeg" length="1" />
       
       <chapters>
                       
@@ -534,7 +533,7 @@ möglichst ortsgetrennt(Disaster Recovery)&lt;/p&gt;
   podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw87.json&#39;);
 &lt;/script&gt;
 </description>
-      <enclosure url="https://sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2887%29_2019_12_21_Backups.mp3" type="audio/mpeg" length="1" />
+      <enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2887%29_2019_12_21_Backups.mp3" type="audio/mpeg" length="1" />
       
       <chapters>
                       
@@ -706,7 +705,7 @@ mit dabei: tmk, nilo, Wolfgang, markus, jotilux, mantu&lt;/p&gt;
   podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw86.json&#39;);
 &lt;/script&gt;
 </description>
-      <enclosure url="https://sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2886%29_2019_11_16_Linuxeinstieg_mit_Ubuntu.mp3" type="audio/mpeg" length="1" />
+      <enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2886%29_2019_11_16_Linuxeinstieg_mit_Ubuntu.mp3" type="audio/mpeg" length="1" />
       
       <chapters>
                       &lt;chapter start=&#34;00:00:00&#34; title=&#34;Intro&#34;/&gt;
@@ -934,7 +933,7 @@ mit dabei: tmk, nilo, Wolfgang, markus&lt;/p&gt;
   podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw85.json&#39;);
 &lt;/script&gt;
 </description>
-      <enclosure url="https://sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2885%29_2019_10_19_Mobile_Messenger.mp3" type="audio/mpeg" length="1" />
+      <enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2885%29_2019_10_19_Mobile_Messenger.mp3" type="audio/mpeg" length="1" />
       
       <chapters>
                       &lt;chapter start=&#34;00:00:00&#34; title=&#34;Intro&#34; /&gt;
@@ -947,35 +946,14 @@ mit dabei: tmk, nilo, Wolfgang, markus&lt;/p&gt;
       <pubDate>Sat, 21 Sep 2019 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2019-09/sfdvw-84-win10-privat/</guid>
-      <description>
-
-&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+      <description>&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
 &lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;Feedback zur Sendung?
-&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;sfdvw-84-win10-private&#34;&gt;SfdvW - 84 - Win10-Private&lt;/h2&gt;
-
-&lt;p&gt;mit dabei: tmk, markus, nilo, jotilux&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Windows Offline-Konto oder lokales Konto&lt;/li&gt;
-&lt;li&gt;Bloat-Apps, One-Note, Office&lt;/li&gt;
-&lt;li&gt;Sempervideo - (Windows 10 Spy-Funktionen abschalten)(&lt;a href=&#34;https://www.youtube.com/watch?v=J8J1UGEloGo&#34;&gt;https://www.youtube.com/watch?v=J8J1UGEloGo&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;App Berechtigungen, Ordneroptionen Dateiendungen anzeigen, Defender oder 3rd Party Defender-Einstellungen&lt;/li&gt;
-&lt;li&gt;Braucht man Windows wirklich&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.oo-software.com/de/shutup10&#34;&gt;Windows 10 zum Schweigen bringen!&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.itz.uni-halle.de/win10&#34;&gt;ITZ MLU Win 10 Privacy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Win10 genießen&lt;/li&gt;
-&lt;li&gt;Veranstaltung und Outro&lt;/li&gt;
-&lt;/ul&gt;
 
 &lt;script&gt;
   podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw84.json&#39;);
 &lt;/script&gt;
 </description>
-      <enclosure url="https://sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2884%29_2019_09_21_Windows_10_Privatsph%c3%a4re.mp3" type="audio/mpeg" length="1" />
+      <enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2884%29_2019_09_21_Windows_10_Privatsph%c3%a4re.mp3" type="audio/mpeg" length="1" />
       
       <chapters>
                       &lt;chapter start=&#34;00:00:00&#34; title=&#34;Intro&#34; /&gt;
@@ -988,23 +966,16 @@ mit dabei: tmk, nilo, Wolfgang, markus&lt;/p&gt;
       <pubDate>Sat, 17 Aug 2019 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2019-08/sfdvw-83-jugend-hackt-junghacker-ebk-tdot/</guid>
-      <description>
-
-&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+      <description>&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
 &lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
 
-&lt;p&gt;Feedback zur Sendung?
-&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;sfdvw-83-jugend-hackt-junghacker-ebk-tdot&#34;&gt;SfdvW - 83 - Jugend hackt, junghacker, EBK TdoT&lt;/h2&gt;
-
-&lt;p&gt;mit dabei: tmk, nilo&lt;/p&gt;
+&lt;p&gt;Mit dabei: tmk, nilo&lt;/p&gt;
 
 &lt;script&gt;
   podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw83.json&#39;);
 &lt;/script&gt;
 </description>
-      <enclosure url="https://sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2883%29_2019_08_17_Jugend_hackt,_Junghacker,_EBK_TdoT.mp3" type="audio/mpeg" length="1" />
+      <enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2883%29_2019_08_17_Jugend_hackt,_Junghacker,_EBK_TdoT.mp3" type="audio/mpeg" length="1" />
       
       <chapters>
                       &lt;chapter start=&#34;00:00:00&#34; title=&#34;Intro&#34; /&gt;
@@ -1017,23 +988,16 @@ mit dabei: tmk, nilo, Wolfgang, markus&lt;/p&gt;
       <pubDate>Sat, 16 Mar 2019 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2019-03/sfdvw-82-tragedy-of-systemd/</guid>
-      <description>
-
-&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+      <description>&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
 &lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
 
-&lt;p&gt;Feedback zur Sendung?
-&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;sfdvw-82-tragedy-of-systemd&#34;&gt;SfdvW - 82 - tragedy of systemd&lt;/h2&gt;
-
-&lt;p&gt;mit dabei: tmk, marcus, simon&lt;/p&gt;
+&lt;p&gt;Mit dabei: tmk, marcus, simon, tim&lt;/p&gt;
 
 &lt;script&gt;
   podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw82.json&#39;);
 &lt;/script&gt;
 </description>
-      <enclosure url="https://sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2882%29_2019_03_16_tragedy_of_systemd.mp3" type="audio/mpeg" length="1" />
+      <enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2882%29_2019_03_16_tragedy_of_systemd.mp3" type="audio/mpeg" length="1" />
       
       <chapters>
                       &lt;chapter start=&#34;00:00:00&#34; title=&#34;Intro&#34; /&gt;
@@ -1046,15 +1010,11 @@ mit dabei: tmk, nilo, Wolfgang, markus&lt;/p&gt;
       <pubDate>Sat, 19 Jan 2019 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2019-01/sfdvw-81-35c3-immer-noch-nichts-zu-verbergen-und-hebocon/</guid>
-      <description>
-
-&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+      <description>&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
 &lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
 
 &lt;p&gt;Feedback zur Sendung?
 &lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;sfdvw-81-35c3-immer-noch-nichts-zu-verbergen-und-hebocon&#34;&gt;SfdvW - 81 - 35C3 Immer noch nichts zu verbergen und Hebocon&lt;/h2&gt;
 
 &lt;p&gt;Mit dabei: tmk&lt;/p&gt;
 
@@ -1062,7 +1022,7 @@ mit dabei: tmk, nilo, Wolfgang, markus&lt;/p&gt;
   podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw81.json&#39;);
 &lt;/script&gt;
 </description>
-      <enclosure url="https://sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2881%29_2019_01_19_35C3_Immer_noch_nichts_zu_verbergen_und_Hebocon.mp3" type="audio/mpeg" length="1" />
+      <enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2881%29_2019_01_19_35C3_Immer_noch_nichts_zu_verbergen_und_Hebocon.mp3" type="audio/mpeg" length="1" />
       
       <chapters>
                       &lt;chapter start=&#34;00:00:00&#34; title=&#34;35C3&#34; /&gt;&lt;psc:chapter start=&#34;00:27:18&#34; title=&#34;Hebocon&#34; /&gt;
@@ -1075,15 +1035,8 @@ mit dabei: tmk, nilo, Wolfgang, markus&lt;/p&gt;
       <pubDate>Sat, 15 Dec 2018 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2018-12/sfdvw-80-cre-161-ccc-geschichte/</guid>
-      <description>
-
-&lt;p&gt;&lt;div id=&#34;example&#34;&gt;&lt;/div&gt;
+      <description>&lt;p&gt;&lt;div id=&#34;example&#34;&gt;&lt;/div&gt;
 &lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;Feedback zur Sendung?
-&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;sfdvw-80-cre-161-ccc-geschichte&#34;&gt;SfdvW - 80 - CRE 161 CCC Geschichte&lt;/h2&gt;
 
 &lt;p&gt;Mit dabei: tmk&lt;/p&gt;
 
@@ -1091,7 +1044,7 @@ mit dabei: tmk, nilo, Wolfgang, markus&lt;/p&gt;
   podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw80.json&#39;);
 &lt;/script&gt;
 </description>
-      <enclosure url="https://sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2880%29_2018_12_15_CRE_161_CCC_Geschichte.mp3" type="audio/mpeg" length="1" />
+      <enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2880%29_2018_12_15_CRE_161_CCC_Geschichte.mp3" type="audio/mpeg" length="1" />
       
       <chapters>
                       

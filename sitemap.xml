@@ -698,7 +698,7 @@
   
   <url>
     <loc>https://sfdvw.de/tags/ebk/</loc>
-    <lastmod>2020-02-15T00:20:00+02:00</lastmod>
+    <lastmod>2020-01-18T00:20:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1004,7 +1004,7 @@
   
   <url>
     <loc>https://sfdvw.de/tags/laser/</loc>
-    <lastmod>2020-02-15T00:20:00+02:00</lastmod>
+    <lastmod>2020-01-18T00:20:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1311,6 +1311,12 @@
   <url>
     <loc>https://sfdvw.de/tags/squarepusher/</loc>
     <lastmod>2017-10-21T00:20:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sfdvw.de/tags/studio1/</loc>
+    <lastmod>2020-02-15T00:20:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
