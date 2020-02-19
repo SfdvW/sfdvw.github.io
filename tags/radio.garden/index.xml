@@ -17,8 +17,8 @@
       <pubDate>Sat, 17 Mar 2018 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2018-03/sfdvw-77-radio-garden-von-bernd-und-lars/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw77.json&#39;);  </description>
+      <description>  
+Sendung Nummer 77 Radio Garden von Bernd und Lars  podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw77.json&#39;);  </description>
     </item>
     
   </channel>

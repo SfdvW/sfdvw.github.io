@@ -1051,5 +1051,81 @@ mit dabei: tmk, nilo, Wolfgang, markus&lt;/p&gt;
       </chapters>
     </item>
     
+    <item>
+      <title>SfdvW - 79 - R.I.P. Gametrack 2</title>
+      <link>https://sfdvw.de/blog/2018-07/sfdvw-79-r.i.p.-gametrack-2/</link>
+      <pubDate>Sat, 21 Jul 2018 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/blog/2018-07/sfdvw-79-r.i.p.-gametrack-2/</guid>
+      <description>
+
+&lt;p&gt;&lt;div id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;sendung-nummer-79-r-i-p-gametrack-2&#34;&gt;Sendung Nummer 79 - R.I.P. Gametrack 2&lt;/h2&gt;
+
+&lt;p&gt;Mit dabei: tmk&lt;/p&gt;
+
+&lt;script&gt;
+  podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw79.json&#39;);
+&lt;/script&gt;
+</description>
+      <enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2879%29_2018_07_21_R.I.P._Gametrack_2.mp3" type="audio/mpeg" length="1" />
+      
+      <chapters>
+                      
+      </chapters>
+    </item>
+    
+    <item>
+      <title>SfdvW - 78 - Tmks Lieblingsmusik 3</title>
+      <link>https://sfdvw.de/blog/2018-06/sfdvw-78-tmks-lieblingsmusik-3/</link>
+      <pubDate>Sat, 16 Jun 2018 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/blog/2018-06/sfdvw-78-tmks-lieblingsmusik-3/</guid>
+      <description>
+
+&lt;p&gt;&lt;div id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;sendung-nummer-78-tmks-lieblingsmusik-3&#34;&gt;Sendung Nummer 78 - Tmks Lieblingsmusik 3&lt;/h2&gt;
+
+&lt;p&gt;Mit dabei: tmk&lt;/p&gt;
+
+&lt;script&gt;
+  podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw78.json&#39;);
+&lt;/script&gt;
+</description>
+      <enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2878%29_2018_06_16_Tmks_Lieblingsmusik_3.mp3" type="audio/mpeg" length="1" />
+      
+      <chapters>
+                      
+      </chapters>
+    </item>
+    
+    <item>
+      <title>SfdvW - 77 - Radio Garden von Bernd und Lars</title>
+      <link>https://sfdvw.de/blog/2018-03/sfdvw-77-radio-garden-von-bernd-und-lars/</link>
+      <pubDate>Sat, 17 Mar 2018 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/blog/2018-03/sfdvw-77-radio-garden-von-bernd-und-lars/</guid>
+      <description>
+
+&lt;p&gt;&lt;div id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;sendung-nummer-77-radio-garden-von-bernd-und-lars&#34;&gt;Sendung Nummer 77 Radio Garden von Bernd und Lars&lt;/h2&gt;
+
+&lt;script&gt;
+  podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw77.json&#39;);
+&lt;/script&gt;
+</description>
+      <enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2877%29_2018_03_17_Radio_Garden_von_Bernd_und_Lars.mp3" type="audio/mpeg" length="1" />
+      
+      <chapters>
+                      
+      </chapters>
+    </item>
+    
 </channel>
 </rss>
