@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cre203 on Sendung für die vernetzte Welt</title>
+    <title>CRE203 on Sendung für die vernetzte Welt</title>
     <link>https://sfdvw.de/tags/cre203/</link>
-    <description>Recent content in Cre203 on Sendung für die vernetzte Welt</description>
+    <description>Recent content in CRE203 on Sendung für die vernetzte Welt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
     <lastBuildDate>Sat, 24 Jan 2015 00:20:00 +0200</lastBuildDate>
@@ -17,8 +17,7 @@
       <pubDate>Sat, 24 Jan 2015 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2015-01/sfdvw-57-cre203-freifunk-statt-angst/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw57.json&#39;);  </description>
+      <description>Sendung Nummer 57 CRE203 Freifunk statt Angst</description>
     </item>
     
   </channel>

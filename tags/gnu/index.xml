@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gnu on Sendung für die vernetzte Welt</title>
+    <title>GNU on Sendung für die vernetzte Welt</title>
     <link>https://sfdvw.de/tags/gnu/</link>
-    <description>Recent content in Gnu on Sendung für die vernetzte Welt</description>
+    <description>Recent content in GNU on Sendung für die vernetzte Welt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
     <lastBuildDate>Wed, 05 Mar 2008 00:20:00 +0200</lastBuildDate>
@@ -17,8 +17,7 @@
       <pubDate>Wed, 05 Mar 2008 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2008-03/sfdvw-03-richard-stallman-ueber-gnu/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw03.json&#39;);  </description>
+      <description>Sendung Nummer 03 Richard Stallman ueber GNU</description>
     </item>
     
   </channel>

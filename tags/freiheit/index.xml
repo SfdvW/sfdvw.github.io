@@ -17,8 +17,7 @@
       <pubDate>Sat, 10 Oct 2009 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2009-10/sfdvw-18-1-freiheit-statt-angst/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw18-1.json&#39;);  </description>
+      <description>Sendung Nummer 18-1 Freiheit statt Angst</description>
     </item>
     
     <item>
@@ -27,8 +26,7 @@
       <pubDate>Wed, 25 Mar 2009 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2009-03/sfdvw-13-2.0-hacken-freiheit-anarchie-eine-suche-nach-schnittstellen/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw13-2.0.json&#39;);  </description>
+      <description>Sendung Nummer 13-2.0 Hacken Freiheit Anarchie eine Suche nach Schnittstellen</description>
     </item>
     
   </channel>

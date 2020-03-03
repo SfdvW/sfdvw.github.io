@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>35c3 on Sendung für die vernetzte Welt</title>
+    <title>35C3 on Sendung für die vernetzte Welt</title>
     <link>https://sfdvw.de/tags/35c3/</link>
-    <description>Recent content in 35c3 on Sendung für die vernetzte Welt</description>
+    <description>Recent content in 35C3 on Sendung für die vernetzte Welt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
     <lastBuildDate>Sat, 19 Jan 2019 00:20:00 +0200</lastBuildDate>
@@ -17,10 +17,7 @@
       <pubDate>Sat, 19 Jan 2019 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2019-01/sfdvw-81-35c3-immer-noch-nichts-zu-verbergen-und-hebocon/</guid>
-      <description> 
-Feedback zur Sendung? Schreibe uns ein Kommentar
-Mit dabei: tmk
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw81.json&#39;);  </description>
+      <description>Sendung Nummer 81 - 35C3 Immer noch nichts zu verbergen und Hebocon</description>
     </item>
     
   </channel>

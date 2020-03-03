@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mit_code_die _Welt_verbessern on Sendung für die vernetzte Welt</title>
+    <title>Mit_Code_die _Welt_verbessern on Sendung für die vernetzte Welt</title>
     <link>https://sfdvw.de/tags/mit_code_die-_welt_verbessern/</link>
-    <description>Recent content in Mit_code_die _Welt_verbessern on Sendung für die vernetzte Welt</description>
+    <description>Recent content in Mit_Code_die _Welt_verbessern on Sendung für die vernetzte Welt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
     <lastBuildDate>Sat, 20 Jan 2018 00:20:00 +0200</lastBuildDate>
@@ -17,8 +17,7 @@
       <pubDate>Sat, 20 Jan 2018 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2018-01/sfdvw-75-mit-code-die-welt-verbessern/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw75.json&#39;);  </description>
+      <description>Sendung Nummer 75 Mit Code die Welt verbessern</description>
     </item>
     
   </channel>

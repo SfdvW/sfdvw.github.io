@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gpn on Sendung für die vernetzte Welt</title>
+    <title>GPN on Sendung für die vernetzte Welt</title>
     <link>https://sfdvw.de/tags/gpn/</link>
-    <description>Recent content in Gpn on Sendung für die vernetzte Welt</description>
+    <description>Recent content in GPN on Sendung für die vernetzte Welt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
     <lastBuildDate>Sat, 10 Sep 2011 00:20:00 +0200</lastBuildDate>
@@ -17,8 +17,7 @@
       <pubDate>Sat, 10 Sep 2011 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2011-09/sfdvw-35-gpn11-1378km-inkl-jingle-am-anfang/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw35.json&#39;);  </description>
+      <description>Sendung Nummer 35 GPN11 1378km inkl Jingle am Anfang</description>
     </item>
     
   </channel>

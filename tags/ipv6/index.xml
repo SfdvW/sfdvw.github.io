@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ipv6 on Sendung für die vernetzte Welt</title>
+    <title>IPv6 on Sendung für die vernetzte Welt</title>
     <link>https://sfdvw.de/tags/ipv6/</link>
-    <description>Recent content in Ipv6 on Sendung für die vernetzte Welt</description>
+    <description>Recent content in IPv6 on Sendung für die vernetzte Welt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
     <lastBuildDate>Sat, 16 Jul 2011 00:20:00 +0200</lastBuildDate>
@@ -17,8 +17,7 @@
       <pubDate>Sat, 16 Jul 2011 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2011-07/sfdvw-33-ct-online-talk-auf-dradiowissen-ipv6/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw33.json&#39;);  </description>
+      <description>Sendung Nummer 33 c&amp;rsquo;t online talk auf DRadioWissen IPv6</description>
     </item>
     
   </channel>

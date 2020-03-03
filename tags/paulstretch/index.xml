@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Paulstretch on Sendung für die vernetzte Welt</title>
+    <title>PAULSTRETCH on Sendung für die vernetzte Welt</title>
     <link>https://sfdvw.de/tags/paulstretch/</link>
-    <description>Recent content in Paulstretch on Sendung für die vernetzte Welt</description>
+    <description>Recent content in PAULSTRETCH on Sendung für die vernetzte Welt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
     <lastBuildDate>Sat, 21 Oct 2017 00:20:00 +0200</lastBuildDate>
@@ -17,8 +17,7 @@
       <pubDate>Sat, 21 Oct 2017 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2017-10/sfdvw-73-do-you-know-squarepusher-paulstretch/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw73.json&#39;);  </description>
+      <description>Sendung Nummer 73 Do you know Squarepusher PAULSTRETCH</description>
     </item>
     
   </channel>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Radio.garden on Sendung für die vernetzte Welt</title>
+    <title>radio.garden on Sendung für die vernetzte Welt</title>
     <link>https://sfdvw.de/tags/radio.garden/</link>
-    <description>Recent content in Radio.garden on Sendung für die vernetzte Welt</description>
+    <description>Recent content in radio.garden on Sendung für die vernetzte Welt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
     <lastBuildDate>Sat, 17 Mar 2018 00:20:00 +0200</lastBuildDate>
@@ -17,8 +17,7 @@
       <pubDate>Sat, 17 Mar 2018 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2018-03/sfdvw-77-radio-garden-von-bernd-und-lars/</guid>
-      <description>  
-Sendung Nummer 77 Radio Garden von Bernd und Lars  podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw77.json&#39;);  </description>
+      <description>Sendung Nummer 77 Radio Garden von Bernd und Lars</description>
     </item>
     
   </channel>

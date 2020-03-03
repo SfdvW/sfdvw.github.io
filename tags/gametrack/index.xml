@@ -17,9 +17,7 @@
       <pubDate>Sat, 21 Jul 2018 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2018-07/sfdvw-79-r.i.p.-gametrack-2/</guid>
-      <description>  
-Sendung Nummer 79 - R.I.P. Gametrack 2 Mit dabei: tmk
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw79.json&#39;);  </description>
+      <description>Sendung Nummer 79 - R.I.P. Gametrack 2</description>
     </item>
     
     <item>
@@ -28,8 +26,7 @@ Sendung Nummer 79 - R.I.P. Gametrack 2 Mit dabei: tmk
       <pubDate>Sat, 15 Jul 2017 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2017-07/sfdvw-72-r.i.p.-gametrack/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw72.json&#39;);  </description>
+      <description>Sendung Nummer 72 R.I.P. Gametrack</description>
     </item>
     
     <item>
@@ -38,8 +35,7 @@ Sendung Nummer 79 - R.I.P. Gametrack 2 Mit dabei: tmk
       <pubDate>Sat, 24 Mar 2012 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2012-03/sfdvw-42-gametrack-machinarium/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw42.json&#39;);  </description>
+      <description>Sendung Nummer 42 Gametrack Machinarium</description>
     </item>
     
   </channel>

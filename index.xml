@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
     <title>Sendung für die vernetzte Welt</title>
@@ -946,8 +945,37 @@ mit dabei: tmk, nilo, Wolfgang, markus&lt;/p&gt;
       <pubDate>Sat, 21 Sep 2019 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2019-09/sfdvw-84-win10-privat/</guid>
-      <description>&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+      <description>
+
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
 &lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;sendung-nummer-84-win10-private&#34;&gt;Sendung Nummer 84 Win10-Private&lt;/h2&gt;
+
+&lt;p&gt;mit dabei: Nilo, Markus, jotilux, tmk&lt;/p&gt;
+
+&lt;h3 id=&#34;shownotes&#34;&gt;Shownotes&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Intro&lt;/li&gt;
+&lt;li&gt;Begrüßung&lt;/li&gt;
+&lt;li&gt;Musik1&lt;/li&gt;
+&lt;li&gt;Windows Offline-Konto oder lokales Konto&lt;/li&gt;
+&lt;li&gt;Musik2&lt;/li&gt;
+&lt;li&gt;Bloat-Apps, One-Note, Office&lt;/li&gt;
+&lt;li&gt;Musik3&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=J8J1UGEloGo&#34;&gt;Sempervideo - Windows 10 Spy-Funktionen abschalten&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;App Berechtigungen, Ordneroptionen Dateiendungen anzeigen, Defender oder 3rd Party Defender-Einstellungen&lt;/li&gt;
+&lt;li&gt;Musik4&lt;/li&gt;
+&lt;li&gt;Braucht man Windows wirklich&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.oo-software.com/de/shutup10&#34;&gt;Windows 10 zum Schweigen bringen!&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.itz.uni-halle.de/win10&#34;&gt;ITZ MLU Win 10 Privacy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Win10 genießen?&lt;/li&gt;
+&lt;li&gt;Veranstaltung und Outro&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;script&gt;
   podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw84.json&#39;);
@@ -966,8 +994,15 @@ mit dabei: tmk, nilo, Wolfgang, markus&lt;/p&gt;
       <pubDate>Sat, 17 Aug 2019 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2019-08/sfdvw-83-jugend-hackt-junghacker-ebk-tdot/</guid>
-      <description>&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+      <description>
+
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
 &lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;sendung-nummer-83-jugend-hackt-junghacker-ebk-tdot&#34;&gt;Sendung Nummer 83 - Jugend hackt, junghacker, EBK TdoT&lt;/h2&gt;
 
 &lt;p&gt;Mit dabei: tmk, nilo&lt;/p&gt;
 
@@ -988,8 +1023,15 @@ mit dabei: tmk, nilo, Wolfgang, markus&lt;/p&gt;
       <pubDate>Sat, 16 Mar 2019 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2019-03/sfdvw-82-tragedy-of-systemd/</guid>
-      <description>&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+      <description>
+
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
 &lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;sendung-nummer-82-tragedy-of-systemd&#34;&gt;Sendung Nummer 82 - tragedy of systemd&lt;/h2&gt;
 
 &lt;p&gt;Mit dabei: tmk, marcus, simon, tim&lt;/p&gt;
 
@@ -1010,11 +1052,15 @@ mit dabei: tmk, nilo, Wolfgang, markus&lt;/p&gt;
       <pubDate>Sat, 19 Jan 2019 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2019-01/sfdvw-81-35c3-immer-noch-nichts-zu-verbergen-und-hebocon/</guid>
-      <description>&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+      <description>
+
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
 &lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
 
 &lt;p&gt;Feedback zur Sendung?
 &lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;sendung-nummer-81-35c3-immer-noch-nichts-zu-verbergen-und-hebocon&#34;&gt;Sendung Nummer 81 - 35C3 Immer noch nichts zu verbergen und Hebocon&lt;/h2&gt;
 
 &lt;p&gt;Mit dabei: tmk&lt;/p&gt;
 
@@ -1035,8 +1081,15 @@ mit dabei: tmk, nilo, Wolfgang, markus&lt;/p&gt;
       <pubDate>Sat, 15 Dec 2018 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2018-12/sfdvw-80-cre-161-ccc-geschichte/</guid>
-      <description>&lt;p&gt;&lt;div id=&#34;example&#34;&gt;&lt;/div&gt;
+      <description>
+
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
 &lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;sendung-nummer-80-cre-161-ccc-geschichte&#34;&gt;Sendung Nummer 80 - CRE 161 CCC Geschichte&lt;/h2&gt;
 
 &lt;p&gt;Mit dabei: tmk&lt;/p&gt;
 
@@ -1059,8 +1112,11 @@ mit dabei: tmk, nilo, Wolfgang, markus&lt;/p&gt;
       <guid>https://sfdvw.de/blog/2018-07/sfdvw-79-r.i.p.-gametrack-2/</guid>
       <description>
 
-&lt;p&gt;&lt;div id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
 &lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;sendung-nummer-79-r-i-p-gametrack-2&#34;&gt;Sendung Nummer 79 - R.I.P. Gametrack 2&lt;/h2&gt;
 
@@ -1085,8 +1141,11 @@ mit dabei: tmk, nilo, Wolfgang, markus&lt;/p&gt;
       <guid>https://sfdvw.de/blog/2018-06/sfdvw-78-tmks-lieblingsmusik-3/</guid>
       <description>
 
-&lt;p&gt;&lt;div id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
 &lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;sendung-nummer-78-tmks-lieblingsmusik-3&#34;&gt;Sendung Nummer 78 - Tmks Lieblingsmusik 3&lt;/h2&gt;
 
@@ -1111,8 +1170,11 @@ mit dabei: tmk, nilo, Wolfgang, markus&lt;/p&gt;
       <guid>https://sfdvw.de/blog/2018-03/sfdvw-77-radio-garden-von-bernd-und-lars/</guid>
       <description>
 
-&lt;p&gt;&lt;div id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
 &lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;sendung-nummer-77-radio-garden-von-bernd-und-lars&#34;&gt;Sendung Nummer 77 Radio Garden von Bernd und Lars&lt;/h2&gt;
 

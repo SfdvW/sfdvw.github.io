@@ -17,9 +17,7 @@
       <pubDate>Sat, 16 Jun 2018 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2018-06/sfdvw-78-tmks-lieblingsmusik-3/</guid>
-      <description>  
-Sendung Nummer 78 - Tmks Lieblingsmusik 3 Mit dabei: tmk
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw78.json&#39;);  </description>
+      <description>Sendung Nummer 78 - Tmks Lieblingsmusik 3</description>
     </item>
     
     <item>
@@ -28,8 +26,7 @@ Sendung Nummer 78 - Tmks Lieblingsmusik 3 Mit dabei: tmk
       <pubDate>Sat, 16 Jul 2016 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2016-07/sfdvw-63-tmks-lieblingsmusik-2/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw63.json&#39;);  </description>
+      <description>Sendung Nummer 63 Tmks Lieblingsmusik 2</description>
     </item>
     
     <item>
@@ -38,8 +35,7 @@ Sendung Nummer 78 - Tmks Lieblingsmusik 3 Mit dabei: tmk
       <pubDate>Sat, 26 Jan 2013 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2013-01/sfdvw-48-tmks-lieblingsmusik/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw48.json&#39;);  </description>
+      <description>Sendung Nummer 48 Tmks Lieblingsmusik</description>
     </item>
     
   </channel>

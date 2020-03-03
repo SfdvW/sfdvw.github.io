@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>26c3 on Sendung für die vernetzte Welt</title>
+    <title>26C3 on Sendung für die vernetzte Welt</title>
     <link>https://sfdvw.de/tags/26c3/</link>
-    <description>Recent content in 26c3 on Sendung für die vernetzte Welt</description>
+    <description>Recent content in 26C3 on Sendung für die vernetzte Welt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
     <lastBuildDate>Sat, 30 Jan 2010 00:20:00 +0200</lastBuildDate>
@@ -17,8 +17,7 @@
       <pubDate>Sat, 30 Jan 2010 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2010-01/sfdvw-21-cop15-26c3-heizwerk/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw21.json&#39;);  </description>
+      <description>Sendung Nummer 21 Cop15 26C3 Heizwerk</description>
     </item>
     
   </channel>

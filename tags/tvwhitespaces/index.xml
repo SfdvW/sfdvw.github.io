@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tvwhitespaces on Sendung für die vernetzte Welt</title>
+    <title>TVWhitespaces on Sendung für die vernetzte Welt</title>
     <link>https://sfdvw.de/tags/tvwhitespaces/</link>
-    <description>Recent content in Tvwhitespaces on Sendung für die vernetzte Welt</description>
+    <description>Recent content in TVWhitespaces on Sendung für die vernetzte Welt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
     <lastBuildDate>Sat, 21 May 2016 00:20:00 +0200</lastBuildDate>
@@ -17,8 +17,7 @@
       <pubDate>Sat, 21 May 2016 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2016-05/sfdvw-62-wireless-community-weekend-2016-ffharz-tvwhitespace/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw62.json&#39;);  </description>
+      <description>Sendung Nummer 62 Wireless Community Weekend 2016 FFHarz TVWhitespace</description>
     </item>
     
   </channel>

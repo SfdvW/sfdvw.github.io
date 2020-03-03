@@ -17,8 +17,7 @@
       <pubDate>Sat, 10 Sep 2011 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2011-09/sfdvw-35-gpn11-1378km-inkl-jingle-am-anfang/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw35.json&#39;);  </description>
+      <description>Sendung Nummer 35 GPN11 1378km inkl Jingle am Anfang</description>
     </item>
     
     <item>
@@ -27,8 +26,7 @@
       <pubDate>Sat, 11 Sep 2010 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2010-09/sfdvw-28-radio-chaotica-auf-querfunk-gulaschprogrammiernacht8/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw28.json&#39;);  </description>
+      <description>Sendung Nummer 28 Radio Chaotica auf Querfunk Gulaschprogrammiernacht8</description>
     </item>
     
   </channel>

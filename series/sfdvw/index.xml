@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sfdvw on Sendung für die vernetzte Welt</title>
+    <title>SfdvW on Sendung für die vernetzte Welt</title>
     <link>https://sfdvw.de/series/sfdvw/</link>
-    <description>Recent content in Sfdvw on Sendung für die vernetzte Welt</description>
+    <description>Recent content in SfdvW on Sendung für die vernetzte Welt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
     <lastBuildDate>Sat, 15 Feb 2020 00:20:00 +0200</lastBuildDate>
@@ -17,10 +17,7 @@
       <pubDate>Sat, 15 Feb 2020 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2020-02/sfdvw-89-congress-review-2-36c3/</guid>
-      <description>Feedback zur Sendung?Schreibe uns ein Kommentar
-SfdvW - 89 - Congressreview mit dabei: tmk, markus, nilo, jotilux
-Worum geht es Heute? zweites Review zum Chaos Comunication Congress Nummer 36
-Makroplastik - noisio  abra zen from A B R A Z E N by Makroplastik sozusagen from A B R A Z E N by Makroplastik noisio Webseite noisio Soundcloud  Klima? Congress?  ein Mensch mit Normgröße (Gewicht: 75kg), der ruhig in einer Umgebungstemperatur von mehr als 16 Grad Celsius (°C) sitzt gibt einen Wärmestrom von 120 Watt ab Mensch als Heizung Wikipedia Globale Erwärmung Vortrag Extinction Rebellion Jahresrückblick 2019 (Maria, Lu Yen Roloff and sina)  36c3-10738-extinction_rebellion extinction rebellion  Wikipedia Energiemix Mobilität der Zukunft Vortrag Verkehrswende selber hacken (robbi5, ubahnverleih)  36c3-10881-verkehrswende_selber_hacken  Idealismus gebrochen?  Mukkefilterblase durchbrechen  Alaska Thunderfuck - Your Makeup Is Terrible  Kunst auf dem Congress  Flipdot-Magie 32c3 Flipdot-Magie CES2015 noch mehr mehr mehr Bilder vom 36C3 Wikipedia stehnde Welle Wikipedia AVE Pixelflut Vimeo Vortrag 36C3 Infrastructure Review (Leon)  36c3-11235-36c3_infrastructure_review  Vortrag der dezentrale jahresruckblick des ccc  36c3-11225-der_dezentrale_jahresruckblick_des_ccc  Vortrag Hebocon (honky)  36c3-10776-hebocon Werbung in fremder Sache: Grüße nach Dresden ans Pentaradio  Vortrag Hacker Jeopardy - Zahlenraten für Geeks (Sec and Ray)  36c3-11177-hacker_jeopardy  Aluburka  Mukkefilterblase durchbrechen Teil2 Tres - inTRESsant - My Computer</description>
+      <description>Sendung Nummer 89 Congress Review 2 36C3</description>
     </item>
     
     <item>
@@ -29,9 +26,7 @@ Makroplastik - noisio  abra zen from A B R A Z E N by Makroplastik sozusagen fro
       <pubDate>Sat, 18 Jan 2020 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2020-01/sfdvw-88-congress-review-36c3/</guid>
-      <description>Feedback zur Sendung? Schreibe uns ein Kommentar
-SfdvW - 88 - Congressreview mit dabei: tmk, markus, nilo, jotilux
-Worum geht es Heute?  der 36. Chaos Communication Congress (36C3) fand in Leipzig vom 27.-30.12.2019 statt eine Vier-Tage-Konferenz mit 17k Teilnehmer/innen über Technologie, Gesellschaft und Utopie organisiert vom Chaos Computer Club (CCC) und vielen ehrenamtlichen Helfern mit Vorträgen, Workshops und Kunst das Motto des 36C3 war &amp;ldquo;Resource Exhaustion&amp;rdquo; eine Doppeldeutung bezogen auf technische und gesellschaftliche Belage Twitter #36c3 einen kleinen visuellen Eindruck zum LASER &amp;amp; Co. kann man beim Hacker-&amp;amp; Makerspace Bingen im flicker Fotostream erhalten Recordings der Vorträge gibt es unter media.ccc.de Der Earth Overshoot Day  (auch „Erdüberlastungstag“ genannt – und immer seltener auch „Ecological Debt Day“, „Welterschöpfungstag“, „Weltüberlastungstag“ oder „Ökoschuldentag“) ist in einer jährlichen Kampagne der Organisation Global Footprint Network der Tag des laufenden Jahres, an dem die menschliche Nachfrage nach nachwachsenden Rohstoffen das Angebot und die Kapazität der Erde zur Reproduktion dieser Ressourcen in diesem Jahr übersteigt.</description>
+      <description>Sendung Nummer 88 Congress Review 36C3</description>
     </item>
     
     <item>
@@ -40,17 +35,7 @@ Worum geht es Heute?  der 36. Chaos Communication Congress (36C3) fand in Leipzi
       <pubDate>Sat, 21 Dec 2019 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2019-12/sfdvw-87-backups/</guid>
-      <description>Feedback zur Sendung? Schreibe uns ein Kommentar
-SfdvW - 87 - Backups mit dabei: tmk, markus, reem, jotilux
-Worum geht es Heute Weihnachtszeit ist Backup-Zeit -&amp;gt; Chaos Communicaton Congress + IT Support bei der Familie
-Hardware- oder Softwaredefekt, Viren/Trojaner, Diebstahl oder höhere Gewalt(Überspannung/Hochwasser): schon sind die Daten weg
-Hinweise Ihr wollte nicht Daten-Sichern, Ihr wollt sie Wiederherstellen.
-Backup(Datensicherung) heißt Daten mindestens zweimal zu haben möglichst ortsgetrennt(Disaster Recovery)
-Backupstrategien  Großvater-Vater-Sohn-Prinzip / Generationsprinzip
- 21 Bänder  12 Stück Januar - Dezember (Großvater) 5 Stück Freitag 1 - Freitag 5 (Vater) 4 Stück Mo - Do (Sohn)   Vollbackup
- pro: alle Dateien, Restore mit nur einem Medium con: viel Platz pro Backup  Inkrementelles Backup (Archiv-Bit)
- Mo - Vollbackup Di - Do Intrementell (Änderungen täglich) Ausfall Do d.h. benötigt Do, Mi, Di, Mo  Differenzielles Backup
- Mo - Vollbackup Di - Do Differenziell (Änderungen Wöchentlich) Do beinhaltet alle Änderungen bis Mo Ausfall Do d.</description>
+      <description>Sendung Nummer 87 Backups</description>
     </item>
     
     <item>
@@ -59,11 +44,7 @@ Backupstrategien  Großvater-Vater-Sohn-Prinzip / Generationsprinzip
       <pubDate>Sat, 16 Nov 2019 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2019-11/sfdvw-86-ubuntu-linuxeinstieg/</guid>
-      <description>Feedback zur Sendung? Schreibe uns ein Kommentar
-SfdvW - 86 - Ubuntu-Linuxeinstieg Sendungstermin 16.11.2019 20-21Uhr mit dabei: tmk, nilo, Wolfgang, markus, jotilux, mantu
-Worum geht es Heute  scheinbar alte Hardware weiter verwenden, die mit Windows 10 nicht mehr benutzbar wäre Das Microsoft-Dilemma heise.de Warum *buntu ?  ganz gut für den Einstieg verbreitete Community  live installieren und Infos für danach  im Twitch-Livestream zuschauen  Xubuntu,Kubuntu,Lubuntu  wiki.ubuntuusers.de/Ubuntu/Derivate/  Windowmanager (I3, XFCE, KDM GNOME, Cinnamon, Mate)  Vorbereitung  Backup der Daten auf dem Gerät machen !! Stick vorbereiten wie geht das  try-ubuntu-before-you-install easy2boot.com Linux live von USB-Stick ausprobieren  Eine mögliche Installation im Dual Boot Betrieb  Windows und Linux gemeinsam auf einer Festplatte  Alternativ kann neben der vorhandenen Festplatte auch eine neue Eingabaut serden (Bootreihenfolge im BIOS)
- Linux/BSD/freie OS warum?
- wikipedia Liste_von_Linux-Distributionen Update einfacher Umstieg auf andere Distributionen sehr einfach  Finanzierung</description>
+      <description>Sendung Nummer 86 Ubuntu-Linuxeinstieg</description>
     </item>
     
     <item>
@@ -72,10 +53,7 @@ Worum geht es Heute  scheinbar alte Hardware weiter verwenden, die mit Windows 1
       <pubDate>Sat, 19 Oct 2019 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2019-10/sfdvw-85-mobile-messenger/</guid>
-      <description>Feedback zur Sendung? Schreibe uns ein Kommentar
-SfdvW - 85 - mobile Messenger Sendungstermin 19.10.2019 20-21Uhr mit dabei: tmk, nilo, Wolfgang, markus
-Worum geht es Heute  Thema mobile messenger: &amp;ldquo;Die Liste von Kommunikationsprogrammen resp. Diensten ist lang. Eine Auswahl schwierig. Meist wird daher der Dienst zur eigenen Gewohnheit übernommen, welcher auch das persönliche Umfeld am häufigsten benutzt. Die Unterschiede sind jedoch gross, so dass sich eine genauere Betrachtung lohnt.&amp;rdquo; - digitale-gesellschaft.ch 2016-11-07 Überblick Wikipedia Überblick digitale Gesellschaft Funktionen die ein mobile messenger haben kann  Textnachrichten, Sprachnachrichten, Bildnachrichten, Gruppenchat, Asynchrone Kommunikation (Nachricht wird bei Status Offline zwischengespeichert)   &amp;ldquo;früher&amp;rdquo;  pager (quix, telmi, scall, skyper)  Funkmeldeempfänger und Pager Computer:Club2  sms / stille sms  wie verbreitet ist es  Persönliche Erfahrung: Was nutzen/haben wir genutzt?
- Riot (Matrix)  Matrix_(communication_protocol)  Whatsapp  am weiten verbreitetestr Ende zu Ende verschlüsselter Messanger  Verschlüsselung von Signal &amp;ldquo;eingekauft&amp;rdquo;   Signal  signal-foundation benötigt eine Telefonnummer  Threema  Bosch und Schweizer Bundesbehörden nutzen es closed Source  Telegram  open Source Client, Server closed Source Selbstentwickelte Verschlüsselung MTProto-Protokoll  XMPP/Jabber  Selbst hosten, kompliziert aber Grundlage vieler anderer messagnger (facebook) Androidclient  Chiffry  Regional (Teutschenthal)  briar  serverless    gibt auch noch andere Tools, die für messaging benutzt werden können</description>
+      <description>Sendung Nummer 85 mobile Messenger</description>
     </item>
     
     <item>
@@ -84,8 +62,7 @@ Worum geht es Heute  Thema mobile messenger: &amp;ldquo;Die Liste von Kommunikat
       <pubDate>Sat, 21 Sep 2019 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2019-09/sfdvw-84-win10-privat/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw84.json&#39;);  </description>
+      <description>Sendung Nummer 84 Win10-Private</description>
     </item>
     
     <item>
@@ -94,9 +71,7 @@ Worum geht es Heute  Thema mobile messenger: &amp;ldquo;Die Liste von Kommunikat
       <pubDate>Sat, 17 Aug 2019 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2019-08/sfdvw-83-jugend-hackt-junghacker-ebk-tdot/</guid>
-      <description> 
-Mit dabei: tmk, nilo
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw83.json&#39;);  </description>
+      <description>Sendung Nummer 83 - Jugend hackt, junghacker, EBK TdoT</description>
     </item>
     
     <item>
@@ -105,9 +80,7 @@ Mit dabei: tmk, nilo
       <pubDate>Sat, 16 Mar 2019 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2019-03/sfdvw-82-tragedy-of-systemd/</guid>
-      <description> 
-Mit dabei: tmk, marcus, simon, tim
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw82.json&#39;);  </description>
+      <description>Sendung Nummer 82 - tragedy of systemd</description>
     </item>
     
     <item>
@@ -116,10 +89,7 @@ Mit dabei: tmk, marcus, simon, tim
       <pubDate>Sat, 19 Jan 2019 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2019-01/sfdvw-81-35c3-immer-noch-nichts-zu-verbergen-und-hebocon/</guid>
-      <description> 
-Feedback zur Sendung? Schreibe uns ein Kommentar
-Mit dabei: tmk
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw81.json&#39;);  </description>
+      <description>Sendung Nummer 81 - 35C3 Immer noch nichts zu verbergen und Hebocon</description>
     </item>
     
     <item>
@@ -128,9 +98,7 @@ Mit dabei: tmk
       <pubDate>Sat, 15 Dec 2018 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2018-12/sfdvw-80-cre-161-ccc-geschichte/</guid>
-      <description> 
-Mit dabei: tmk
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw80.json&#39;);  </description>
+      <description>Sendung Nummer 80 - CRE 161 CCC Geschichte</description>
     </item>
     
     <item>
@@ -139,9 +107,7 @@ Mit dabei: tmk
       <pubDate>Sat, 21 Jul 2018 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2018-07/sfdvw-79-r.i.p.-gametrack-2/</guid>
-      <description>  
-Sendung Nummer 79 - R.I.P. Gametrack 2 Mit dabei: tmk
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw79.json&#39;);  </description>
+      <description>Sendung Nummer 79 - R.I.P. Gametrack 2</description>
     </item>
     
     <item>
@@ -150,9 +116,7 @@ Sendung Nummer 79 - R.I.P. Gametrack 2 Mit dabei: tmk
       <pubDate>Sat, 16 Jun 2018 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2018-06/sfdvw-78-tmks-lieblingsmusik-3/</guid>
-      <description>  
-Sendung Nummer 78 - Tmks Lieblingsmusik 3 Mit dabei: tmk
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw78.json&#39;);  </description>
+      <description>Sendung Nummer 78 - Tmks Lieblingsmusik 3</description>
     </item>
     
     <item>
@@ -161,8 +125,7 @@ Sendung Nummer 78 - Tmks Lieblingsmusik 3 Mit dabei: tmk
       <pubDate>Sat, 17 Mar 2018 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2018-03/sfdvw-77-radio-garden-von-bernd-und-lars/</guid>
-      <description>  
-Sendung Nummer 77 Radio Garden von Bernd und Lars  podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw77.json&#39;);  </description>
+      <description>Sendung Nummer 77 Radio Garden von Bernd und Lars</description>
     </item>
     
     <item>
@@ -171,8 +134,7 @@ Sendung Nummer 77 Radio Garden von Bernd und Lars  podlovePlayer(&#39;#example&#
       <pubDate>Sat, 17 Feb 2018 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2018-02/sfdvw-76-klinke-live-todo/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw76.json&#39;);  </description>
+      <description>Sendung Nummer 76 Klinke Live TODO</description>
     </item>
     
     <item>
@@ -181,8 +143,7 @@ Sendung Nummer 77 Radio Garden von Bernd und Lars  podlovePlayer(&#39;#example&#
       <pubDate>Sat, 20 Jan 2018 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2018-01/sfdvw-75-mit-code-die-welt-verbessern/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw75.json&#39;);  </description>
+      <description>Sendung Nummer 75 Mit Code die Welt verbessern</description>
     </item>
     
     <item>
@@ -191,8 +152,7 @@ Sendung Nummer 77 Radio Garden von Bernd und Lars  podlovePlayer(&#39;#example&#
       <pubDate>Sat, 16 Dec 2017 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2017-12/sfdvw-74-einf%C3%BChrung-in-die-blockchain/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw74.json&#39;);  </description>
+      <description>Sendung Nummer 74 Einführung in die Blockchain</description>
     </item>
     
     <item>
@@ -201,8 +161,7 @@ Sendung Nummer 77 Radio Garden von Bernd und Lars  podlovePlayer(&#39;#example&#
       <pubDate>Sat, 21 Oct 2017 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2017-10/sfdvw-73-do-you-know-squarepusher-paulstretch/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw73.json&#39;);  </description>
+      <description>Sendung Nummer 73 Do you know Squarepusher PAULSTRETCH</description>
     </item>
     
     <item>
@@ -211,8 +170,7 @@ Sendung Nummer 77 Radio Garden von Bernd und Lars  podlovePlayer(&#39;#example&#
       <pubDate>Sat, 15 Jul 2017 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2017-07/sfdvw-72-r.i.p.-gametrack/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw72.json&#39;);  </description>
+      <description>Sendung Nummer 72 R.I.P. Gametrack</description>
     </item>
     
     <item>
@@ -221,8 +179,7 @@ Sendung Nummer 77 Radio Garden von Bernd und Lars  podlovePlayer(&#39;#example&#
       <pubDate>Sat, 15 Apr 2017 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2017-04/sfdvw-71-ebk-junghacker/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw71.json&#39;);  </description>
+      <description>Sendung Nummer 71 EBK Junghacker</description>
     </item>
     
     <item>
@@ -231,8 +188,7 @@ Sendung Nummer 77 Radio Garden von Bernd und Lars  podlovePlayer(&#39;#example&#
       <pubDate>Sat, 18 Mar 2017 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2017-03/sfdvw-70-frank-rieger-im-nsa-untersuchungsausschuss/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw70.json&#39;);  </description>
+      <description>Sendung Nummer 70 Frank Rieger im NSA-Untersuchungsausschuss</description>
     </item>
     
     <item>
@@ -241,8 +197,7 @@ Sendung Nummer 77 Radio Garden von Bernd und Lars  podlovePlayer(&#39;#example&#
       <pubDate>Sat, 18 Feb 2017 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2017-02/sfdvw-69-computermuseum-halle/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw69.json&#39;);  </description>
+      <description>Sendung Nummer 69 Computermuseum Halle</description>
     </item>
     
     <item>
@@ -251,8 +206,7 @@ Sendung Nummer 77 Radio Garden von Bernd und Lars  podlovePlayer(&#39;#example&#
       <pubDate>Sat, 21 Jan 2017 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2017-01/sfdvw-68-kongressfieber/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw68.json&#39;);  </description>
+      <description>Sendung Nummer 68 Kongressfieber</description>
     </item>
     
     <item>
@@ -261,8 +215,7 @@ Sendung Nummer 77 Radio Garden von Bernd und Lars  podlovePlayer(&#39;#example&#
       <pubDate>Sat, 17 Dec 2016 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2016-12/sfdvw-67-industrie%C3%A4sthetik/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw67.json&#39;);  </description>
+      <description>Sendung Nummer 67 Industrieästhetik</description>
     </item>
     
     <item>
@@ -271,8 +224,7 @@ Sendung Nummer 77 Radio Garden von Bernd und Lars  podlovePlayer(&#39;#example&#
       <pubDate>Sat, 19 Nov 2016 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2016-11/sfdvw-66-amateurfunk/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw66.json&#39;);  </description>
+      <description>Sendung Nummer 66 Amateurfunk</description>
     </item>
     
     <item>
@@ -281,8 +233,7 @@ Sendung Nummer 77 Radio Garden von Bernd und Lars  podlovePlayer(&#39;#example&#
       <pubDate>Sat, 15 Oct 2016 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2016-10/sfdvw-65-radio-revolten/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw65.json&#39;);  </description>
+      <description>Sendung Nummer 65 Radio Revolten</description>
     </item>
     
     <item>
@@ -291,8 +242,7 @@ Sendung Nummer 77 Radio Garden von Bernd und Lars  podlovePlayer(&#39;#example&#
       <pubDate>Sat, 17 Sep 2016 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2016-09/sfdvw-64-el-grande-nada-live/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw64.json&#39;);  </description>
+      <description>Sendung Nummer 64 El Grande Nada Live</description>
     </item>
     
     <item>
@@ -301,8 +251,7 @@ Sendung Nummer 77 Radio Garden von Bernd und Lars  podlovePlayer(&#39;#example&#
       <pubDate>Sat, 16 Jul 2016 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2016-07/sfdvw-63-tmks-lieblingsmusik-2/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw63.json&#39;);  </description>
+      <description>Sendung Nummer 63 Tmks Lieblingsmusik 2</description>
     </item>
     
     <item>
@@ -311,8 +260,7 @@ Sendung Nummer 77 Radio Garden von Bernd und Lars  podlovePlayer(&#39;#example&#
       <pubDate>Sat, 21 May 2016 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2016-05/sfdvw-62-wireless-community-weekend-2016-ffharz-tvwhitespace/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw62.json&#39;);  </description>
+      <description>Sendung Nummer 62 Wireless Community Weekend 2016 FFHarz TVWhitespace</description>
     </item>
     
     <item>
@@ -321,8 +269,7 @@ Sendung Nummer 77 Radio Garden von Bernd und Lars  podlovePlayer(&#39;#example&#
       <pubDate>Sat, 23 Jan 2016 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2016-01/sfdvw-61-freifunk-halle/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw61.json&#39;);  </description>
+      <description>Sendung Nummer 61 Freifunk Halle</description>
     </item>
     
     <item>
@@ -331,8 +278,7 @@ Sendung Nummer 77 Radio Garden von Bernd und Lars  podlovePlayer(&#39;#example&#
       <pubDate>Sat, 31 Oct 2015 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2015-10/sfdvw-60-pommes-weltreisen-teil-1/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw60.json&#39;);  </description>
+      <description>Sendung Nummer 60 Pommes Weltreisen Teil 1</description>
     </item>
     
     <item>
@@ -341,8 +287,7 @@ Sendung Nummer 77 Radio Garden von Bernd und Lars  podlovePlayer(&#39;#example&#
       <pubDate>Sat, 05 Sep 2015 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2015-09/sfdvw-59-alexander-gerst-6-monate-leben-und-arbeiten-auf-der-iss-re-publica-2015/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw59.json&#39;);  </description>
+      <description>Sendung Nummer 59 Alexander Gerst 6 Monate leben und arbeiten auf der ISS Re Publica 2015</description>
     </item>
     
     <item>
@@ -351,8 +296,7 @@ Sendung Nummer 77 Radio Garden von Bernd und Lars  podlovePlayer(&#39;#example&#
       <pubDate>Sat, 16 May 2015 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2015-05/sfdvw-58-frank-riegers-vorschlag-re-publica-2015/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw58.json&#39;);  </description>
+      <description>Sendung Nummer 58 Frank Riegers Vorschlag Re Publica 2015</description>
     </item>
     
     <item>
@@ -361,8 +305,7 @@ Sendung Nummer 77 Radio Garden von Bernd und Lars  podlovePlayer(&#39;#example&#
       <pubDate>Sat, 24 Jan 2015 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2015-01/sfdvw-57-cre203-freifunk-statt-angst/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw57.json&#39;);  </description>
+      <description>Sendung Nummer 57 CRE203 Freifunk statt Angst</description>
     </item>
     
     <item>
@@ -371,8 +314,7 @@ Sendung Nummer 77 Radio Garden von Bernd und Lars  podlovePlayer(&#39;#example&#
       <pubDate>Sat, 01 Nov 2014 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2014-11/sfdvw-56-alternativlos-32-%C3%BCber-den-kalten-krieg-damals-und-heute/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw56.json&#39;);  </description>
+      <description>Sendung Nummer 56 Alternativlos 32 Über den kalten Krieg damals und heute</description>
     </item>
     
     <item>
@@ -381,9 +323,7 @@ Sendung Nummer 77 Radio Garden von Bernd und Lars  podlovePlayer(&#39;#example&#
       <pubDate>Sat, 12 Jul 2014 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2014-07/sfdvw-55-alexander-gerst-auf-der-iss/</guid>
-      <description>  
-Feedback zur Sendung? Schreibe uns ein Kommentar
-SfdvW - 55 - Alexander Gerst auf der ISS  podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw55.json&#39;);  </description>
+      <description>Sendung Nummer 55 Alexander Gerst auf der ISS</description>
     </item>
     
     <item>
@@ -392,8 +332,7 @@ SfdvW - 55 - Alexander Gerst auf der ISS  podlovePlayer(&#39;#example&#39;, &#39
       <pubDate>Sat, 14 Jun 2014 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2014-06/sfdvw-54-technikfolgenabsch%C3%A4tzung/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw54.json&#39;);  </description>
+      <description>Sendung Nummer 54 Technikfolgenabschätzung</description>
     </item>
     
     <item>
@@ -402,8 +341,7 @@ SfdvW - 55 - Alexander Gerst auf der ISS  podlovePlayer(&#39;#example&#39;, &#39
       <pubDate>Sat, 17 May 2014 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2014-05/sfdvw-53-kulturprodukt-2014-und-bsd-mit-sthag-und-jay/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw53.json&#39;);  </description>
+      <description>Sendung Nummer 53 Kulturprodukt 2014 und BSD mit Sthag und Jay</description>
     </item>
     
     <item>
@@ -412,8 +350,7 @@ SfdvW - 55 - Alexander Gerst auf der ISS  podlovePlayer(&#39;#example&#39;, &#39
       <pubDate>Sat, 19 Apr 2014 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2014-04/sfdvw-52-alpha-forum-mit-constanze-kurz/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw52.json&#39;);  </description>
+      <description>Sendung Nummer 52 Alpha Forum mit Constanze Kurz</description>
     </item>
     
     <item>
@@ -422,8 +359,7 @@ SfdvW - 55 - Alexander Gerst auf der ISS  podlovePlayer(&#39;#example&#39;, &#39
       <pubDate>Sat, 13 Jul 2013 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2013-07/sfdvw-51-guru-meditation/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw51.json&#39;);  </description>
+      <description>Sendung Nummer 51 Guru Meditation</description>
     </item>
     
     <item>
@@ -432,8 +368,7 @@ SfdvW - 55 - Alexander Gerst auf der ISS  podlovePlayer(&#39;#example&#39;, &#39
       <pubDate>Sat, 20 Apr 2013 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2013-04/sfdvw-50-omri-lahav-remixed/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw50.json&#39;);  </description>
+      <description>Sendung Nummer 50 Omri Lahav Remixed</description>
     </item>
     
     <item>
@@ -442,8 +377,7 @@ SfdvW - 55 - Alexander Gerst auf der ISS  podlovePlayer(&#39;#example&#39;, &#39
       <pubDate>Sat, 23 Mar 2013 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2013-03/sfdvw-49-big-picture-science-we-heart-robots/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw49.json&#39;);  </description>
+      <description>Sendung Nummer 49 Big Picture Science We Heart Robots</description>
     </item>
     
     <item>
@@ -452,8 +386,7 @@ SfdvW - 55 - Alexander Gerst auf der ISS  podlovePlayer(&#39;#example&#39;, &#39
       <pubDate>Sat, 26 Jan 2013 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2013-01/sfdvw-48-tmks-lieblingsmusik/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw48.json&#39;);  </description>
+      <description>Sendung Nummer 48 Tmks Lieblingsmusik</description>
     </item>
     
     <item>
@@ -462,8 +395,7 @@ SfdvW - 55 - Alexander Gerst auf der ISS  podlovePlayer(&#39;#example&#39;, &#39
       <pubDate>Sat, 29 Dec 2012 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2012-12/sfdvw-47-29c3-jacob-applebaum/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw47.json&#39;);  </description>
+      <description>Sendung Nummer 47 29C3 Jacob Applebaum</description>
     </item>
     
     <item>
@@ -472,8 +404,7 @@ SfdvW - 55 - Alexander Gerst auf der ISS  podlovePlayer(&#39;#example&#39;, &#39
       <pubDate>Sat, 06 Oct 2012 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2012-10/sfdvw-46-radio-wauland-wdr/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw46.json&#39;);  </description>
+      <description>Sendung Nummer 46 Radio Wauland WDR</description>
     </item>
     
     <item>
@@ -482,8 +413,7 @@ SfdvW - 55 - Alexander Gerst auf der ISS  podlovePlayer(&#39;#example&#39;, &#39
       <pubDate>Sat, 08 Sep 2012 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2012-09/sfdvw-45-keygen-musik/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw45.json&#39;);  </description>
+      <description>Sendung Nummer 45 Keygen Musik</description>
     </item>
     
     <item>
@@ -492,8 +422,7 @@ SfdvW - 55 - Alexander Gerst auf der ISS  podlovePlayer(&#39;#example&#39;, &#39
       <pubDate>Sat, 19 May 2012 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2012-05/sfdvw-44-wireless-weekend-2012/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw44.json&#39;);  </description>
+      <description>Sendung Nummer 44 Wireless Weekend 2012</description>
     </item>
     
     <item>
@@ -502,8 +431,7 @@ SfdvW - 55 - Alexander Gerst auf der ISS  podlovePlayer(&#39;#example&#39;, &#39
       <pubDate>Sat, 21 Apr 2012 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2012-04/sfdvw-43-v%C3%B6gel/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw43.json&#39;);  </description>
+      <description>Sendung Nummer 43 Vögel</description>
     </item>
     
     <item>
@@ -512,8 +440,7 @@ SfdvW - 55 - Alexander Gerst auf der ISS  podlovePlayer(&#39;#example&#39;, &#39
       <pubDate>Sat, 24 Mar 2012 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2012-03/sfdvw-42-gametrack-machinarium/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw42.json&#39;);  </description>
+      <description>Sendung Nummer 42 Gametrack Machinarium</description>
     </item>
     
     <item>
@@ -522,8 +449,7 @@ SfdvW - 55 - Alexander Gerst auf der ISS  podlovePlayer(&#39;#example&#39;, &#39
       <pubDate>Sat, 25 Feb 2012 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2012-02/sfdvw-41-wikipedia-run-mit-jay/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw41.json&#39;);  </description>
+      <description>Sendung Nummer 41 Wikipedia Run mit Jay</description>
     </item>
     
     <item>
@@ -532,8 +458,7 @@ SfdvW - 55 - Alexander Gerst auf der ISS  podlovePlayer(&#39;#example&#39;, &#39
       <pubDate>Sat, 28 Jan 2012 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2012-01/sfdvw-40-cx-jingles-mit-jay-b/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw40.json&#39;);  </description>
+      <description>Sendung Nummer 40 Cx Jingles mit Jay b</description>
     </item>
     
     <item>
@@ -542,8 +467,7 @@ SfdvW - 55 - Alexander Gerst auf der ISS  podlovePlayer(&#39;#example&#39;, &#39
       <pubDate>Sat, 31 Dec 2011 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2011-12/sfdvw-39-lan/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw39.json&#39;);  </description>
+      <description>Sendung Nummer 39 LAN</description>
     </item>
     
     <item>
@@ -552,8 +476,7 @@ SfdvW - 55 - Alexander Gerst auf der ISS  podlovePlayer(&#39;#example&#39;, &#39
       <pubDate>Sat, 03 Dec 2011 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2011-12/sfdvw-38-korg-meets-minecraft-feat-jay-und-jay/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw38.json&#39;);  </description>
+      <description>Sendung Nummer 38 Korg meets Minecraft feat Jay und Jay</description>
     </item>
     
     <item>
@@ -562,8 +485,7 @@ SfdvW - 55 - Alexander Gerst auf der ISS  podlovePlayer(&#39;#example&#39;, &#39
       <pubDate>Sat, 05 Nov 2011 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2011-11/sfdvw-37-buchla-700/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw37.json&#39;);  </description>
+      <description>Sendung Nummer 37 Buchla 700</description>
     </item>
     
     <item>
@@ -572,8 +494,7 @@ SfdvW - 55 - Alexander Gerst auf der ISS  podlovePlayer(&#39;#example&#39;, &#39
       <pubDate>Sat, 08 Oct 2011 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2011-10/sfdvw-36-dradiowissen-netzreporter-piraten-in-berlin/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw36.json&#39;);  </description>
+      <description>Sendung Nummer 36 DRadioWissen Netzreporter Piraten in Berlin</description>
     </item>
     
     <item>
@@ -582,8 +503,7 @@ SfdvW - 55 - Alexander Gerst auf der ISS  podlovePlayer(&#39;#example&#39;, &#39
       <pubDate>Sat, 10 Sep 2011 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2011-09/sfdvw-35-gpn11-1378km-inkl-jingle-am-anfang/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw35.json&#39;);  </description>
+      <description>Sendung Nummer 35 GPN11 1378km inkl Jingle am Anfang</description>
     </item>
     
     <item>
@@ -592,8 +512,7 @@ SfdvW - 55 - Alexander Gerst auf der ISS  podlovePlayer(&#39;#example&#39;, &#39
       <pubDate>Sat, 13 Aug 2011 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2011-08/sfdvw-34-dradiowissen-netzreporter-urheberrecht/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw34.json&#39;);  </description>
+      <description>Sendung Nummer 34 DRadioWissen Netzreporter Urheberrecht</description>
     </item>
     
     <item>
@@ -602,8 +521,7 @@ SfdvW - 55 - Alexander Gerst auf der ISS  podlovePlayer(&#39;#example&#39;, &#39
       <pubDate>Sat, 16 Jul 2011 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2011-07/sfdvw-33-ct-online-talk-auf-dradiowissen-ipv6/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw33.json&#39;);  </description>
+      <description>Sendung Nummer 33 c&amp;rsquo;t online talk auf DRadioWissen IPv6</description>
     </item>
     
     <item>
@@ -612,8 +530,7 @@ SfdvW - 55 - Alexander Gerst auf der ISS  podlovePlayer(&#39;#example&#39;, &#39
       <pubDate>Sat, 18 Jun 2011 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2011-06/sfdvw-32-ct-online-talk-auf-dradiowissen-hacktivismus/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw32.json&#39;);  </description>
+      <description>Sendung Nummer 32 c&amp;rsquo;t online talk auf DRadioWissen Hacktivismus</description>
     </item>
     
     <item>
@@ -622,8 +539,7 @@ SfdvW - 55 - Alexander Gerst auf der ISS  podlovePlayer(&#39;#example&#39;, &#39
       <pubDate>Sat, 26 Mar 2011 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2011-03/sfdvw-31-hans-peter-duerr/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw31.json&#39;);  </description>
+      <description>Sendung Nummer 31 Hans Peter Duerr</description>
     </item>
     
     <item>
@@ -632,8 +548,7 @@ SfdvW - 55 - Alexander Gerst auf der ISS  podlovePlayer(&#39;#example&#39;, &#39
       <pubDate>Sat, 29 Jan 2011 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2011-01/sfdvw-30-nam-june-paik/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw30.json&#39;);  </description>
+      <description>Sendung Nummer 30 Nam June Paik</description>
     </item>
     
     <item>
@@ -642,8 +557,7 @@ SfdvW - 55 - Alexander Gerst auf der ISS  podlovePlayer(&#39;#example&#39;, &#39
       <pubDate>Sat, 01 Jan 2011 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2011-01/sfdvw-29-knowledge-box/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw29.json&#39;);  </description>
+      <description>Sendung Nummer 29 Knowledge Box</description>
     </item>
     
     <item>
@@ -652,8 +566,7 @@ SfdvW - 55 - Alexander Gerst auf der ISS  podlovePlayer(&#39;#example&#39;, &#39
       <pubDate>Sat, 11 Sep 2010 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2010-09/sfdvw-28-radio-chaotica-auf-querfunk-gulaschprogrammiernacht8/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw28.json&#39;);  </description>
+      <description>Sendung Nummer 28 Radio Chaotica auf Querfunk Gulaschprogrammiernacht8</description>
     </item>
     
     <item>
@@ -662,8 +575,7 @@ SfdvW - 55 - Alexander Gerst auf der ISS  podlovePlayer(&#39;#example&#39;, &#39
       <pubDate>Sat, 14 Aug 2010 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2010-08/sfdvw-27-radio-tux-sommersendung/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw27.json&#39;);  </description>
+      <description>Sendung Nummer 27 Radio Tux Sommersendung</description>
     </item>
     
     <item>
@@ -672,8 +584,7 @@ SfdvW - 55 - Alexander Gerst auf der ISS  podlovePlayer(&#39;#example&#39;, &#39
       <pubDate>Sat, 17 Jul 2010 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2010-07/sfdvw-26-rechnerfiepen/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw26.json&#39;);  </description>
+      <description>Sendung Nummer 26 Rechnerfiepen</description>
     </item>
     
     <item>
@@ -682,8 +593,7 @@ SfdvW - 55 - Alexander Gerst auf der ISS  podlovePlayer(&#39;#example&#39;, &#39
       <pubDate>Sat, 19 Jun 2010 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2010-06/sfdvw-25-freifunk-stand-der-dinge-wcw2010-wbotm3-fossasia-gsoc/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw25.json&#39;);  </description>
+      <description>Sendung Nummer 25 Freifunk Stand der Dinge WCW2010 WBOTM3 FOSSASIA GSOC</description>
     </item>
     
     <item>
@@ -692,8 +602,7 @@ SfdvW - 55 - Alexander Gerst auf der ISS  podlovePlayer(&#39;#example&#39;, &#39
       <pubDate>Sat, 24 Apr 2010 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2010-04/sfdvw-24-zusammenfassung-ohne-inhalt-mit-yht/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw24.json&#39;);  </description>
+      <description>Sendung Nummer 24 Zusammenfassung ohne Inhalt mit YHT</description>
     </item>
     
     <item>
@@ -702,8 +611,7 @@ SfdvW - 55 - Alexander Gerst auf der ISS  podlovePlayer(&#39;#example&#39;, &#39
       <pubDate>Sat, 27 Mar 2010 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2010-03/sfdvw-23-gro%C3%9Fvater-gerhard/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw23.json&#39;);  </description>
+      <description>Sendung Nummer 23 Großvater Gerhard</description>
     </item>
     
     <item>
@@ -712,8 +620,7 @@ SfdvW - 55 - Alexander Gerst auf der ISS  podlovePlayer(&#39;#example&#39;, &#39
       <pubDate>Sat, 27 Feb 2010 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2010-02/sfdvw-22-memtest/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw22.json&#39;);  </description>
+      <description>Sendung Nummer 22 Memtest</description>
     </item>
     
     <item>
@@ -722,8 +629,7 @@ SfdvW - 55 - Alexander Gerst auf der ISS  podlovePlayer(&#39;#example&#39;, &#39
       <pubDate>Sat, 30 Jan 2010 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2010-01/sfdvw-21-cop15-26c3-heizwerk/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw21.json&#39;);  </description>
+      <description>Sendung Nummer 21 Cop15 26C3 Heizwerk</description>
     </item>
     
     <item>
@@ -732,8 +638,7 @@ SfdvW - 55 - Alexander Gerst auf der ISS  podlovePlayer(&#39;#example&#39;, &#39
       <pubDate>Sat, 02 Jan 2010 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2010-01/sfdvw-20-lan-party/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw20.json&#39;);  </description>
+      <description>Sendung Nummer 20 LAN-Party</description>
     </item>
     
     <item>
@@ -742,8 +647,7 @@ SfdvW - 55 - Alexander Gerst auf der ISS  podlovePlayer(&#39;#example&#39;, &#39
       <pubDate>Sat, 05 Dec 2009 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2009-12/sfdvw-19-soziale-netzwerke-im-internet/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw19.json&#39;);  </description>
+      <description>Sendung Nummer 19 Soziale Netzwerke im Internet</description>
     </item>
     
     <item>
@@ -752,8 +656,7 @@ SfdvW - 55 - Alexander Gerst auf der ISS  podlovePlayer(&#39;#example&#39;, &#39
       <pubDate>Sat, 10 Oct 2009 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2009-10/sfdvw-18-1-freiheit-statt-angst/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw18-1.json&#39;);  </description>
+      <description>Sendung Nummer 18-1 Freiheit statt Angst</description>
     </item>
     
     <item>
@@ -762,8 +665,7 @@ SfdvW - 55 - Alexander Gerst auf der ISS  podlovePlayer(&#39;#example&#39;, &#39
       <pubDate>Sat, 10 Oct 2009 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2009-10/sfdvw-18-2-altes-heizwerk-community-media-center-in-halle/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw18-2.json&#39;);  </description>
+      <description>Sendung Nummer 18-2 Altes Heizwerk Community Media Center in Halle</description>
     </item>
     
     <item>
@@ -772,8 +674,7 @@ SfdvW - 55 - Alexander Gerst auf der ISS  podlovePlayer(&#39;#example&#39;, &#39
       <pubDate>Sat, 15 Aug 2009 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2009-08/sfdvw-17-sommersendung/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw17.json&#39;);  </description>
+      <description>Sendung Nummer 17 Sommersendung</description>
     </item>
     
     <item>
@@ -782,8 +683,7 @@ SfdvW - 55 - Alexander Gerst auf der ISS  podlovePlayer(&#39;#example&#39;, &#39
       <pubDate>Sat, 20 Jun 2009 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2009-06/sfdvw-16-zensursula-und-internet-in-afrika-teil-2/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw16.json&#39;);  </description>
+      <description>Sendung Nummer 16 Zensursula und Internet in Afrika Teil 2</description>
     </item>
     
     <item>
@@ -792,8 +692,7 @@ SfdvW - 55 - Alexander Gerst auf der ISS  podlovePlayer(&#39;#example&#39;, &#39
       <pubDate>Wed, 29 Apr 2009 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2009-04/sfdvw-14-internet-in-afrika-teil-1-olpc/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw14.json&#39;);  </description>
+      <description>Sendung Nummer 14 Internet in Afrika Teil 1 OLPC</description>
     </item>
     
     <item>
@@ -802,8 +701,7 @@ SfdvW - 55 - Alexander Gerst auf der ISS  podlovePlayer(&#39;#example&#39;, &#39
       <pubDate>Wed, 25 Mar 2009 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2009-03/sfdvw-13-2.0-hacken-freiheit-anarchie-eine-suche-nach-schnittstellen/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw13-2.0.json&#39;);  </description>
+      <description>Sendung Nummer 13-2.0 Hacken Freiheit Anarchie eine Suche nach Schnittstellen</description>
     </item>
     
     <item>
@@ -812,8 +710,7 @@ SfdvW - 55 - Alexander Gerst auf der ISS  podlovePlayer(&#39;#example&#39;, &#39
       <pubDate>Wed, 25 Feb 2009 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2009-02/sfdvw-12-gamboy-musik/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw12.json&#39;);  </description>
+      <description>Sendung Nummer 12 Gamboy Musik</description>
     </item>
     
     <item>
@@ -822,8 +719,7 @@ SfdvW - 55 - Alexander Gerst auf der ISS  podlovePlayer(&#39;#example&#39;, &#39
       <pubDate>Wed, 28 Jan 2009 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2009-01/sfdvw-11-ip-adressen/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw11.json&#39;);  </description>
+      <description>Sendung Nummer 11 IP Adressen</description>
     </item>
     
     <item>
@@ -832,8 +728,7 @@ SfdvW - 55 - Alexander Gerst auf der ISS  podlovePlayer(&#39;#example&#39;, &#39
       <pubDate>Wed, 26 Nov 2008 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2008-11/sfdvw-10-chaos-communication-congress/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw10.json&#39;);  </description>
+      <description>Sendung Nummer 10 Chaos Communication Congress</description>
     </item>
     
     <item>
@@ -842,8 +737,7 @@ SfdvW - 55 - Alexander Gerst auf der ISS  podlovePlayer(&#39;#example&#39;, &#39
       <pubDate>Wed, 29 Oct 2008 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2008-10/sfdvw-09-krude-websites/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw09.json&#39;);  </description>
+      <description>Sendung Nummer 09 Krude Websites</description>
     </item>
     
     <item>
@@ -852,8 +746,7 @@ SfdvW - 55 - Alexander Gerst auf der ISS  podlovePlayer(&#39;#example&#39;, &#39
       <pubDate>Wed, 24 Sep 2008 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2008-09/sfdvw-08-betriebssysteme/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw08.json&#39;);  </description>
+      <description>Sendung Nummer 08 Betriebssysteme</description>
     </item>
     
     <item>
@@ -862,8 +755,7 @@ SfdvW - 55 - Alexander Gerst auf der ISS  podlovePlayer(&#39;#example&#39;, &#39
       <pubDate>Wed, 30 Jul 2008 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2008-07/sfdvw-07-terminal-21-im-ferienkommunismus/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw07.json&#39;);  </description>
+      <description>Sendung Nummer 07 Terminal 21 im Ferienkommunismus</description>
     </item>
     
     <item>
@@ -872,8 +764,7 @@ SfdvW - 55 - Alexander Gerst auf der ISS  podlovePlayer(&#39;#example&#39;, &#39
       <pubDate>Wed, 28 May 2008 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2008-05/sfdvw-06-freifunk/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw06.json&#39;);  </description>
+      <description>Sendung Nummer 06 Freifunk</description>
     </item>
     
     <item>
@@ -882,8 +773,7 @@ SfdvW - 55 - Alexander Gerst auf der ISS  podlovePlayer(&#39;#example&#39;, &#39
       <pubDate>Wed, 30 Apr 2008 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2008-04/sfdvw-05-principia-discordia/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw05.json&#39;);  </description>
+      <description>Sendung Nummer 05 principia discordia</description>
     </item>
     
     <item>
@@ -892,8 +782,7 @@ SfdvW - 55 - Alexander Gerst auf der ISS  podlovePlayer(&#39;#example&#39;, &#39
       <pubDate>Wed, 26 Mar 2008 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2008-03/sfdvw-04-taz-stallman-interview-und-chaosradio-pfandhacking/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw04.json&#39;);  </description>
+      <description>Sendung Nummer 04 taz-Stallman Interview und Chaosradio Pfandhacking</description>
     </item>
     
     <item>
@@ -902,8 +791,7 @@ SfdvW - 55 - Alexander Gerst auf der ISS  podlovePlayer(&#39;#example&#39;, &#39
       <pubDate>Wed, 05 Mar 2008 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2008-03/sfdvw-03-richard-stallman-ueber-gnu/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw03.json&#39;);  </description>
+      <description>Sendung Nummer 03 Richard Stallman ueber GNU</description>
     </item>
     
     <item>
@@ -912,8 +800,7 @@ SfdvW - 55 - Alexander Gerst auf der ISS  podlovePlayer(&#39;#example&#39;, &#39
       <pubDate>Wed, 06 Feb 2008 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2008-02/sfdvw-02-ff-info-und-chaosradio-getting-things-done/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw02.json&#39;);  </description>
+      <description>Sendung Nummer 02 FF-Info und Chaosradio Getting things done</description>
     </item>
     
     <item>
@@ -922,8 +809,7 @@ SfdvW - 55 - Alexander Gerst auf der ISS  podlovePlayer(&#39;#example&#39;, &#39
       <pubDate>Wed, 23 Jan 2008 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/blog/2008-01/sfdvw-01-hacker1nnen/</guid>
-      <description> 
- podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw01.json&#39;);  </description>
+      <description>Sendung Nummer 01 Hacker1nnen</description>
     </item>
     
   </channel>
