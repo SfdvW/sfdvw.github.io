@@ -784,4 +784,12 @@ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw78.json&#39;);
 &lt;h2 id=&#34;sendung-nummer-77-radio-garden-von-bernd-und-lars&#34;&gt;Sendung Nummer 77 Radio Garden von Bernd und Lars&lt;/h2&gt;
 &lt;script&gt;
 podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw77.json&#39;);
-&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2877%29_2018_03_17_Radio_Garden_von_Bernd_und_Lars.mp3" type="audio/mpeg" length="1"/><chapters/></item></channel></rss>
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2877%29_2018_03_17_Radio_Garden_von_Bernd_und_Lars.mp3" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 75 - Mit Code die Welt verbessern</title><link>https://sfdvw.de/blog/2018-01/sfdvw-75-mit-code-die-welt-verbessern/</link><pubDate>Sat, 20 Jan 2018 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2018-01/sfdvw-75-mit-code-die-welt-verbessern/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-75-mit-code-die-welt-verbessern&#34;&gt;Sendung Nummer 75 - Mit Code die Welt verbessern&lt;/h2&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw75.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2875%29_2018_01_20_Mit_Code_die_Welt_verbessern.mp3" type="audio/mpeg" length="1"/><chapters/></item></channel></rss>
