@@ -1,62 +1,95 @@
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-<channel>
-    <title>Sendung für die vernetzte Welt</title>
-    <link>https://sfdvw.de/</link>
-    <description>Technik ~ Gesellschaft ~ Internet ~ neue Medien</description>
-    <language>de</language>
-    <copyright>Radio Corax</copyright>
-    
-    <lastBuildDate>Wed, 1 Jan 0001 00:00:00 GMT</lastBuildDate>
-    <itunes:author>SfdvW</itunes:author>
-    <itunes:summary>Immer am dritten Samstag des Monats, 20.00 Uhr, befasst sich die Sendung für die vernetzte Welt mit den Themenfeldern Technik und Gesellschaft, Internet und neue Medien. Die rechnerphile Redaktion versucht euch mitzunehmen auf eine Reise in die Welt der Daten und Netzwerke, der Onlinecommunities und Netz- und Softwarekunst. Radio Corax Freies Radio im Raum Halle ist zu höhren auf UKW 95.9 oder im Webplayer.Ihr könnt live mitmachen über Sendediensttelefon (Halle/4700744). Schreibt eure Fragen und Kritiken über eMail an SfdvW aat radiocorax ddot de. Funk frei!</itunes:summary>
-    <itunes:owner>
-        <itunes:name>Sendung für die vernetzte Welt</itunes:name>
-        <itunes:email>SfdvW aat radiocorax ddot de</itunes:email>
-    </itunes:owner>
-    <itunes:explicit>No</itunes:explicit>
-    <itunes:image href="https://sfdvw.de/img/profile.jpg"/>
-     <itunes:category text="Podcast">
-        <itunes:category text="Podcast" />
-    </itunes:category>
-    
-    <item>
-      <title>SfdvW - 89 - Congress Review 2 36C3</title>
-      <link>https://sfdvw.de/blog/2020-02/sfdvw-89-congress-review-2-36c3/</link>
-      <pubDate>Sat, 15 Feb 2020 00:20:00 +0200</pubDate>
-      
-      <guid>https://sfdvw.de/blog/2020-02/sfdvw-89-congress-review-2-36c3/</guid>
-      <description>
-
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sendung für die vernetzte Welt</title><link>https://sfdvw.de/</link><description>Technik ~ Gesellschaft ~ Internet ~ neue Medien</description><language>de</language><copyright>Radio Corax</copyright><lastBuildDate>Wed, 1 Jan 0001 00:00:00 GMT</lastBuildDate><itunes:author>SfdvW</itunes:author><itunes:summary>Immer am dritten Samstag des Monats, 20.00 Uhr, befasst sich die Sendung für die vernetzte Welt mit den Themenfeldern Technik und Gesellschaft, Internet und neue Medien. Die rechnerphile Redaktion versucht euch mitzunehmen auf eine Reise in die Welt der Daten und Netzwerke, der Onlinecommunities und Netz- und Softwarekunst. Radio Corax Freies Radio im Raum Halle ist zu höhren auf UKW 95.9 oder im Webplayer.Ihr könnt live mitmachen über Sendediensttelefon (Halle/4700744). Schreibt eure Fragen und Kritiken über eMail an SfdvW aat radiocorax ddot de. Funk frei!</itunes:summary><itunes:owner><itunes:name>Sendung für die vernetzte Welt</itunes:name><itunes:email>SfdvW aat radiocorax ddot de</itunes:email></itunes:owner><itunes:explicit>No</itunes:explicit><itunes:image href="https://sfdvw.de/img/profile.jpg"/><itunes:category text="Podcast"><itunes:category text="Podcast"/></itunes:category><item><title>SfdvW - 90 - Technik der Jugend</title><link>https://sfdvw.de/blog/2020-03/sfdvw-90-technik-der-jugend/</link><pubDate>Sat, 21 Mar 2020 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2020-03/sfdvw-90-technik-der-jugend/</guid><description>
 &lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
 &lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;Feedback zur Sendung?&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;sfdvw-89-congressreview&#34;&gt;SfdvW - 89 - Congressreview&lt;/h2&gt;
-
-&lt;p&gt;mit dabei: tmk, markus, nilo, jotilux&lt;/p&gt;
-
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sfdvw-90-technik-der-jugend&#34;&gt;SfdvW - 90 - Technik der Jugend&lt;/h2&gt;
+&lt;p&gt;mit dabei: tmk, markus, nilo, jotilux, tim&lt;/p&gt;
 &lt;h3 id=&#34;worum-geht-es-heute&#34;&gt;Worum geht es Heute?&lt;/h3&gt;
-
+&lt;p&gt;These: Jede zum Zeitpunkt der Geburt verfügbare Technologie wird als selbstverständlich und natürlich verfügbar angesehen. So sind Themen wie immer und überall Internet(Daueronline), Strom und Wasser, Radio oder YT-Erklärvideos je nach Generation halt selbstverständlich.&lt;/p&gt;
+&lt;p&gt;“Das hat es zu meiner Zeit nicht gegeben!”
+“Früher haben wir uns noch getroffen und angeklingelt”&lt;/p&gt;
+&lt;p&gt;Neben dem aussterben von Technologien und der fortschreitenden Digitalisierung gibt es aber auch gesellschaftliche Fragen: Ab wann ist ein Smartphone, eine E-Mailadresse ein Klassenchat für Kids notwendig? Ab wann muss altersbedingt vielleicht der Internetführerschein entzogen werden? Wie nutzen die Jugendlichen und Eltern die verfügbare Technologie zum Vorteil? Welchen Informationen im Netz kann man vertrauen und welche Gefahren kommen mit einer Digitalisierung? Gibt es immer noch jemanden in der Schule der dem Lehrer den Videorecorder anstellt aka das Internet öffnet?&lt;/p&gt;
+&lt;h3 id=&#34;100mbit-s-reichen-nicht&#34;&gt;100Mbit/s reichen nicht?!&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Daten%C3%BCbertragung&#34;&gt;Digitale Informationsübertragung / Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Internetzugang&#34;&gt;Internetzugang / Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=HO9BHH1XcSI&#34;&gt;Young Böhmermann Folge 8 - Der Internetführerschein | NEO MAGAZIN ROYALE mit Jan Böhmermann / Youtube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.de-cix.net/en/locations/germany/frankfurt/statistics&#34;&gt;DE-CIX Frankfurt statistics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Diskette&#34;&gt;Diskette / Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://t3n.de/news/dsl-internet-anschluss-geschaeftskunden-699612/&#34;&gt;asymmetrisch vs. symmetrische Bandbreiten / t3n&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;clarkesche-gesetze&#34;&gt;Clarkesche Gesetze&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Jede hinreichend fortschrittliche Technologie ist von Magie nicht zu unterscheiden.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Clarkesche_Gesetze&#34;&gt;Clarkesche Gesetze / Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;pandemie-und-schule&#34;&gt;Pandemie und Schule&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Cloud-Office, Videoconferenz, Chat&lt;/li&gt;
+&lt;li&gt;Kassenchat? Selbstorganisiert und Selbstmoderiert&lt;/li&gt;
+&lt;li&gt;Das Internet hat meine Hausaufgaben gefressen&amp;hellip;&lt;/li&gt;
+&lt;li&gt;Hat die Jungend noch ein Wecker?&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://moodle.org/&#34;&gt;moodle - open source Lernplattform&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.schule-bw.de/service-und-tools/webtools/moodle&#34;&gt;E-Learning mit Moodle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.heise.de/newsticker/meldung/Digitaler-Unterricht-Lernsystem-Moodle-startet-mit-Anlaufschwierigkeiten-4685075.html&#34;&gt;Digitaler Unterricht - Lernsystem Moodle startet mit Anlaufschwierigkeiten / Heise.de&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Interaktives_Whiteboard&#34;&gt;Interaktives Whiteboard - Smartboard / Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Medienpädagogen an der Schule, &lt;a href=&#34;https://de.wikipedia.org/wiki/Medienp%C3%A4dagogik&#34;&gt;Medienpädagogik / Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bildung-lsa.de/support/emucloud.html&#34;&gt;emuCloud - Bildungsserver Sachsen-Anhalt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://netzpolitik.org/2015/die-schulen-sachsen-anhalts-der-finanzminister-und-microsoft/&#34;&gt;Die Schulen Sachsen-Anhalts, der Finanzminister und Microsoft / Netzpolitik.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;bring your own device &lt;a href=&#34;https://de.wikipedia.org/wiki/Bring_your_own_device&#34;&gt;BYOD / Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kahoot.com/&#34;&gt;kahoot&lt;/a&gt; Lernquiz&lt;/li&gt;
+&lt;li&gt;Stundenplan &lt;a href=&#34;https://webuntis.com/&#34;&gt;Untis&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;technische-geräte-in-der-familie&#34;&gt;technische Geräte in der Familie&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Handy, Laptop, Desktop-PC, Tablet, Microcontroller&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.fragfinn.de/&#34;&gt;fragFINN - die Suchmaschine für Kinder&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Windows_XP&#34;&gt;WindowsXP / Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Microsoft_Windows_95&#34;&gt;Windows95 / Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Microsoft_Windows_3.1&#34;&gt;Windows 3.1 / Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Modem&#34;&gt;Modem / Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ckc6XSSh52w&#34;&gt;Modemsound / Youtube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Ax2H33t7tfM&#34;&gt;Ausgestorbene Geräusche / Youtube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Commodore_64&#34;&gt;c64 / Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Mailbox_(Computer)&#34;&gt;Mailbox / Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/MetaGer&#34;&gt;MetaGer / Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Liste_von_Internet-Suchmaschinen&#34;&gt;Liste von Internet Suchmaschinen / Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;mediennutzung-mindestalter&#34;&gt;Mediennutzung / Mindestalter&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Handy ab vierte Klasse?&lt;/li&gt;
+&lt;li&gt;Mobilegaming&lt;/li&gt;
+&lt;li&gt;Altersbeschränkung&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Bundespr%C3%BCfstelle_f%C3%BCr_jugendgef%C3%A4hrdende_Medien&#34;&gt;Bundesprüfstelle für jugendgefährdende Medien / Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Tiktok, Twitter, Twitch&lt;/li&gt;
+&lt;li&gt;Familien-E-Mailadresse?&lt;/li&gt;
+&lt;li&gt;Familien-Dropbox&lt;/li&gt;
+&lt;li&gt;Klassenchat moderiert durch Klassensprecher und in zwei Chats aufgeteilt&lt;/li&gt;
+&lt;/ul&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw90.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2890%29_2020_03_21_Technik_der_Jugend.mp3" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 89 - Congress Review 2 36C3</title><link>https://sfdvw.de/blog/2020-02/sfdvw-89-congress-review-2-36c3/</link><pubDate>Sat, 15 Feb 2020 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2020-02/sfdvw-89-congress-review-2-36c3/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sfdvw-89-congress-review-2-36c3&#34;&gt;SfdvW - 89 - Congress Review 2 36C3&lt;/h2&gt;
+&lt;p&gt;mit dabei: tmk, markus, nilo, jotilux&lt;/p&gt;
+&lt;h3 id=&#34;worum-geht-es-heute&#34;&gt;Worum geht es Heute?&lt;/h3&gt;
 &lt;p&gt;zweites Review zum Chaos Comunication Congress Nummer 36&lt;/p&gt;
-
 &lt;h3 id=&#34;makroplastik-noisio&#34;&gt;Makroplastik - noisio&lt;/h3&gt;
-
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://makroplastik.bandcamp.com/track/abra-zen&#34;&gt;abra zen from A B R A Z E N by Makroplastik&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://makroplastik.bandcamp.com/track/sozusagen&#34;&gt;sozusagen from A B R A Z E N by Makroplastik&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://noisio.de/&#34;&gt;noisio Webseite&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://soundcloud.com/noisio-dd&#34;&gt;noisio Soundcloud&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h3 id=&#34;klima-congress&#34;&gt;Klima? Congress?&lt;/h3&gt;
-
 &lt;ul&gt;
 &lt;li&gt;ein Mensch mit Normgröße (Gewicht: 75kg), der ruhig in einer Umgebungstemperatur von mehr als 16 Grad Celsius (°C) sitzt gibt einen Wärmestrom von 120 Watt ab&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://blog.paradigma.de/koerperwaerme-mensch-als-heizung/&#34;&gt;Mensch als Heizung&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Globale_Erw%C3%A4rmung&#34;&gt;Wikipedia Globale Erwärmung&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Vortrag Extinction Rebellion Jahresrückblick 2019 (Maria, Lu Yen Roloff and sina)
-
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://media.ccc.de/v/36c3-10738-extinction_rebellion&#34;&gt;36c3-10738-extinction_rebellion&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://extinctionrebellion.de/&#34;&gt;extinction rebellion&lt;/a&gt;&lt;/li&gt;
@@ -64,21 +97,16 @@
 &lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Energiemix&#34;&gt;Wikipedia Energiemix&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.spiegel.de/thema/mobilitaet_der_zukunft/&#34;&gt;Mobilität der Zukunft&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Vortrag Verkehrswende selber hacken (robbi5, ubahnverleih)
-
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://media.ccc.de/v/36c3-10881-verkehrswende_selber_hacken&#34;&gt;36c3-10881-verkehrswende_selber_hacken&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.wertesysteme.de/idealismus/&#34;&gt;Idealismus gebrochen?&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h3 id=&#34;mukkefilterblase-durchbrechen&#34;&gt;Mukkefilterblase durchbrechen&lt;/h3&gt;
-
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=oqGJ7I75aTE&#34;&gt;Alaska Thunderfuck - Your Makeup Is Terrible&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h3 id=&#34;kunst-auf-dem-congress&#34;&gt;Kunst auf dem Congress&lt;/h3&gt;
-
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=aPD2DYuzOcI&#34;&gt;Flipdot-Magie 32c3&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=SJU2-1X8kHQ&#34;&gt;Flipdot-Magie CES2015&lt;/a&gt;&lt;/li&gt;
@@ -87,38 +115,29 @@
 &lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Audio-visual_entrainment&#34;&gt;Wikipedia AVE&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://vimeo.com/92827556&#34;&gt;Pixelflut Vimeo&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Vortrag 36C3 Infrastructure Review (Leon)
-
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://media.ccc.de/v/36c3-11235-36c3_infrastructure_review&#34;&gt;36c3-11235-36c3_infrastructure_review&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Vortrag der dezentrale jahresruckblick des ccc
-
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://media.ccc.de/v/36c3-11225-der_dezentrale_jahresruckblick_des_ccc&#34;&gt;36c3-11225-der_dezentrale_jahresruckblick_des_ccc&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Vortrag Hebocon (honky)
-
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://media.ccc.de/v/36c3-10776-hebocon&#34;&gt;36c3-10776-hebocon&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Werbung in fremder Sache: Grüße nach Dresden ans &lt;a href=&#34;https://c3d2.de/radio.html&#34;&gt;Pentaradio&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Vortrag Hacker Jeopardy - Zahlenraten für Geeks (Sec and Ray)
-
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://media.ccc.de/v/36c3-11177-hacker_jeopardy&#34;&gt;36c3-11177-hacker_jeopardy&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://media.ccc.de/search?p=aluburka&#34;&gt;Aluburka&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h3 id=&#34;mukkefilterblase-durchbrechen-teil2&#34;&gt;Mukkefilterblase durchbrechen Teil2&lt;/h3&gt;
-
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=t2M5o_LqHFE&amp;amp;t=553s&#34;&gt;Tres - inTRESsant - My Computer&lt;/a&gt;&lt;/p&gt;
-
 &lt;h3 id=&#34;kommende-veranstaltungen&#34;&gt;kommende Veranstaltungen&lt;/h3&gt;
-
 &lt;ul&gt;
 &lt;li&gt;14-16.08.2020 SommerZonenHack im Eigenbaukombinat
-
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://tickets.eigenbaukombinat.de/ebk/szh2020/&#34;&gt;Anmeldung&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://ßh.de&#34;&gt;https://ßh.de&lt;/a&gt; punycode aware oder &lt;a href=&#34;https://xn--h-pfa.de&#34;&gt;https://xn–h-pfa.de&lt;/a&gt;&lt;/li&gt;
@@ -126,60 +145,33 @@
 &lt;li&gt;03-05.07.2020 &lt;a href=&#34;https://jugendhackt.org/event-rueckblick/halle-2019/&#34;&gt;Jugendhackt Halle&lt;/a&gt; im Eingenebaukombinat&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://makerspace-leipzig.de/&#34;&gt;Makerspace Leipzig&lt;/a&gt; sucht eine neue Unterkunft&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h3 id=&#34;kunst-auf-dem-congress-teil2&#34;&gt;Kunst auf dem Congress Teil2&lt;/h3&gt;
-
 &lt;ul&gt;
 &lt;li&gt;browsers on phosphor, quanten (mit javascript grafik auf dem Oszilloskop erzeugen)
-
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://twitter.com/quintusquanten/status/1205624861411938305&#34;&gt;Twitter Quintus Tunnel&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://quantenprojects.github.io/36c3-generator/&#34;&gt;https://quantenprojects.github.io/36c3-generator/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Chladnische_Klangfigur&#34;&gt;Wikipedia Chladnische Klangfigur&lt;/a&gt;
-
 &lt;ul&gt;
 &lt;li&gt;sind Muster, die auf einer mit Sand bestreuten dünnen Platte (am besten aus Metall) entstehen, wenn diese in Schwingungen versetzt wird… Das war leider nicht was wir suchten&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Lissajous-Figur&#34;&gt;Wikipedia Lissajous-Figur&lt;/a&gt;
-
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://gerdbreitenbach.de/lissajous/lissajous.html&#34;&gt;http://gerdbreitenbach.de/lissajous/lissajous.html&lt;/a&gt; Großartiges Spielzeug!&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://chaosradio.de/cr255-36c3-spezial&#34;&gt;Chaosradio CR255 36C3-Spezial&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;script&gt;
-  podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw89.json&#39;);
-&lt;/script&gt;
-</description>
-      <enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2889%29_2020_02_15_Congress_Review_2_36C3.mp3" type="audio/mpeg" length="1" />
-      
-      <chapters>
-                      
-      </chapters>
-    </item>
-    
-    <item>
-      <title>SfdvW - 88 - Congress Review 36C3</title>
-      <link>https://sfdvw.de/blog/2020-01/sfdvw-88-congress-review-36c3/</link>
-      <pubDate>Sat, 18 Jan 2020 00:20:00 +0200</pubDate>
-      
-      <guid>https://sfdvw.de/blog/2020-01/sfdvw-88-congress-review-36c3/</guid>
-      <description>
-
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw89.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2889%29_2020_02_15_Congress_Review_2_36C3.mp3" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 88 - Congress Review 36C3</title><link>https://sfdvw.de/blog/2020-01/sfdvw-88-congress-review-36c3/</link><pubDate>Sat, 18 Jan 2020 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2020-01/sfdvw-88-congress-review-36c3/</guid><description>
 &lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
 &lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
 &lt;p&gt;Feedback zur Sendung?
 &lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
-
 &lt;h2 id=&#34;sfdvw-88-congressreview&#34;&gt;SfdvW - 88 - Congressreview&lt;/h2&gt;
-
 &lt;p&gt;mit dabei: tmk, markus, nilo, jotilux&lt;/p&gt;
-
 &lt;h3 id=&#34;worum-geht-es-heute&#34;&gt;Worum geht es Heute?&lt;/h3&gt;
-
 &lt;ul&gt;
 &lt;li&gt;der 36. Chaos Communication Congress (36C3) fand in Leipzig vom 27.-30.12.2019 statt&lt;/li&gt;
 &lt;li&gt;eine Vier-Tage-Konferenz mit 17k Teilnehmer/innen über Technologie, Gesellschaft und Utopie organisiert vom Chaos Computer Club (CCC) und vielen ehrenamtlichen Helfern mit Vorträgen, Workshops und Kunst&lt;/li&gt;
@@ -189,12 +181,9 @@
 &lt;li&gt;Recordings der Vorträge gibt es unter &lt;a href=&#34;https://media.ccc.de/c/36c3&#34;&gt;media.ccc.de&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Earth_Overshoot_Day&#34;&gt;Der Earth Overshoot Day &lt;/a&gt; (auch „Erdüberlastungstag“ genannt – und immer seltener auch „Ecological Debt Day“, „Welterschöpfungstag“, „Weltüberlastungstag“ oder „Ökoschuldentag“) ist in einer jährlichen Kampagne der Organisation Global Footprint Network der Tag des laufenden Jahres, an dem die menschliche Nachfrage nach nachwachsenden Rohstoffen das Angebot und die Kapazität der Erde zur Reproduktion dieser Ressourcen in diesem Jahr übersteigt. Der Earth Overshoot Day ist ein Aktionstag.&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h3 id=&#34;vortäge&#34;&gt;Vortäge&lt;/h3&gt;
-
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Vortrag Verkehrswende selber hacken (robbi5, ubahnverleih)&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://media.ccc.de/v/36c3-10881-verkehrswende_selber_hacken&#34;&gt;36c3-10881-verkehrswende_selber_hacken&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Sicherheit von bestehenden Verleihsystemen&lt;/li&gt;
@@ -203,45 +192,31 @@
 &lt;li&gt;Ziel: open source Infrastruktur für selbstorganisierten unkommerziellen Fahrradverleih, auch von anderen benutzbar&lt;/li&gt;
 &lt;li&gt;in Halle auch möglich?&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-
 &lt;li&gt;&lt;p&gt;API / &lt;a href=&#34;https://de.wikipedia.org/wiki/Programmierschnittstelle&#34;&gt;application programming interface&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
 &lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://radforschung.org/&#34;&gt;radforschung.org&lt;/a&gt; ein offenes Bikesharing für alle&lt;/p&gt;&lt;/li&gt;
-
 &lt;li&gt;&lt;p&gt;Vortrag BahnMinig (David Kriesel)&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://media.ccc.de/v/36c3-10652-bahnmining_-_punktlichkeit_ist_eine_zier&#34;&gt;36c3-10652-bahnmining_-_punktlichkeit_ist_eine_zier&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;hat Leipzig bei Riesa eingetragen&lt;/li&gt;
 &lt;li&gt;modernisierte Bahnhöfe machen negative Verspätung (Nürnberg &amp;lt;-&amp;gt; Erfurt, Leipzig)&lt;/li&gt;
 &lt;li&gt;VDE #8
-
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Verkehrsprojekt_Deutsche_Einheit_Nr._8&#34;&gt;Verkehrsprojekt_Deutsche_Einheit_Nr._8&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Verkehrsprojekte_Deutsche_Einheit&#34;&gt;Verkehrsprojekte_Deutsche_Einheit&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;ICEs fallen eher mal aus als die Pünktlichkeitsstatistik negativ zu beeinflussen&amp;hellip;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-
 &lt;li&gt;&lt;p&gt;mit &lt;a href=&#34;https://de.wikipedia.org/wiki/Citizen_Science&#34;&gt;Citizen Science&lt;/a&gt; einfach selber messen&lt;/p&gt;&lt;/li&gt;
-
 &lt;li&gt;&lt;p&gt;Vortrag Let’s play Infokrieg (Arne Vogelgesang)&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Wie die radikale Rechte (ihre) Politik gamifiziert&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://media.ccc.de/v/36c3-10639-let_s_play_infokrieg&#34;&gt;36c3-10639-let_s_play_infokrieg&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-
 &lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://36c3.bleeptrack.de/&#34;&gt;36C3-Logo-Genarator&lt;/a&gt; von bleeptrack&lt;/p&gt;&lt;/li&gt;
-
 &lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://events.ccc.de/congress/2019/wiki/index.php/Static:Volunteers&#34;&gt;Engel/Angels&lt;/a&gt; auf dem Congress&lt;/p&gt;&lt;/li&gt;
-
 &lt;li&gt;&lt;p&gt;noch mehr Bilder vom Congress mit LASER &amp;amp; Co. und auch mal von oben von Simon Waldherr im &lt;a href=&#34;https://www.flickr.com/photos/simonwaldherr/&#34;&gt;flicker Fotostream&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
 &lt;li&gt;&lt;p&gt;noch mehr mehr mehr &lt;a href=&#34;https://www.flickriver.com/groups/chaoscomputerclub/pool/&#34;&gt;Bilder vom 36C3&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
 &lt;li&gt;&lt;p&gt;Infrastruktur / FACILITIES&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Infodesk (DECT 1111) – 42, the answer to everything&lt;/li&gt;
 &lt;li&gt;CERT (DECT 112) – chaos emergency response team&lt;/li&gt;
@@ -255,61 +230,45 @@
 &lt;li&gt;LOC – Logistics Operation Center, parcels, heavy lifting, &amp;hellip;&lt;/li&gt;
 &lt;li&gt;Cloakroom – storing your jackets and/or luggage&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-
 &lt;li&gt;&lt;p&gt;Vortag Hackers &amp;amp; makers changing music technology (Helen Leigh)&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://media.ccc.de/v/36c3-10548-hackers_makers_changing_music_technology&#34;&gt;36c3-10548-hackers_makers_changing_music_technology&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Helen baut verrückte Musikinstrumente
-
 &lt;ul&gt;
 &lt;li&gt;z.B. Plüsch-Tentakel&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Historischer Abriss:
-
 &lt;ul&gt;
 &lt;li&gt;Daphne Oram hat in den 40ern (beim BBC Radio) das Sampling &amp;ldquo;erfunden&amp;rdquo; (Magnetbänder zerschnippeln und zusammensetzen)&lt;/li&gt;
 &lt;li&gt;Dr. Who Theme&lt;/li&gt;
 &lt;li&gt;The Beatles - &lt;a href=&#34;https://youtu.be/Ah2ckzXgrx4?t=6&#34;&gt;Tomorrow never knows&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;steffen koritsch &lt;a href=&#34;https://noisio.de/&#34;&gt;noisio.de&lt;/a&gt;
-
 &lt;ul&gt;
 &lt;li&gt;letztes jahr: photonotron (theremin mit licht)&lt;/li&gt;
 &lt;li&gt;neu: &amp;ldquo;next gen&amp;rdquo; attiny punk console + lfo platine&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-
 &lt;li&gt;&lt;p&gt;All creatures are welcome – A reminder to &lt;a href=&#34;https://www.ccc.de/de/updates/2016/a-reminder-to-be-excellent-to-each-other&#34;&gt;be excellent to each other&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
 &lt;li&gt;&lt;p&gt;Vortrag Infrastructure Review mit Statisitk&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://media.ccc.de/v/36c3-11235-36c3_infrastructure_review&#34;&gt;36c3-11235-36c3_infrastructure_review&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-
 &lt;li&gt;&lt;p&gt;Song &lt;a href=&#34;https://en.wikipedia.org/wiki/Tomorrow_Never_Knows&#34;&gt;Tomorrow Never Knows&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
 &lt;li&gt;&lt;p&gt;Vortrag &amp;ldquo;Hacker hin oder her&amp;rdquo;: Die elektronische Patientenakte kommt! (Martin Tschirsich, cbro - Dr. med. Christian Brodowski and Dr. André Zilch)&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://media.ccc.de/v/36c3-10595-hacker_hin_oder_her_die_elektronische_patientenakte_kommt&#34;&gt;36c3-10595-hacker_hin_oder_her_die_elektronische_patientenakte_kommt&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-
 &lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://halfnarp.events.ccc.de/&#34;&gt;Fahrplan&lt;/a&gt; mit Kategorie - Einsteigervortrag/Foundations&lt;/p&gt;&lt;/li&gt;
-
 &lt;li&gt;&lt;p&gt;Chaoszone Review&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;&amp;ldquo;Orbit/Cluster&amp;rdquo;&lt;/li&gt;
 &lt;li&gt;Assemblyfamilie: Halle, Dresden, Leipzig, Potsdam, Chemnitz, Zwickau, Vogtland, Jena, Weimar, Erfurt, Gotha, Magdeburg&lt;/li&gt;
 &lt;li&gt;ca. 200 Menschen&lt;/li&gt;
 &lt;li&gt;Bühne &amp;amp; Workshops: 30 Programmpunkte
-
 &lt;ul&gt;
 &lt;li&gt;Bühne mit 70-90 Plätzen + Stehplätze&lt;/li&gt;
 &lt;li&gt;Highlights:
-
 &lt;ul&gt;
 &lt;li&gt;Rumkalypse an Tag 3 (Sonntag&amp;hellip;) -&amp;gt; DANKE Wuschelhase&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=_H-Keya6xB8&#34;&gt;devops disasters&lt;/a&gt;, stefan&lt;/li&gt;
@@ -320,90 +279,51 @@
 &lt;li&gt;party: liveperformance &amp;ldquo;der warst&amp;rdquo;, &amp;ldquo;musik&amp;rdquo; mit gehackten telefonen und anrufbeantwortern, djs&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-
 &lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://36c3.c3nav.de/&#34;&gt;C3NAV/Indoornavigation&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h3 id=&#34;nächster-congress-37c3&#34;&gt;nächster Congress 37C3&lt;/h3&gt;
-
 &lt;ul&gt;
 &lt;li&gt;27. - 30.12.2020!&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;script&gt;
-  podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw88.json&#39;);
-&lt;/script&gt;
-</description>
-      <enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2888%29_2020_01_18_Congress_Review_36C3.mp3" type="audio/mpeg" length="1" />
-      
-      <chapters>
-                      
-      </chapters>
-    </item>
-    
-    <item>
-      <title>SfdvW - 87 - Backups</title>
-      <link>https://sfdvw.de/blog/2019-12/sfdvw-87-backups/</link>
-      <pubDate>Sat, 21 Dec 2019 00:20:00 +0200</pubDate>
-      
-      <guid>https://sfdvw.de/blog/2019-12/sfdvw-87-backups/</guid>
-      <description>
-
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw88.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2888%29_2020_01_18_Congress_Review_36C3.mp3" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 87 - Backups</title><link>https://sfdvw.de/blog/2019-12/sfdvw-87-backups/</link><pubDate>Sat, 21 Dec 2019 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2019-12/sfdvw-87-backups/</guid><description>
 &lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
 &lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
 &lt;p&gt;Feedback zur Sendung?
 &lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
-
 &lt;h2 id=&#34;sfdvw-87-backups&#34;&gt;SfdvW - 87 - Backups&lt;/h2&gt;
-
 &lt;p&gt;mit dabei: tmk, markus, reem, jotilux&lt;/p&gt;
-
 &lt;h3 id=&#34;worum-geht-es-heute&#34;&gt;Worum geht es Heute&lt;/h3&gt;
-
 &lt;p&gt;Weihnachtszeit ist Backup-Zeit -&amp;gt; Chaos Communicaton Congress + IT Support bei der Familie&lt;/p&gt;
-
 &lt;p&gt;Hardware- oder Softwaredefekt, Viren/Trojaner, Diebstahl oder höhere Gewalt(Überspannung/Hochwasser): schon sind die Daten weg&lt;/p&gt;
-
 &lt;h3 id=&#34;hinweise&#34;&gt;Hinweise&lt;/h3&gt;
-
 &lt;p&gt;Ihr wollte nicht Daten-Sichern, Ihr wollt sie Wiederherstellen.&lt;/p&gt;
-
 &lt;p&gt;Backup(Datensicherung) heißt Daten mindestens zweimal zu haben
 möglichst ortsgetrennt(Disaster Recovery)&lt;/p&gt;
-
 &lt;h3 id=&#34;backupstrategien&#34;&gt;Backupstrategien&lt;/h3&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Großvater-Vater-Sohn-Prinzip  / &lt;a href=&#34;https://de.wikipedia.org/wiki/Generationenprinzip&#34;&gt;Generationsprinzip&lt;/a&gt;&lt;/p&gt;
-
+&lt;li&gt;&lt;p&gt;Großvater-Vater-Sohn-Prinzip / &lt;a href=&#34;https://de.wikipedia.org/wiki/Generationenprinzip&#34;&gt;Generationsprinzip&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;21 Bänder
-
 &lt;ul&gt;
 &lt;li&gt;12 Stück Januar - Dezember (Großvater)&lt;/li&gt;
 &lt;li&gt;5 Stück Freitag 1 - Freitag 5 (Vater)&lt;/li&gt;
 &lt;li&gt;4 Stück Mo - Do (Sohn)&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-
 &lt;li&gt;&lt;p&gt;Vollbackup&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;pro: alle Dateien, Restore mit nur einem Medium&lt;/li&gt;
 &lt;li&gt;con: viel Platz pro Backup&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-
 &lt;li&gt;&lt;p&gt;Inkrementelles Backup (&lt;a href=&#34;https://de.wikipedia.org/wiki/Archivbit&#34;&gt;Archiv-Bit&lt;/a&gt;)&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Mo - Vollbackup&lt;/li&gt;
 &lt;li&gt;Di - Do Intrementell (Änderungen täglich)&lt;/li&gt;
 &lt;li&gt;Ausfall Do d.h. benötigt Do, Mi, Di, Mo&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-
 &lt;li&gt;&lt;p&gt;Differenzielles Backup&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Mo - Vollbackup&lt;/li&gt;
 &lt;li&gt;Di - Do Differenziell (Änderungen Wöchentlich)&lt;/li&gt;
@@ -411,81 +331,61 @@ möglichst ortsgetrennt(Disaster Recovery)&lt;/p&gt;
 &lt;li&gt;Ausfall Do d.h. benötigt Do, Mo&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h3 id=&#34;fragen-über-fragen&#34;&gt;Fragen über Fragen&lt;/h3&gt;
-
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Datensicherungen&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;machen oder nicht?
-
 &lt;ul&gt;
 &lt;li&gt;habe ich wichtige Daten?
-
 &lt;ul&gt;
 &lt;li&gt;Bewerbung, Zeugniskopie/Urkunden, Zertifikate, digitale Fotos, Videoaufnahmen der ersten Schritte des Kindes, Audioaufnahmen der Band, Spielstände, Verträge,&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;wenn ja wohin?
-
 &lt;ul&gt;
 &lt;li&gt;zu Fremden?&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Immer alles oder nur die unterschiede
-
 &lt;ul&gt;
 &lt;li&gt;incrementell/ differenziell / vollbackup&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Verschlüsseln?&lt;/li&gt;
 &lt;li&gt;Wie oft
-
 &lt;ul&gt;
 &lt;li&gt;Automatisch machen lassen? push/pull?&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Einhörnchen strategie
-
 &lt;ul&gt;
 &lt;li&gt;Überall mal ein Backup &amp;ldquo;vergraben&amp;rdquo;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Backups zurückspielen zwingend prüfen!&lt;/li&gt;
 &lt;li&gt;Raid ist kein Backup!&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-
 &lt;li&gt;&lt;p&gt;Closed oder Opensource Software?&lt;/p&gt;&lt;/li&gt;
-
 &lt;li&gt;&lt;p&gt;Linux&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;restic&lt;/li&gt;
 &lt;li&gt;rsync /grsync&lt;/li&gt;
 &lt;li&gt;Onboard Software&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-
 &lt;li&gt;&lt;p&gt;Windows&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;&amp;ldquo;Aktenkoffer&amp;rdquo;&lt;/li&gt;
 &lt;li&gt;onboard backup&lt;/li&gt;
 &lt;li&gt;einfach kopieren&lt;/li&gt;
 &lt;li&gt;restic&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-
 &lt;li&gt;&lt;p&gt;*OS&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Time-machine&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-
 &lt;li&gt;&lt;p&gt;Dateisysteme&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/ZFS_(Dateisystem)&#34;&gt;zfs&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h3 id=&#34;firma&#34;&gt;Firma:&lt;/h3&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Gesetzliche Archivierungspflicht über Jahre (z.B. Multimediaarchiv für TV in 4k mit Datenmengen in Größenordnungen)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Disaster_Recovery&#34;&gt;Disaster_Recovery&lt;/a&gt;&lt;/li&gt;
@@ -493,403 +393,274 @@ möglichst ortsgetrennt(Disaster Recovery)&lt;/p&gt;
 &lt;li&gt;NAS&lt;/li&gt;
 &lt;li&gt;Cloud&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h3 id=&#34;privat&#34;&gt;privat&lt;/h3&gt;
-
 &lt;ul&gt;
 &lt;li&gt;08/15 usb sticks vs. vernünftige externe festplatte/ssd vs. NAS vs. Cloud&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h3 id=&#34;verein&#34;&gt;Verein&lt;/h3&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Wie macht das Radio Corax mit dem Backup?&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h3 id=&#34;unsere-empfehlungen&#34;&gt;unsere Empfehlungen&lt;/h3&gt;
-
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://clonezilla.org/&#34;&gt;clonezilla&lt;/a&gt; bzw. bei mehreren Geräten &lt;a href=&#34;https://fogproject.org/&#34;&gt;FOG Project&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=jN5mICXIG9M&#34;&gt;Der Backup-Reminder vom Browser Ballett&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h3 id=&#34;flash-ssd-vs-tape-libary-vs-helium-hdds-vs-nas&#34;&gt;Flash/SSD vs. Tape libary vs. Helium HDDs vs. NAS&lt;/h3&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Tapes lohnen sich preislich erst ab vielen&lt;/li&gt;
 &lt;li&gt;Festplatten sind billig&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h3 id=&#34;veranstaltungshinweise&#34;&gt;Veranstaltungshinweise&lt;/h3&gt;
-
 &lt;ul&gt;
 &lt;li&gt;28.12.2019 Congress Junghacker-Tag&lt;/li&gt;
 &lt;li&gt;16.05.2020Llinux Präsentation Day&lt;/li&gt;
 &lt;li&gt;31.03.2020 &lt;a href=&#34;http://www.worldbackupday.com/de/&#34;&gt;World Backup Day&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;script&gt;
-  podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw87.json&#39;);
-&lt;/script&gt;
-</description>
-      <enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2887%29_2019_12_21_Backups.mp3" type="audio/mpeg" length="1" />
-      
-      <chapters>
-                      
-      </chapters>
-    </item>
-    
-    <item>
-      <title>SfdvW - 86 - Ubuntu-Linuxeinstieg</title>
-      <link>https://sfdvw.de/blog/2019-11/sfdvw-86-ubuntu-linuxeinstieg/</link>
-      <pubDate>Sat, 16 Nov 2019 00:20:00 +0200</pubDate>
-      
-      <guid>https://sfdvw.de/blog/2019-11/sfdvw-86-ubuntu-linuxeinstieg/</guid>
-      <description>
-
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw87.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2887%29_2019_12_21_Backups.mp3" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 86 - Ubuntu-Linuxeinstieg</title><link>https://sfdvw.de/blog/2019-11/sfdvw-86-ubuntu-linuxeinstieg/</link><pubDate>Sat, 16 Nov 2019 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2019-11/sfdvw-86-ubuntu-linuxeinstieg/</guid><description>
 &lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
 &lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
 &lt;p&gt;Feedback zur Sendung?
 &lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
-
 &lt;h2 id=&#34;sfdvw-86-ubuntu-linuxeinstieg&#34;&gt;SfdvW - 86 - Ubuntu-Linuxeinstieg&lt;/h2&gt;
-
 &lt;p&gt;Sendungstermin 16.11.2019 20-21Uhr
 mit dabei: tmk, nilo, Wolfgang, markus, jotilux, mantu&lt;/p&gt;
-
 &lt;h3 id=&#34;worum-geht-es-heute&#34;&gt;Worum geht es Heute&lt;/h3&gt;
-
 &lt;ul&gt;
 &lt;li&gt;scheinbar alte Hardware weiter verwenden, die mit Windows 10 nicht mehr benutzbar wäre&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.heise.de/newsticker/meldung/ARD-Doku-Einsatz-von-Microsoft-Produkten-in-Behoerden-problematisch-3973448.html&#34;&gt;Das Microsoft-Dilemma heise.de&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Warum *buntu ?
-
 &lt;ul&gt;
 &lt;li&gt;ganz gut für den Einstieg&lt;/li&gt;
 &lt;li&gt;verbreitete Community&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;live installieren und Infos für danach
-
 &lt;ul&gt;
 &lt;li&gt;im &lt;a href=&#34;https://twitch.tv/sfdvw&#34;&gt;Twitch-Livestream zuschauen&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Xubuntu,Kubuntu,Lubuntu
-
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://wiki.ubuntuusers.de/Ubuntu/Derivate/&#34;&gt;wiki.ubuntuusers.de/Ubuntu/Derivate/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Windowmanager (I3, XFCE, KDM GNOME, Cinnamon, Mate)&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h3 id=&#34;vorbereitung&#34;&gt;Vorbereitung&lt;/h3&gt;
-
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Backup der Daten auf dem Gerät machen !!&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;Stick vorbereiten wie geht das
-
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://tutorials.ubuntu.com/tutorial/try-ubuntu-before-you-install#0&#34;&gt;try-ubuntu-before-you-install&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.easy2boot.com/&#34;&gt;easy2boot.com&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Linux live von USB-Stick ausprobieren&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Eine mögliche Installation im &lt;a href=&#34;https://wiki.ubuntuusers.de/Dualboot/&#34;&gt;Dual Boot Betrieb&lt;/a&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Windows und Linux gemeinsam auf einer Festplatte&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-
 &lt;li&gt;&lt;p&gt;Alternativ kann neben der vorhandenen Festplatte auch eine neue Eingabaut serden (Bootreihenfolge im BIOS)&lt;/p&gt;&lt;/li&gt;
-
 &lt;li&gt;&lt;p&gt;Linux/BSD/freie OS warum?&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Liste_von_Linux-Distributionen&#34;&gt;wikipedia Liste_von_Linux-Distributionen&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Update einfacher&lt;/li&gt;
 &lt;li&gt;Umstieg auf andere Distributionen sehr einfach&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-
 &lt;li&gt;&lt;p&gt;Finanzierung&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Canonical&#34;&gt;wikipediavCanonical&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Support kostet Geld - Die Programme nicht&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-
 &lt;li&gt;&lt;p&gt;mal ein anderes OS/Betriebssystem ausprobieren?&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://distrowatch.org/&#34;&gt;DistroWatch&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Höhrerhinweis/-frage z.B auch gern &lt;a href=&#34;https://de.wikipedia.org/wiki/Linux_Mint&#34;&gt;Linux Mint&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-
 &lt;li&gt;&lt;p&gt;ein gutes Nachschlagewerk&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://wiki.ubuntuusers.de/Startseite/&#34;&gt;wiki.ubuntuusers.de&lt;/a&gt; , &lt;a href=&#34;https://wiki.debian.org&#34;&gt;wiki.debian.org&lt;/a&gt; oder &lt;a href=&#34;https://wiki.archlinux.org/&#34;&gt;wiki.archlinux.org&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h3 id=&#34;die-installation&#34;&gt;Die Installation&lt;/h3&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Was heißt Bionic oder Xenial?
-
 &lt;ul&gt;
 &lt;li&gt;Die Codenamen sind Tierarten mit einem vorangestellten Adjektiv
-
 &lt;ul&gt;
 &lt;li&gt;alphabetisch fortgeführt&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://ubuntu.com/about/release-cycle&#34;&gt;ubuntu release-cycle&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Was heißt LTS?
-
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://wiki.ubuntu.com/LTS&#34;&gt;Long Term Support&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;nicht die neueste aber stabilere Software&lt;/li&gt;
 &lt;li&gt;5 Jahre updates
-
 &lt;ul&gt;
 &lt;li&gt;weitere 5 Jahre extended Support als Kunde von Cannonical&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Dateisystem und Partitionierung
-
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://wiki.ubuntuusers.de/Partitionierung/#Root&#34;&gt;Root-Partition&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Welches ist denn das richtige *buntu für mich?&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://wiki.ubuntuusers.de/Unterschiede_zu_Windows/&#34;&gt;Unterschiede zu Windows&lt;/a&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Alles ist eine &amp;ldquo;Datei&amp;rdquo;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h3 id=&#34;eigene-erfahrungen-und-empfehlungen&#34;&gt;eigene Erfahrungen und Empfehlungen&lt;/h3&gt;
-
 &lt;ul&gt;
 &lt;li&gt;alte Rechner: Flaschenhals HDD, Memory, 32bit
-
 &lt;ul&gt;
 &lt;li&gt;SSD macht bei Aufrüstung sinn&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://wiki.ubuntuusers.de/Alte_Hardware/&#34;&gt;wiki.ubuntuusers.de/Alte_Hardware&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;lohnt es sich 32bit-Systeme nochmal zu beleben?
-
 &lt;ul&gt;
 &lt;li&gt;Es kommt auf den Einsatzzweck an&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h3 id=&#34;veranstaltungshinweise&#34;&gt;Veranstaltungshinweise&lt;/h3&gt;
-
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Review Jugend Hackt Halle&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLQsLR7zBwcw1nCd-RCPdjxiLxgVysDn-n&#34;&gt;Abschlusspräsentation&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.flickr.com/photos/okfde/albums/72157711734951991/&#34;&gt;Fotos&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-
 &lt;li&gt;&lt;p&gt;dezentrale Leipzig 20.11.2019 mit Support aus Berline (SSDeV | Sportsfreunde der Sperrtechnik - Deutschland e.V.)&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://dezentrale.space/events/tag-der-offenen-t%C3%BCr/&#34;&gt;Schlösser öffnen mit Support aus Berlin&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;script&gt;
-  podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw86.json&#39;);
-&lt;/script&gt;
-</description>
-      <enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2886%29_2019_11_16_Linuxeinstieg_mit_Ubuntu.mp3" type="audio/mpeg" length="1" />
-      
-      <chapters>
-                      &lt;chapter start=&#34;00:00:00&#34; title=&#34;Intro&#34;/&gt;
-      </chapters>
-    </item>
-    
-    <item>
-      <title>SfdvW - 85 - mobile Messenger</title>
-      <link>https://sfdvw.de/blog/2019-10/sfdvw-85-mobile-messenger/</link>
-      <pubDate>Sat, 19 Oct 2019 00:20:00 +0200</pubDate>
-      
-      <guid>https://sfdvw.de/blog/2019-10/sfdvw-85-mobile-messenger/</guid>
-      <description>
-
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw86.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2886%29_2019_11_16_Linuxeinstieg_mit_Ubuntu.mp3" type="audio/mpeg" length="1"/><chapters>
+&lt;chapter start=&#34;00:00:00&#34; title=&#34;Intro&#34;/&gt;</chapters></item><item><title>SfdvW - 85 - mobile Messenger</title><link>https://sfdvw.de/blog/2019-10/sfdvw-85-mobile-messenger/</link><pubDate>Sat, 19 Oct 2019 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2019-10/sfdvw-85-mobile-messenger/</guid><description>
 &lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
 &lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
 &lt;p&gt;Feedback zur Sendung?
 &lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
-
 &lt;h3 id=&#34;sfdvw-85-mobile-messenger&#34;&gt;SfdvW - 85 - mobile Messenger&lt;/h3&gt;
-
 &lt;p&gt;Sendungstermin 19.10.2019 20-21Uhr
 mit dabei: tmk, nilo, Wolfgang, markus&lt;/p&gt;
-
 &lt;h4 id=&#34;worum-geht-es-heute&#34;&gt;Worum geht es Heute&lt;/h4&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Thema mobile messenger: &amp;ldquo;Die Liste von Kommunikationsprogrammen resp. Diensten ist lang. Eine Auswahl schwierig. Meist wird daher der Dienst zur &lt;strong&gt;eigenen Gewohnheit&lt;/strong&gt; übernommen, welcher auch das &lt;strong&gt;persönliche Umfeld&lt;/strong&gt; am häufigsten benutzt. Die Unterschiede sind jedoch gross, so dass sich eine genauere Betrachtung lohnt.&amp;rdquo; - digitale-gesellschaft.ch 2016-11-07&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Liste_von_mobilen_Instant-Messengern&#34;&gt;Überblick Wikipedia&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.digitale-gesellschaft.ch/2016/11/07/whatsapp-e-mail-sms-co-auf-sicherheit-und-nachhaltigkeit-bewertet-produktvergleich/&#34;&gt;Überblick digitale Gesellschaft&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Funktionen die ein mobile messenger haben kann
-
 &lt;ul&gt;
 &lt;li&gt;Textnachrichten, Sprachnachrichten, Bildnachrichten, Gruppenchat, Asynchrone Kommunikation (Nachricht wird bei Status Offline zwischengespeichert)&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h4 id=&#34;früher&#34;&gt;&amp;ldquo;früher&amp;rdquo;&lt;/h4&gt;
-
 &lt;ul&gt;
 &lt;li&gt;pager (&lt;a href=&#34;https://de.wikipedia.org/wiki/Quix&#34;&gt;quix&lt;/a&gt;, telmi, &lt;a href=&#34;https://de.wikipedia.org/wiki/Scall&#34;&gt;scall&lt;/a&gt;, &lt;a href=&#34;https://de.wikipedia.org/wiki/Skyper_(Pager)&#34;&gt;skyper&lt;/a&gt;)
-
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=7N-CxZXpV_8&#34;&gt;Funkmeldeempfänger und Pager Computer:Club2&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;sms / &lt;a href=&#34;https://de.wikipedia.org/wiki/Stille_SMS&#34;&gt;stille sms&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h4 id=&#34;wie-verbreitet-ist-es&#34;&gt;wie verbreitet ist es&lt;/h4&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Persönliche Erfahrung:  Was nutzen/haben wir genutzt?&lt;/p&gt;
-
+&lt;li&gt;&lt;p&gt;Persönliche Erfahrung: Was nutzen/haben wir genutzt?&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Riot (Matrix)
-
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Matrix_(communication_protocol)&#34;&gt;Matrix_(communication_protocol)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Whatsapp
-
 &lt;ul&gt;
 &lt;li&gt;am weiten verbreitetestr Ende zu Ende verschlüsselter Messanger
-
 &lt;ul&gt;
 &lt;li&gt;Verschlüsselung von Signal &amp;ldquo;eingekauft&amp;rdquo;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Signal
-
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://signal.org/blog/signal-foundation/&#34;&gt;signal-foundation&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;benötigt eine Telefonnummer&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Threema
-
 &lt;ul&gt;
 &lt;li&gt;Bosch und Schweizer Bundesbehörden nutzen es&lt;/li&gt;
 &lt;li&gt;closed Source&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Telegram
-
 &lt;ul&gt;
 &lt;li&gt;open Source Client, Server closed Source&lt;/li&gt;
 &lt;li&gt;Selbstentwickelte Verschlüsselung &lt;a href=&#34;https://de.wikipedia.org/wiki/Telegram#cite_note-88&#34;&gt;MTProto-Protokoll&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;XMPP/Jabber
-
 &lt;ul&gt;
 &lt;li&gt;Selbst hosten, kompliziert aber Grundlage vieler anderer messagnger (facebook)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://conversations.im/&#34;&gt;Androidclient&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.chiffry.de/&#34;&gt;Chiffry&lt;/a&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Regional (Teutschenthal)&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://briarproject.org/&#34;&gt;briar&lt;/a&gt;
-
 &lt;ul&gt;
 &lt;li&gt;serverless
 &lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;p&gt;&lt;strong&gt;gibt auch noch andere Tools, die für messaging benutzt werden können&lt;/strong&gt;&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Slack, discord
-
 &lt;ul&gt;
 &lt;li&gt;closed Source&lt;/li&gt;
 &lt;li&gt;freie alternativen: rocketchat, mattermost, zulip, &amp;hellip;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;p&gt;&lt;strong&gt;auch DM-Funktionen in sozialen netzwerken werden benutzt&lt;/strong&gt;&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;twitter&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-
 &lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Telefonzelle_(Deutschland)&#34;&gt;Telefonzelle_(Deutschland)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
 &lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Dia_(Fotografie)&#34;&gt;Dia_(Fotografie)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
 &lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.heise.de/newsticker/meldung/Studie-zu-Darknet-Preisen-Daten-von-Europaeern-sind-teuer-4560072.html&#34;&gt;Heise.de - Studie zu Darknet Preisen Daten von Europaeern sind teuer&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h4 id=&#34;thema-sicherheit&#34;&gt;Thema Sicherheit&lt;/h4&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Wer bezahlt die infrastruktur / Entwickt die Software
-
 &lt;ul&gt;
 &lt;li&gt;Wie verdienen Sie ihren unterhalt?&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Metadaten (Wer, mit wem, wann, wie oft)&lt;/li&gt;
 &lt;li&gt;welche Verschlüsselungstechnologie bzw. welches Verschlüsselungsprotokoll kommt zum Einsatz
-
 &lt;ul&gt;
 &lt;li&gt;Sollte offen kommuniziert sein und kein Geheimnis&lt;/li&gt;
 &lt;li&gt;E2E-Verschlüsselung (Client-Client)
-
 &lt;ul&gt;
 &lt;li&gt;keine, Eigententwicklung, Standardverfahren(OTR, TLS)&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Client-Server-Verschlüsselung (unverschlüsselt auf dem Server, bzw. unvers. Server-Server)
-
 &lt;ul&gt;
 &lt;li&gt;keine, Eigententwicklung, Standardverfahren(&lt;a href=&#34;https://de.wikipedia.org/wiki/Off-the-Record_Messaging&#34;&gt;OTR&lt;/a&gt;, &lt;a href=&#34;https://de.wikipedia.org/wiki/Signal-Protokoll, [TLS](https://de.wikipedia.org/wiki/Transport_Layer_Security),&#34;&gt;Signal Protokoll&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Authentifizierung (kryptographische Methoden, mit denen die Echtheit einer Nachricht überprüft werden kann)&lt;/li&gt;
 &lt;li&gt;Abstreitbarkeit (siehe Wikipedia)&lt;/li&gt;
-
 &lt;li&gt;&lt;p&gt;Perfect Forward Secrecy (PFS, jede Nachricht wird mit einem neuen Kurzzeitschlüssel verschlüsselt, der von einem Langzeitschlüssel abgeleitet wird und innerhalb kurzer Zeit gelöscht wird -&amp;gt; Schlüsselleak für nicht zur entschlüsselung älterer Nachrichten!)&lt;/p&gt;
-
 &lt;h4 id=&#34;thema-datenschutz-und-risiken&#34;&gt;Thema Datenschutz und Risiken&lt;/h4&gt;&lt;/li&gt;
-
 &lt;li&gt;&lt;p&gt;Metadaten (Übertragung der Verbindungsdaten)&lt;/p&gt;&lt;/li&gt;
-
 &lt;li&gt;&lt;p&gt;Übertragung der Kontakte&lt;/p&gt;&lt;/li&gt;
-
 &lt;li&gt;&lt;p&gt;personalisierte Werbung&lt;/p&gt;&lt;/li&gt;
-
 &lt;li&gt;&lt;p&gt;Cybermobbing (Messenger sind unmoderiert, Es gibt meist keine Möglichkeit, Störer oder Belästiger zu melden. Deshalb liegen hier auch die Hemmschwellen für Belästigungen niedriger. Mobile Messenger werden häufig für Cybermobbing genutzt – den Ausschluss aus Gruppen, das Gründen von Hetz-Gruppen, das Verbreiten peinlicher Fotos und das Versenden beleidigender Nachrichten. Durch die Mobilität der Anwendungen werden so Konflikte aus dem Klassenzimmer und vom Schulhof bis nach Hause mitgenommen. Für die Opfer bedeutet das eine noch größere Belastung und Hilflosigkeit.)&lt;/p&gt;&lt;/li&gt;
-
 &lt;li&gt;&lt;p&gt;Ungeeignete Inhalte (Propaganda sowie Pornografie- oder Gewaltvideos)&lt;/p&gt;&lt;/li&gt;
-
 &lt;li&gt;&lt;p&gt;Wem gehören die Übertragenen Inhalte&lt;/p&gt;
-
 &lt;h4 id=&#34;self-hosted-vs-cloud-vs-serverless&#34;&gt;self hosted vs. cloud vs. serverless&lt;/h4&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h4 id=&#34;eigene-erfahrungen-und-empfehlungen&#34;&gt;eigene Erfahrungen und Empfehlungen&lt;/h4&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Nachhaltigkeit
-
 &lt;ul&gt;
 &lt;li&gt;Offener Standard: Es wird ein offener Standard verwendet, der frei implementiert werden kann.&lt;/li&gt;
 &lt;li&gt;Open Source Software: Die Software steht im Quellcode zur Verfügung und kann von Dritten eingesehen, geändert und weiterverwendet werden.
-
 &lt;ul&gt;
 &lt;li&gt;Heißt nicht mehr Sicherheit&lt;/li&gt;
 &lt;li&gt;Wenn die Entwickler das Projekt ablegen können andere übernehmen&lt;/li&gt;
@@ -897,68 +668,37 @@ mit dabei: tmk, nilo, Wolfgang, markus&lt;/p&gt;
 &lt;li&gt;Dezentrale Architektur: Die Software ist nicht von einem einzigen, zentralen Anbieter abhängig.&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h4 id=&#34;extra&#34;&gt;extra&lt;/h4&gt;
-
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Mobile Messenger: Nichts für Kinder? (Laut der europäischen Datenschutzgrundverordnung (DSGVO) dürfen Onlineanbieter personenbezogene Daten von Kindern unter 16 Jahren nicht ohne Einwilligung ihrer Eltern verarbeitet werden. Das gilt auch für Messenger. Installation und Anmeldung der Angebote sind also eigentlich Elternsache. In der Umsetzung wird das durch die meisten Anbieter jedoch nicht kontrolliert. Oft genügt die Eingabe des Geburtsdatums oder eine einfache Bestätigung zur Datenverarbeitung - bei Angaben können also leicht von Kindern allein gemacht werden.)&lt;/p&gt;&lt;/li&gt;
-
 &lt;li&gt;&lt;p&gt;WhatsApp-Sprachnachricht&lt;/p&gt;&lt;/li&gt;
-
 &lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://netzpolitik.org/tag/messenger/&#34;&gt;Netzpolitikartikel über Messenger&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
 &lt;li&gt;&lt;p&gt;non-verbale-Kommunikation aka warum gibt es die bunten bildchen eigentlich&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.stuttgarter-nachrichten.de/inhalt.emojis-in-der-forschung-wie-emojis-unsere-kommunikation-ergaenzen.61649867-1f7d-4c30-8c5f-4a6e38e00f79.html&#34;&gt;emojis in der Forschung - wie emojis unsere Kommunikation ergaenzen&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.n-joy.de/multimedia/Die-Emoji-Falle,emoji672.html&#34;&gt;Die-Emoji-Falle&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://gegen-die-panik.de&#34;&gt;Sieben Regeln für mehr Social-Media-Gelassenheit&lt;/a&gt;  / &lt;a href=&#34;https://www.sueddeutsche.de/digital/nach-dem-anschlag-von-muenster-gegen-die-panik-1.3935620&#34;&gt;Artikel Süddeutsche&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://gegen-die-panik.de&#34;&gt;Sieben Regeln für mehr Social-Media-Gelassenheit&lt;/a&gt; / &lt;a href=&#34;https://www.sueddeutsche.de/digital/nach-dem-anschlag-von-muenster-gegen-die-panik-1.3935620&#34;&gt;Artikel Süddeutsche&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h4 id=&#34;veranstaltungshinweise&#34;&gt;Veranstaltungshinweise&lt;/h4&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Chaos Communication Congress auch diese Jahr wieder in Leipzig
-
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.ccc.de/en/updates/2019/36c3-in-leipzig&#34;&gt;36C3: Resource Exhaustion.&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://jugendhackt.org/events/halle/&#34;&gt;jungend hackt Halle 8.-10. November 2019&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;script&gt;
-  podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw85.json&#39;);
-&lt;/script&gt;
-</description>
-      <enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2885%29_2019_10_19_Mobile_Messenger.mp3" type="audio/mpeg" length="1" />
-      
-      <chapters>
-                      &lt;chapter start=&#34;00:00:00&#34; title=&#34;Intro&#34; /&gt;
-      </chapters>
-    </item>
-    
-    <item>
-      <title>SfdvW - 84 - Win10-Privat</title>
-      <link>https://sfdvw.de/blog/2019-09/sfdvw-84-win10-privat/</link>
-      <pubDate>Sat, 21 Sep 2019 00:20:00 +0200</pubDate>
-      
-      <guid>https://sfdvw.de/blog/2019-09/sfdvw-84-win10-privat/</guid>
-      <description>
-
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw85.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2885%29_2019_10_19_Mobile_Messenger.mp3" type="audio/mpeg" length="1"/><chapters>
+&lt;chapter start=&#34;00:00:00&#34; title=&#34;Intro&#34; /&gt;</chapters></item><item><title>SfdvW - 84 - Win10-Privat</title><link>https://sfdvw.de/blog/2019-09/sfdvw-84-win10-privat/</link><pubDate>Sat, 21 Sep 2019 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2019-09/sfdvw-84-win10-privat/</guid><description>
 &lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
 &lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
 &lt;p&gt;Feedback zur Sendung?
 &lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
-
 &lt;h2 id=&#34;sendung-nummer-84-win10-private&#34;&gt;Sendung Nummer 84 Win10-Private&lt;/h2&gt;
-
 &lt;p&gt;mit dabei: Nilo, Markus, jotilux, tmk&lt;/p&gt;
-
 &lt;h3 id=&#34;shownotes&#34;&gt;Shownotes&lt;/h3&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Intro&lt;/li&gt;
 &lt;li&gt;Begrüßung&lt;/li&gt;
@@ -976,218 +716,72 @@ mit dabei: tmk, nilo, Wolfgang, markus&lt;/p&gt;
 &lt;li&gt;Win10 genießen?&lt;/li&gt;
 &lt;li&gt;Veranstaltung und Outro&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;script&gt;
-  podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw84.json&#39;);
-&lt;/script&gt;
-</description>
-      <enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2884%29_2019_09_21_Windows_10_Privatsph%c3%a4re.mp3" type="audio/mpeg" length="1" />
-      
-      <chapters>
-                      &lt;chapter start=&#34;00:00:00&#34; title=&#34;Intro&#34; /&gt;
-      </chapters>
-    </item>
-    
-    <item>
-      <title>SfdvW - 83 - Jugend hackt, junghacker, EBK TdoT</title>
-      <link>https://sfdvw.de/blog/2019-08/sfdvw-83-jugend-hackt-junghacker-ebk-tdot/</link>
-      <pubDate>Sat, 17 Aug 2019 00:20:00 +0200</pubDate>
-      
-      <guid>https://sfdvw.de/blog/2019-08/sfdvw-83-jugend-hackt-junghacker-ebk-tdot/</guid>
-      <description>
-
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw84.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2884%29_2019_09_21_Windows_10_Privatsph%c3%a4re.mp3" type="audio/mpeg" length="1"/><chapters>
+&lt;chapter start=&#34;00:00:00&#34; title=&#34;Intro&#34; /&gt;</chapters></item><item><title>SfdvW - 83 - Jugend hackt, junghacker, EBK TdoT</title><link>https://sfdvw.de/blog/2019-08/sfdvw-83-jugend-hackt-junghacker-ebk-tdot/</link><pubDate>Sat, 17 Aug 2019 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2019-08/sfdvw-83-jugend-hackt-junghacker-ebk-tdot/</guid><description>
 &lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
 &lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
 &lt;p&gt;Feedback zur Sendung?
 &lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
-
 &lt;h2 id=&#34;sendung-nummer-83-jugend-hackt-junghacker-ebk-tdot&#34;&gt;Sendung Nummer 83 - Jugend hackt, junghacker, EBK TdoT&lt;/h2&gt;
-
 &lt;p&gt;Mit dabei: tmk, nilo&lt;/p&gt;
-
 &lt;script&gt;
-  podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw83.json&#39;);
-&lt;/script&gt;
-</description>
-      <enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2883%29_2019_08_17_Jugend_hackt,_Junghacker,_EBK_TdoT.mp3" type="audio/mpeg" length="1" />
-      
-      <chapters>
-                      &lt;chapter start=&#34;00:00:00&#34; title=&#34;Intro&#34; /&gt;
-      </chapters>
-    </item>
-    
-    <item>
-      <title>SfdvW - 82 - tragedy of systemd</title>
-      <link>https://sfdvw.de/blog/2019-03/sfdvw-82-tragedy-of-systemd/</link>
-      <pubDate>Sat, 16 Mar 2019 00:20:00 +0200</pubDate>
-      
-      <guid>https://sfdvw.de/blog/2019-03/sfdvw-82-tragedy-of-systemd/</guid>
-      <description>
-
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw83.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2883%29_2019_08_17_Jugend_hackt,_Junghacker,_EBK_TdoT.mp3" type="audio/mpeg" length="1"/><chapters>
+&lt;chapter start=&#34;00:00:00&#34; title=&#34;Intro&#34; /&gt;</chapters></item><item><title>SfdvW - 82 - tragedy of systemd</title><link>https://sfdvw.de/blog/2019-03/sfdvw-82-tragedy-of-systemd/</link><pubDate>Sat, 16 Mar 2019 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2019-03/sfdvw-82-tragedy-of-systemd/</guid><description>
 &lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
 &lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
 &lt;p&gt;Feedback zur Sendung?
 &lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
-
 &lt;h2 id=&#34;sendung-nummer-82-tragedy-of-systemd&#34;&gt;Sendung Nummer 82 - tragedy of systemd&lt;/h2&gt;
-
 &lt;p&gt;Mit dabei: tmk, marcus, simon, tim&lt;/p&gt;
-
 &lt;script&gt;
-  podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw82.json&#39;);
-&lt;/script&gt;
-</description>
-      <enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2882%29_2019_03_16_tragedy_of_systemd.mp3" type="audio/mpeg" length="1" />
-      
-      <chapters>
-                      &lt;chapter start=&#34;00:00:00&#34; title=&#34;Intro&#34; /&gt;
-      </chapters>
-    </item>
-    
-    <item>
-      <title>SfdvW - 81 - 35C3 Immer noch nichts zu verbergen und Hebocon</title>
-      <link>https://sfdvw.de/blog/2019-01/sfdvw-81-35c3-immer-noch-nichts-zu-verbergen-und-hebocon/</link>
-      <pubDate>Sat, 19 Jan 2019 00:20:00 +0200</pubDate>
-      
-      <guid>https://sfdvw.de/blog/2019-01/sfdvw-81-35c3-immer-noch-nichts-zu-verbergen-und-hebocon/</guid>
-      <description>
-
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw82.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2882%29_2019_03_16_tragedy_of_systemd.mp3" type="audio/mpeg" length="1"/><chapters>
+&lt;chapter start=&#34;00:00:00&#34; title=&#34;Intro&#34; /&gt;</chapters></item><item><title>SfdvW - 81 - 35C3 Immer noch nichts zu verbergen und Hebocon</title><link>https://sfdvw.de/blog/2019-01/sfdvw-81-35c3-immer-noch-nichts-zu-verbergen-und-hebocon/</link><pubDate>Sat, 19 Jan 2019 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2019-01/sfdvw-81-35c3-immer-noch-nichts-zu-verbergen-und-hebocon/</guid><description>
 &lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
 &lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
 &lt;p&gt;Feedback zur Sendung?
 &lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
-
 &lt;h2 id=&#34;sendung-nummer-81-35c3-immer-noch-nichts-zu-verbergen-und-hebocon&#34;&gt;Sendung Nummer 81 - 35C3 Immer noch nichts zu verbergen und Hebocon&lt;/h2&gt;
-
 &lt;p&gt;Mit dabei: tmk&lt;/p&gt;
-
 &lt;script&gt;
-  podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw81.json&#39;);
-&lt;/script&gt;
-</description>
-      <enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2881%29_2019_01_19_35C3_Immer_noch_nichts_zu_verbergen_und_Hebocon.mp3" type="audio/mpeg" length="1" />
-      
-      <chapters>
-                      &lt;chapter start=&#34;00:00:00&#34; title=&#34;35C3&#34; /&gt;&lt;psc:chapter start=&#34;00:27:18&#34; title=&#34;Hebocon&#34; /&gt;
-      </chapters>
-    </item>
-    
-    <item>
-      <title>SfdvW - 80 - CRE 161 CCC Geschichte</title>
-      <link>https://sfdvw.de/blog/2018-12/sfdvw-80-cre-161-ccc-geschichte/</link>
-      <pubDate>Sat, 15 Dec 2018 00:20:00 +0200</pubDate>
-      
-      <guid>https://sfdvw.de/blog/2018-12/sfdvw-80-cre-161-ccc-geschichte/</guid>
-      <description>
-
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw81.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2881%29_2019_01_19_35C3_Immer_noch_nichts_zu_verbergen_und_Hebocon.mp3" type="audio/mpeg" length="1"/><chapters>
+&lt;chapter start=&#34;00:00:00&#34; title=&#34;35C3&#34; /&gt;&lt;psc:chapter start=&#34;00:27:18&#34; title=&#34;Hebocon&#34; /&gt;</chapters></item><item><title>SfdvW - 80 - CRE 161 CCC Geschichte</title><link>https://sfdvw.de/blog/2018-12/sfdvw-80-cre-161-ccc-geschichte/</link><pubDate>Sat, 15 Dec 2018 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2018-12/sfdvw-80-cre-161-ccc-geschichte/</guid><description>
 &lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
 &lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
 &lt;p&gt;Feedback zur Sendung?
 &lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
-
 &lt;h2 id=&#34;sendung-nummer-80-cre-161-ccc-geschichte&#34;&gt;Sendung Nummer 80 - CRE 161 CCC Geschichte&lt;/h2&gt;
-
 &lt;p&gt;Mit dabei: tmk&lt;/p&gt;
-
 &lt;script&gt;
-  podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw80.json&#39;);
-&lt;/script&gt;
-</description>
-      <enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2880%29_2018_12_15_CRE_161_CCC_Geschichte.mp3" type="audio/mpeg" length="1" />
-      
-      <chapters>
-                      
-      </chapters>
-    </item>
-    
-    <item>
-      <title>SfdvW - 79 - R.I.P. Gametrack 2</title>
-      <link>https://sfdvw.de/blog/2018-07/sfdvw-79-r.i.p.-gametrack-2/</link>
-      <pubDate>Sat, 21 Jul 2018 00:20:00 +0200</pubDate>
-      
-      <guid>https://sfdvw.de/blog/2018-07/sfdvw-79-r.i.p.-gametrack-2/</guid>
-      <description>
-
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw80.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2880%29_2018_12_15_CRE_161_CCC_Geschichte.mp3" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 79 - R.I.P. Gametrack 2</title><link>https://sfdvw.de/blog/2018-07/sfdvw-79-r.i.p.-gametrack-2/</link><pubDate>Sat, 21 Jul 2018 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2018-07/sfdvw-79-r.i.p.-gametrack-2/</guid><description>
 &lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
 &lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
 &lt;p&gt;Feedback zur Sendung?
 &lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
-
 &lt;h2 id=&#34;sendung-nummer-79-r-i-p-gametrack-2&#34;&gt;Sendung Nummer 79 - R.I.P. Gametrack 2&lt;/h2&gt;
-
 &lt;p&gt;Mit dabei: tmk&lt;/p&gt;
-
 &lt;script&gt;
-  podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw79.json&#39;);
-&lt;/script&gt;
-</description>
-      <enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2879%29_2018_07_21_R.I.P._Gametrack_2.mp3" type="audio/mpeg" length="1" />
-      
-      <chapters>
-                      
-      </chapters>
-    </item>
-    
-    <item>
-      <title>SfdvW - 78 - Tmks Lieblingsmusik 3</title>
-      <link>https://sfdvw.de/blog/2018-06/sfdvw-78-tmks-lieblingsmusik-3/</link>
-      <pubDate>Sat, 16 Jun 2018 00:20:00 +0200</pubDate>
-      
-      <guid>https://sfdvw.de/blog/2018-06/sfdvw-78-tmks-lieblingsmusik-3/</guid>
-      <description>
-
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw79.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2879%29_2018_07_21_R.I.P._Gametrack_2.mp3" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 78 - Tmks Lieblingsmusik 3</title><link>https://sfdvw.de/blog/2018-06/sfdvw-78-tmks-lieblingsmusik-3/</link><pubDate>Sat, 16 Jun 2018 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2018-06/sfdvw-78-tmks-lieblingsmusik-3/</guid><description>
 &lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
 &lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
 &lt;p&gt;Feedback zur Sendung?
 &lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
-
 &lt;h2 id=&#34;sendung-nummer-78-tmks-lieblingsmusik-3&#34;&gt;Sendung Nummer 78 - Tmks Lieblingsmusik 3&lt;/h2&gt;
-
 &lt;p&gt;Mit dabei: tmk&lt;/p&gt;
-
 &lt;script&gt;
-  podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw78.json&#39;);
-&lt;/script&gt;
-</description>
-      <enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2878%29_2018_06_16_Tmks_Lieblingsmusik_3.mp3" type="audio/mpeg" length="1" />
-      
-      <chapters>
-                      
-      </chapters>
-    </item>
-    
-    <item>
-      <title>SfdvW - 77 - Radio Garden von Bernd und Lars</title>
-      <link>https://sfdvw.de/blog/2018-03/sfdvw-77-radio-garden-von-bernd-und-lars/</link>
-      <pubDate>Sat, 17 Mar 2018 00:20:00 +0200</pubDate>
-      
-      <guid>https://sfdvw.de/blog/2018-03/sfdvw-77-radio-garden-von-bernd-und-lars/</guid>
-      <description>
-
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw78.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2878%29_2018_06_16_Tmks_Lieblingsmusik_3.mp3" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 77 - Radio Garden von Bernd und Lars</title><link>https://sfdvw.de/blog/2018-03/sfdvw-77-radio-garden-von-bernd-und-lars/</link><pubDate>Sat, 17 Mar 2018 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2018-03/sfdvw-77-radio-garden-von-bernd-und-lars/</guid><description>
 &lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
 &lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
 &lt;p&gt;Feedback zur Sendung?
 &lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
-
 &lt;h2 id=&#34;sendung-nummer-77-radio-garden-von-bernd-und-lars&#34;&gt;Sendung Nummer 77 Radio Garden von Bernd und Lars&lt;/h2&gt;
-
 &lt;script&gt;
-  podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw77.json&#39;);
-&lt;/script&gt;
-</description>
-      <enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2877%29_2018_03_17_Radio_Garden_von_Bernd_und_Lars.mp3" type="audio/mpeg" length="1" />
-      
-      <chapters>
-                      
-      </chapters>
-    </item>
-    
-</channel>
-</rss>
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw77.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2877%29_2018_03_17_Radio_Garden_von_Bernd_und_Lars.mp3" type="audio/mpeg" length="1"/><chapters/></item></channel></rss>
