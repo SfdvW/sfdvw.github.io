@@ -162,6 +162,7 @@ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw90.json&#39;);
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://chaosradio.de/cr255-36c3-spezial&#34;&gt;Chaosradio CR255 36C3-Spezial&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(89)_2020_02_15_Congress_Review_2_36C3.jpeg&#34; alt=&#34;Congress_Review_2_36C3&#34; /&gt;&lt;/p&gt;
 &lt;script&gt;
 podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw89.json&#39;);
 &lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2889%29_2020_02_15_Congress_Review_2_36C3.mp3" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 88 - Congress Review 36C3</title><link>https://sfdvw.de/blog/2020-01/sfdvw-88-congress-review-36c3/</link><pubDate>Sat, 18 Jan 2020 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2020-01/sfdvw-88-congress-review-36c3/</guid><description>
@@ -285,6 +286,7 @@ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw89.json&#39;);
 &lt;ul&gt;
 &lt;li&gt;27. - 30.12.2020!&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(88)_2020_01_18_Congress_Review_36C3.jpg&#34; alt=&#34;Congress_Review_36C3&#34; /&gt;&lt;/p&gt;
 &lt;script&gt;
 podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw88.json&#39;);
 &lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2888%29_2020_01_18_Congress_Review_36C3.mp3" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 87 - Backups</title><link>https://sfdvw.de/blog/2019-12/sfdvw-87-backups/</link><pubDate>Sat, 21 Dec 2019 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2019-12/sfdvw-87-backups/</guid><description>
@@ -440,11 +442,9 @@ mit dabei: tmk, nilo, Wolfgang, markus, jotilux, mantu&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;im &lt;a href=&#34;https://twitch.tv/sfdvw&#34;&gt;Twitch-Livestream zuschauen&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Xubuntu,Kubuntu,Lubuntu
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://wiki.ubuntuusers.de/Ubuntu/Derivate/&#34;&gt;wiki.ubuntuusers.de/Ubuntu/Derivate/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Windowmanager (I3, XFCE, KDM GNOME, Cinnamon, Mate)&lt;/li&gt;
+&lt;li&gt;Xubuntu,Kubuntu,Lubuntu&lt;/li&gt;
+&lt;li&gt;* &lt;a href=&#34;https://wiki.ubuntuusers.de/Ubuntu/Derivate/&#34;&gt;wiki.ubuntuusers.de/Ubuntu/Derivate/&lt;/a&gt;
+Windowmanager (I3, XFCE, KDM GNOME, Cinnamon, Mate)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;vorbereitung&#34;&gt;Vorbereitung&lt;/h3&gt;
 &lt;ul&gt;
@@ -726,6 +726,7 @@ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw84.json&#39;);
 &lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;sendung-nummer-83-jugend-hackt-junghacker-ebk-tdot&#34;&gt;Sendung Nummer 83 - Jugend hackt, junghacker, EBK TdoT&lt;/h2&gt;
 &lt;p&gt;Mit dabei: tmk, nilo&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(83)_2019_08_17_Jugend_hackt,_Junghacker,_EBK_TdoT.jpg&#34; alt=&#34;EBK_TDOT&#34; /&gt;&lt;/p&gt;
 &lt;script&gt;
 podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw83.json&#39;);
 &lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2883%29_2019_08_17_Jugend_hackt,_Junghacker,_EBK_TdoT.mp3" type="audio/mpeg" length="1"/><chapters>
@@ -790,6 +791,629 @@ podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw77.json&#39;);
 &lt;p&gt;Feedback zur Sendung?
 &lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;sendung-nummer-75-mit-code-die-welt-verbessern&#34;&gt;Sendung Nummer 75 - Mit Code die Welt verbessern&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://jugendhackt.org/&#34;&gt;jugend hackt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://junghacker.de&#34;&gt;junghacker.de&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://eigenbaukombinat.de&#34;&gt;eigenbaukombinat.de&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(75)_2018_01_20_.jpg&#34; alt=&#34;Studio3&#34; /&gt;&lt;/p&gt;
 &lt;script&gt;
 podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw75.json&#39;);
-&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2875%29_2018_01_20_Mit_Code_die_Welt_verbessern.mp3" type="audio/mpeg" length="1"/><chapters/></item></channel></rss>
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2875%29_2018_01_20_Mit_Code_die_Welt_verbessern.mp3" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 74 - Einführung in die Blockchain</title><link>https://sfdvw.de/blog/2017-12/sfdvw-74-einf%C3%BChrung-in-die-blockchain/</link><pubDate>Sat, 16 Dec 2017 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2017-12/sfdvw-74-einf%C3%BChrung-in-die-blockchain/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-74-einführung-in-die-blockchain&#34;&gt;Sendung Nummer 74 Einführung in die Blockchain&lt;/h2&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw74.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2874%29_2017_12_16_Einf%c3%bchrung_in_die_Blockchain.mp3" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 73 - Do you know Squarepusher PAULSTRETCH</title><link>https://sfdvw.de/blog/2017-10/sfdvw-73-do-you-know-squarepusher-paulstretch/</link><pubDate>Sat, 21 Oct 2017 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2017-10/sfdvw-73-do-you-know-squarepusher-paulstretch/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-73-do-you-know-squarepusher-paulstretch&#34;&gt;Sendung Nummer 73 Do you know Squarepusher PAULSTRETCH&lt;/h2&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw73.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2873%29_2017_10_21_Do_you_know_Squarepusher_PAULSTRETCH.mp3" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 72 - R.I.P. Gametrack</title><link>https://sfdvw.de/blog/2017-07/sfdvw-72-r.i.p.-gametrack/</link><pubDate>Sat, 15 Jul 2017 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2017-07/sfdvw-72-r.i.p.-gametrack/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-72-r-i-p-gametrack&#34;&gt;Sendung Nummer 72 R.I.P. Gametrack&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(72)_2017_07_15_.jpg&#34; alt=&#34;Star Craft&#34; /&gt;&lt;/p&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw72.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2872%29_2017_07_15_R.I.P._Gametrack.mp3" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 71 - EBK Junghacker</title><link>https://sfdvw.de/blog/2017-04/sfdvw-71-ebk-junghacker/</link><pubDate>Sat, 15 Apr 2017 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2017-04/sfdvw-71-ebk-junghacker/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-71-ebk-junghacker&#34;&gt;Sendung Nummer 71 EBK Junghacker&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://junghacker.de&#34;&gt;junghacker.de&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://eigenbaukombinat.de&#34;&gt;eigenbaukombinat.de&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw71.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2871%29_2017_04_15_EBK_Junghacker.mp3" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 70 - Frank Rieger im NSA-Untersuchungsausschuss</title><link>https://sfdvw.de/blog/2017-03/sfdvw-70-frank-rieger-im-nsa-untersuchungsausschuss/</link><pubDate>Sat, 18 Mar 2017 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2017-03/sfdvw-70-frank-rieger-im-nsa-untersuchungsausschuss/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-70-frank-rieger-im-nsa-untersuchungsausschuss&#34;&gt;Sendung Nummer 70 Frank Rieger im NSA-Untersuchungsausschuss&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_(70)_2017_03_18_.jpg&#34; alt=&#34;Frank Rieger im NSA-Untersuchungsausschuss&#34; /&gt;&lt;/p&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw70.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2870%29_2017_03_18_Frank_Rieger_im_NSA-Untersuchungsausschuss.mp3" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 69 - Computermuseum Halle</title><link>https://sfdvw.de/blog/2017-02/sfdvw-69-computermuseum-halle/</link><pubDate>Sat, 18 Feb 2017 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2017-02/sfdvw-69-computermuseum-halle/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-69-computermuseum-halle&#34;&gt;Sendung Nummer 69 Computermuseum Halle&lt;/h2&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw69.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2869%29_2017_02_18_Computermuseum_Halle.mp3" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 68 - Kongressfieber</title><link>https://sfdvw.de/blog/2017-01/sfdvw-68-kongressfieber/</link><pubDate>Sat, 21 Jan 2017 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2017-01/sfdvw-68-kongressfieber/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-68-kongressfieber&#34;&gt;Sendung Nummer 68 Kongressfieber&lt;/h2&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw68.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2868%29_2017_01_21_Kongressfieber.mp3" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 67 - Industrieästhetik</title><link>https://sfdvw.de/blog/2016-12/sfdvw-67-industrie%C3%A4sthetik/</link><pubDate>Sat, 17 Dec 2016 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2016-12/sfdvw-67-industrie%C3%A4sthetik/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-67-industrieästhetik&#34;&gt;Sendung Nummer 67 Industrieästhetik&lt;/h2&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw67.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2867%29_2016_12_17_Industrie%c3%a4sthetik.mp3" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 66 - Amateurfunk</title><link>https://sfdvw.de/blog/2016-11/sfdvw-66-amateurfunk/</link><pubDate>Sat, 19 Nov 2016 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2016-11/sfdvw-66-amateurfunk/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-66-amateurfunk&#34;&gt;Sendung Nummer 66 Amateurfunk&lt;/h2&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw66.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2866%29_2016_11_19_Amateurfunk.mp3" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 64 - El Grande Nada Live</title><link>https://sfdvw.de/blog/2016-09/sfdvw-64-el-grande-nada-live/</link><pubDate>Sat, 17 Sep 2016 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2016-09/sfdvw-64-el-grande-nada-live/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-4-el-grande-nada-live&#34;&gt;Sendung Nummer 4 El Grande Nada Live&lt;/h2&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw64.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2864%29_2016_09_17_El_Grande_Nada_Live.mp3" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 63 - Tmks Lieblingsmusik 2</title><link>https://sfdvw.de/blog/2016-07/sfdvw-63-tmks-lieblingsmusik-2/</link><pubDate>Sat, 16 Jul 2016 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2016-07/sfdvw-63-tmks-lieblingsmusik-2/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-63-tmks-lieblingsmusik-2&#34;&gt;Sendung Nummer 63 Tmks Lieblingsmusik 2&lt;/h2&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw63.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2863%29_2016_07_16_Tmks_Lieblingsmusik_2.mp3" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 62 - Wireless Community Weekend 2016 FFHarz TVWhitespace</title><link>https://sfdvw.de/blog/2016-05/sfdvw-62-wireless-community-weekend-2016-ffharz-tvwhitespace/</link><pubDate>Sat, 21 May 2016 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2016-05/sfdvw-62-wireless-community-weekend-2016-ffharz-tvwhitespace/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-62-wireless-community-weekend-2016-ffharz-tvwhitespace&#34;&gt;Sendung Nummer 62 Wireless Community Weekend 2016 FFHarz TVWhitespace&lt;/h2&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw62.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2862%29_2016_05_21_Wireless_Community_Weekend_2016_FFHarz_TVWhitespace.mp3" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 61 - Freifunk Halle</title><link>https://sfdvw.de/blog/2016-01/sfdvw-61-freifunk-halle/</link><pubDate>Sat, 23 Jan 2016 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2016-01/sfdvw-61-freifunk-halle/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-61-freifunk-halle&#34;&gt;Sendung Nummer 61 Freifunk Halle&lt;/h2&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw61.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2861%29_2016_01_23_Freifunk_Halle.mp3" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 60 - Pommes Weltreisen Teil 1</title><link>https://sfdvw.de/blog/2015-10/sfdvw-60-pommes-weltreisen-teil-1/</link><pubDate>Sat, 31 Oct 2015 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2015-10/sfdvw-60-pommes-weltreisen-teil-1/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-60-pommes-weltreisen-teil-1&#34;&gt;Sendung Nummer 60 Pommes Weltreisen Teil 1&lt;/h2&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw60.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2860%29_2015_10_31_Pommes_Weltreisen_Teil_1.ogg" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 59 - Alexander Gerst 6 Monate leben und arbeiten auf der ISS Re Publica 2015</title><link>https://sfdvw.de/blog/2015-09/sfdvw-59-alexander-gerst-6-monate-leben-und-arbeiten-auf-der-iss-re-publica-2015/</link><pubDate>Sat, 05 Sep 2015 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2015-09/sfdvw-59-alexander-gerst-6-monate-leben-und-arbeiten-auf-der-iss-re-publica-2015/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-59-alexander-gerst-6-monate-leben-und-arbeiten-auf-der-iss-re-publica-2015&#34;&gt;Sendung Nummer 59 Alexander Gerst 6 Monate leben und arbeiten auf der ISS Re Publica 2015&lt;/h2&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw59.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2859%29_2015_09_05_Alexander_Gerst_6_Monate_leben_und_arbeiten_auf_der_ISS_Re_Publica_2015.mp3" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 58 - Frank Riegers Vorschlag Re Publica 2015</title><link>https://sfdvw.de/blog/2015-05/sfdvw-58-frank-riegers-vorschlag-re-publica-2015/</link><pubDate>Sat, 16 May 2015 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2015-05/sfdvw-58-frank-riegers-vorschlag-re-publica-2015/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-8-frank-riegers-vorschlag-re-publica-2015&#34;&gt;Sendung Nummer 8 Frank Riegers Vorschlag Re Publica 2015&lt;/h2&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw58.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2858%29_2015_05_16_Frank_Riegers_Vorschlag_Re_Publica_2015.mp3" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 57 - CRE203 Freifunk statt Angst</title><link>https://sfdvw.de/blog/2015-01/sfdvw-57-cre203-freifunk-statt-angst/</link><pubDate>Sat, 24 Jan 2015 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2015-01/sfdvw-57-cre203-freifunk-statt-angst/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-57-cre203-freifunk-statt-angst&#34;&gt;Sendung Nummer 57 CRE203 Freifunk statt Angst&lt;/h2&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw57.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2857%29_2015_01_24_CRE203_Freifunk_statt_Angst.mp3" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 56 - Alternativlos 32 Über den kalten Krieg damals und heute</title><link>https://sfdvw.de/blog/2014-11/sfdvw-56-alternativlos-32-%C3%BCber-den-kalten-krieg-damals-und-heute/</link><pubDate>Sat, 01 Nov 2014 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2014-11/sfdvw-56-alternativlos-32-%C3%BCber-den-kalten-krieg-damals-und-heute/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-56-alternativlos-32-über-den-kalten-krieg-damals-und-heute&#34;&gt;Sendung Nummer 56 Alternativlos 32 Über den kalten Krieg damals und heute&lt;/h2&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw56.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2856%29_2014_11_01_Alternativlos_32_%c3%9cber_den_kalten_Krieg_damals_und_heute.mp3" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 55 - Alexander Gerst auf der ISS</title><link>https://sfdvw.de/blog/2014-07/sfdvw-55-alexander-gerst-auf-der-iss/</link><pubDate>Sat, 12 Jul 2014 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2014-07/sfdvw-55-alexander-gerst-auf-der-iss/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-55-alexander-gerst-auf-der-iss&#34;&gt;Sendung Nummer 55 - Alexander Gerst auf der ISS&lt;/h2&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw55.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2855%29_2014_07_12_Alexander_Gerst_auf_der_ISS.mp3" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 54 - Technikfolgenabschätzung</title><link>https://sfdvw.de/blog/2014-06/sfdvw-54-technikfolgenabsch%C3%A4tzung/</link><pubDate>Sat, 14 Jun 2014 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2014-06/sfdvw-54-technikfolgenabsch%C3%A4tzung/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-54-technikfolgenabschätzung&#34;&gt;Sendung Nummer 54 Technikfolgenabschätzung&lt;/h2&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw54.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2854%29_2014_06_14_Technikfolgenabsch%c3%a4tzung.mp3" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 53 - Kulturprodukt 2014 und BSD mit Sthag und Jay</title><link>https://sfdvw.de/blog/2014-05/sfdvw-53-kulturprodukt-2014-und-bsd-mit-sthag-und-jay/</link><pubDate>Sat, 17 May 2014 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2014-05/sfdvw-53-kulturprodukt-2014-und-bsd-mit-sthag-und-jay/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-53-kulturprodukt-2014-und-bsd-mit-sthag-und-jay&#34;&gt;Sendung Nummer 53 Kulturprodukt 2014 und BSD mit Sthag und Jay&lt;/h2&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw53.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2853%29_2014_05_17_Kulturprodukt_2014_und_BSD_mit_Sthag_und_Jay.mp3" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 52 - Alpha Forum mit Constanze Kurz</title><link>https://sfdvw.de/blog/2014-04/sfdvw-52-alpha-forum-mit-constanze-kurz/</link><pubDate>Sat, 19 Apr 2014 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2014-04/sfdvw-52-alpha-forum-mit-constanze-kurz/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-52-alpha-forum-mit-constanze-kurz&#34;&gt;Sendung Nummer 52 Alpha Forum mit Constanze Kurz&lt;/h2&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw52.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2852%29_2014_04_19_Alpha_Forum_mit_Constanze_Kurz.mp3" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 51 - Guru Meditation</title><link>https://sfdvw.de/blog/2013-07/sfdvw-51-guru-meditation/</link><pubDate>Sat, 13 Jul 2013 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2013-07/sfdvw-51-guru-meditation/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-51-guru-meditation&#34;&gt;Sendung Nummer 51 Guru Meditation&lt;/h2&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw51.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2851%29_2013_07_13_Guru_Meditation.mp3" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 50 - Omri Lahav Remixed</title><link>https://sfdvw.de/blog/2013-04/sfdvw-50-omri-lahav-remixed/</link><pubDate>Sat, 20 Apr 2013 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2013-04/sfdvw-50-omri-lahav-remixed/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-50-omri-lahav-remixed&#34;&gt;Sendung Nummer 50 Omri Lahav Remixed&lt;/h2&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw50.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2850%29_2013_04_20_Omri_Lahav_Remixed.mp3" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 49 - Big Picture Science We Heart Robots</title><link>https://sfdvw.de/blog/2013-03/sfdvw-49-big-picture-science-we-heart-robots/</link><pubDate>Sat, 23 Mar 2013 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2013-03/sfdvw-49-big-picture-science-we-heart-robots/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-49-big-picture-science-we-robots&#34;&gt;Sendung Nummer 49 Big Picture Science We ❤️ Robots&lt;/h2&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw49.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2849%29_2013_03_23_Big_Picture_Science_We_Heart_Robots.mp3" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 48 - Tmks Lieblingsmusik</title><link>https://sfdvw.de/blog/2013-01/sfdvw-48-tmks-lieblingsmusik/</link><pubDate>Sat, 26 Jan 2013 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2013-01/sfdvw-48-tmks-lieblingsmusik/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-48-tmks-lieblingsmusik&#34;&gt;Sendung Nummer 48 Tmks Lieblingsmusik&lt;/h2&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw48.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2848%29_2013_01_26_Tmks_Lieblingsmusik.mp3" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 47 - 29C3 Jacob Applebaum</title><link>https://sfdvw.de/blog/2012-12/sfdvw-47-29c3-jacob-applebaum/</link><pubDate>Sat, 29 Dec 2012 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2012-12/sfdvw-47-29c3-jacob-applebaum/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-47-29c3-jacob-applebaum&#34;&gt;Sendung Nummer 47 29C3 Jacob Applebaum&lt;/h2&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw47.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2847%29_2012_12_29_29C3_Jacob_Applebaum.mp3" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 46 - Radio Wauland WDR</title><link>https://sfdvw.de/blog/2012-10/sfdvw-46-radio-wauland-wdr/</link><pubDate>Sat, 06 Oct 2012 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2012-10/sfdvw-46-radio-wauland-wdr/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-46-radio-wauland-wdr&#34;&gt;Sendung Nummer 46 Radio Wauland WDR&lt;/h2&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw46.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2846%29_2012_10_06_Radio_Wauland_WDR.mp3" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 45 - Keygen Musik</title><link>https://sfdvw.de/blog/2012-09/sfdvw-45-keygen-musik/</link><pubDate>Sat, 08 Sep 2012 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2012-09/sfdvw-45-keygen-musik/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-45-keygen-musik&#34;&gt;Sendung Nummer 45 Keygen Musik&lt;/h2&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw45.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2845%29_2012_09_08_Keygen_Musik.mp3" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 44 - Wireless Weekend 2012</title><link>https://sfdvw.de/blog/2012-05/sfdvw-44-wireless-weekend-2012/</link><pubDate>Sat, 19 May 2012 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2012-05/sfdvw-44-wireless-weekend-2012/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-44-wireless-weekend-2012&#34;&gt;Sendung Nummer 44 Wireless Weekend 2012&lt;/h2&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw44.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2844%29_2012_05_19_Wireless_Weekend_2012.mp3" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 43 - Vögel</title><link>https://sfdvw.de/blog/2012-04/sfdvw-43-v%C3%B6gel/</link><pubDate>Sat, 21 Apr 2012 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2012-04/sfdvw-43-v%C3%B6gel/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-43-vögel&#34;&gt;Sendung Nummer 43 Vögel&lt;/h2&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw43.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2843%29_2012_04_21_V%c3%b6gel.mp3" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 42 - Gametrack Machinarium</title><link>https://sfdvw.de/blog/2012-03/sfdvw-42-gametrack-machinarium/</link><pubDate>Sat, 24 Mar 2012 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2012-03/sfdvw-42-gametrack-machinarium/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-42-gametrack-machinarium&#34;&gt;Sendung Nummer 42 Gametrack Machinarium&lt;/h2&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw42.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2842%29_2012_03_24_Gametrack_Machinarium.mp3" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 41 - Wikipedia Run mit Jay</title><link>https://sfdvw.de/blog/2012-02/sfdvw-41-wikipedia-run-mit-jay/</link><pubDate>Sat, 25 Feb 2012 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2012-02/sfdvw-41-wikipedia-run-mit-jay/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-41-wikipedia-run-mit-jay&#34;&gt;Sendung Nummer 41 Wikipedia Run mit Jay&lt;/h2&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw41.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2841%29_2012_02_25_Wikipedia_Run_mit_Jay.mp3" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 40 - Cx Jingles mit Jay b</title><link>https://sfdvw.de/blog/2012-01/sfdvw-40-cx-jingles-mit-jay-b/</link><pubDate>Sat, 28 Jan 2012 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2012-01/sfdvw-40-cx-jingles-mit-jay-b/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-40-cx-jingles-mit-jay-b&#34;&gt;Sendung Nummer 40 Cx Jingles mit Jay b&lt;/h2&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw40.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2840%29_2012_01_28_Cx_Jingles_mit_Jay.mp3" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 39 - LAN</title><link>https://sfdvw.de/blog/2011-12/sfdvw-39-lan/</link><pubDate>Sat, 31 Dec 2011 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2011-12/sfdvw-39-lan/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-39-lan&#34;&gt;Sendung Nummer 39 LAN&lt;/h2&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw39.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2839%29_2011_12_31_LAN.mp3" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 38 - Korg meets Minecraft feat Jay und Jay</title><link>https://sfdvw.de/blog/2011-12/sfdvw-38-korg-meets-minecraft-feat-jay-und-jay/</link><pubDate>Sat, 03 Dec 2011 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2011-12/sfdvw-38-korg-meets-minecraft-feat-jay-und-jay/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-38-korg-meets-minecraft-feat-jay-und-jay&#34;&gt;Sendung Nummer 38 Korg meets Minecraft feat Jay und Jay&lt;/h2&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw38.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2838%29_2011_12_03_Korg_meets_Minecraft_feat_Jay_und_Jay.mp3" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 37 - Buchla 700</title><link>https://sfdvw.de/blog/2011-11/sfdvw-37-buchla-700/</link><pubDate>Sat, 05 Nov 2011 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2011-11/sfdvw-37-buchla-700/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-37-buchla-700&#34;&gt;Sendung Nummer 37 Buchla 700&lt;/h2&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw37.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2837%29_2011_11_05_Buchla_700.mp3" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 36 - DRadioWissen Netzreporter Piraten in Berlin</title><link>https://sfdvw.de/blog/2011-10/sfdvw-36-dradiowissen-netzreporter-piraten-in-berlin/</link><pubDate>Sat, 08 Oct 2011 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2011-10/sfdvw-36-dradiowissen-netzreporter-piraten-in-berlin/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-36-dradiowissen-netzreporter-piraten-in-berlin&#34;&gt;Sendung Nummer 36 DRadioWissen Netzreporter Piraten in Berlin&lt;/h2&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw36.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2836%29_2011_10_08_DRadioWissen_Netzreporter_Piraten_in_Berlin.mp3" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 35 - GPN11 1378km inkl Jingle am Anfang</title><link>https://sfdvw.de/blog/2011-09/sfdvw-35-gpn11-1378km-inkl-jingle-am-anfang/</link><pubDate>Sat, 10 Sep 2011 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2011-09/sfdvw-35-gpn11-1378km-inkl-jingle-am-anfang/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-35-gpn11-1378km-inkl-jingle-am-anfang&#34;&gt;Sendung Nummer 35 GPN11 1378km inkl Jingle am Anfang&lt;/h2&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw35.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2835%29_2011_09_10_GPN11_1378km_inkl_Jingle_am_Anfang.mp3" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 34 - DRadioWissen Netzreporter Urheberrecht</title><link>https://sfdvw.de/blog/2011-08/sfdvw-34-dradiowissen-netzreporter-urheberrecht/</link><pubDate>Sat, 13 Aug 2011 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2011-08/sfdvw-34-dradiowissen-netzreporter-urheberrecht/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-34-dradiowissen-netzreporter-urheberrecht&#34;&gt;Sendung Nummer 34 DRadioWissen Netzreporter Urheberrecht&lt;/h2&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw34.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2834%29_2011_08_13_DRadioWissen_Netzreporter_Urheberrecht.mp3" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 33 - c&#39;t online talk auf DRadioWissen IPv6</title><link>https://sfdvw.de/blog/2011-07/sfdvw-33-ct-online-talk-auf-dradiowissen-ipv6/</link><pubDate>Sat, 16 Jul 2011 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2011-07/sfdvw-33-ct-online-talk-auf-dradiowissen-ipv6/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-33-c-t-online-talk-auf-dradiowissen-ipv6&#34;&gt;Sendung Nummer 33 c&amp;rsquo;t online talk auf DRadioWissen IPv6&lt;/h2&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw33.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2833%29_2011_07_16_c%27t_online_talk_auf_DRadioWissen_IPv6.mp3" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 32 - c&#39;t online talk auf DRadioWissen Hacktivismus</title><link>https://sfdvw.de/blog/2011-06/sfdvw-32-ct-online-talk-auf-dradiowissen-hacktivismus/</link><pubDate>Sat, 18 Jun 2011 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2011-06/sfdvw-32-ct-online-talk-auf-dradiowissen-hacktivismus/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-32-c-t-online-talk-auf-dradiowissen-hacktivismus&#34;&gt;Sendung Nummer 32 c&amp;rsquo;t online talk auf DRadioWissen Hacktivismus&lt;/h2&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw32.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2832%29_2011_06_18_c%27t_online_talk_auf_DRadioWissen_Hacktivismus.mp3" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 31 - Hans Peter Duerr</title><link>https://sfdvw.de/blog/2011-03/sfdvw-31-hans-peter-duerr/</link><pubDate>Sat, 26 Mar 2011 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2011-03/sfdvw-31-hans-peter-duerr/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-31-hans-peter-duerr&#34;&gt;Sendung Nummer 31 Hans Peter Duerr&lt;/h2&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw31.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2831%29_2011_03_26_Hans_Peter_Duerr.mp3" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 30 - Nam June Paik</title><link>https://sfdvw.de/blog/2011-01/sfdvw-30-nam-june-paik/</link><pubDate>Sat, 29 Jan 2011 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2011-01/sfdvw-30-nam-june-paik/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-30-nam-june-paik&#34;&gt;Sendung Nummer 30 Nam June Paik&lt;/h2&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw30.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2830%29_2011_01_29_Nam_June_Paik.mp3" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 29 - Knowledge Box</title><link>https://sfdvw.de/blog/2011-01/sfdvw-29-knowledge-box/</link><pubDate>Sat, 01 Jan 2011 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2011-01/sfdvw-29-knowledge-box/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-29-knowledge-box&#34;&gt;Sendung Nummer 29 Knowledge Box&lt;/h2&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw29.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2829%29_2011_01_01_Knowledge_Box.mp3" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 28 - Radio Chaotica auf Querfunk Gulaschprogrammiernacht8</title><link>https://sfdvw.de/blog/2010-09/sfdvw-28-radio-chaotica-auf-querfunk-gulaschprogrammiernacht8/</link><pubDate>Sat, 11 Sep 2010 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2010-09/sfdvw-28-radio-chaotica-auf-querfunk-gulaschprogrammiernacht8/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-28-radio-chaotica-auf-querfunk-gulaschprogrammiernacht8&#34;&gt;Sendung Nummer 28 Radio Chaotica auf Querfunk Gulaschprogrammiernacht8&lt;/h2&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw28.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2828%29_2010_09_11_Radio_Chaotica_auf_Querfunk_Gulaschprogrammiernacht8.ogg" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 27 - Radio Tux Sommersendung</title><link>https://sfdvw.de/blog/2010-08/sfdvw-27-radio-tux-sommersendung/</link><pubDate>Sat, 14 Aug 2010 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2010-08/sfdvw-27-radio-tux-sommersendung/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-27-radio-tux-sommersendung&#34;&gt;Sendung Nummer 27 Radio Tux Sommersendung&lt;/h2&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw27.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2827%29_2010_08_14_Radio_Tux_Sommersendung.ogg" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 26 - Rechnerfiepen</title><link>https://sfdvw.de/blog/2010-07/sfdvw-26-rechnerfiepen/</link><pubDate>Sat, 17 Jul 2010 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2010-07/sfdvw-26-rechnerfiepen/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-26-rechnerfiepen&#34;&gt;Sendung Nummer 26 Rechnerfiepen&lt;/h2&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw26.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2826%29_2010_07_17_Rechnerfiepen.ogg" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 25 - Freifunk Stand der Dinge WCW2010 WBOTM3 FOSSASIA GSOC</title><link>https://sfdvw.de/blog/2010-06/sfdvw-25-freifunk-stand-der-dinge-wcw2010-wbotm3-fossasia-gsoc/</link><pubDate>Sat, 19 Jun 2010 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2010-06/sfdvw-25-freifunk-stand-der-dinge-wcw2010-wbotm3-fossasia-gsoc/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-25-freifunk-stand-der-dinge-wcw2010-wbotm3-fossasia-gsoc&#34;&gt;Sendung Nummer 25 Freifunk Stand der Dinge WCW2010 WBOTM3 FOSSASIA GSOC&lt;/h2&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw25.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2825%29_2010_06_19_Freifunk_Stand_der_Dinge_WCW2010_WBOTM3_FOSSASIA_GSOC.ogg" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 24 - Zusammenfassung ohne Inhalt mit YHT</title><link>https://sfdvw.de/blog/2010-04/sfdvw-24-zusammenfassung-ohne-inhalt-mit-yht/</link><pubDate>Sat, 24 Apr 2010 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2010-04/sfdvw-24-zusammenfassung-ohne-inhalt-mit-yht/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-24-zusammenfassung-ohne-inhalt-mit-yht&#34;&gt;Sendung Nummer 24 Zusammenfassung ohne Inhalt mit YHT&lt;/h2&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw24.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2824%29_2010_04_24_Zusammenfassung_ohne_Inhalt_mit_YHT.ogg" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 23 - Großvater Gerhard</title><link>https://sfdvw.de/blog/2010-03/sfdvw-23-gro%C3%9Fvater-gerhard/</link><pubDate>Sat, 27 Mar 2010 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2010-03/sfdvw-23-gro%C3%9Fvater-gerhard/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-23-großvater-gerhard&#34;&gt;Sendung Nummer 23 Großvater Gerhard&lt;/h2&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw23.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2823%29_2010_03_27_Gro%c3%9fvater_Gerhard.ogg" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 22 - Memtest</title><link>https://sfdvw.de/blog/2010-02/sfdvw-22-memtest/</link><pubDate>Sat, 27 Feb 2010 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2010-02/sfdvw-22-memtest/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-22-memtest&#34;&gt;Sendung Nummer 22 Memtest&lt;/h2&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw22.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2822%29_2010_02_27_Memtest.ogg" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 21 - Cop15 26C3 Heizwerk</title><link>https://sfdvw.de/blog/2010-01/sfdvw-21-cop15-26c3-heizwerk/</link><pubDate>Sat, 30 Jan 2010 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2010-01/sfdvw-21-cop15-26c3-heizwerk/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-21-cop15-26c3-heizwerk&#34;&gt;Sendung Nummer 21 Cop15 26C3 Heizwerk&lt;/h2&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw21.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2821%29_2010_01_30_Cop15_26C3_Heizwerk.ogg" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 20 - LAN-Party</title><link>https://sfdvw.de/blog/2010-01/sfdvw-20-lan-party/</link><pubDate>Sat, 02 Jan 2010 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2010-01/sfdvw-20-lan-party/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-20-lan-party&#34;&gt;Sendung Nummer 20 LAN-Party&lt;/h2&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw20.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2820%29_2010_01_02_LAN-Party.ogg" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 19 - Soziale Netzwerke im Internet</title><link>https://sfdvw.de/blog/2009-12/sfdvw-19-soziale-netzwerke-im-internet/</link><pubDate>Sat, 05 Dec 2009 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2009-12/sfdvw-19-soziale-netzwerke-im-internet/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-19-soziale-netzwerke-im-internet&#34;&gt;Sendung Nummer 19 Soziale Netzwerke im Internet&lt;/h2&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw19.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2819%29_2009_12_05_Soziale_Netzwerke_im_Internet.ogg" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 18-1 - Freiheit statt Angst</title><link>https://sfdvw.de/blog/2009-10/sfdvw-18-1-freiheit-statt-angst/</link><pubDate>Sat, 10 Oct 2009 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2009-10/sfdvw-18-1-freiheit-statt-angst/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-18-1-freiheit-statt-angst&#34;&gt;Sendung Nummer 18-1 Freiheit statt Angst&lt;/h2&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw18-1.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2818_Teil_1%29_2009_10_10_Freiheit_statt_Angst.ogg" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 18-2 - Altes Heizwerk Community Media Center in Halle</title><link>https://sfdvw.de/blog/2009-10/sfdvw-18-2-altes-heizwerk-community-media-center-in-halle/</link><pubDate>Sat, 10 Oct 2009 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2009-10/sfdvw-18-2-altes-heizwerk-community-media-center-in-halle/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-18-2-altes-heizwerk-community-media-center-in-halle&#34;&gt;Sendung Nummer 18-2 Altes Heizwerk Community Media Center in Halle&lt;/h2&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw18-2.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2818_Teil_2%29_2009_10_10_Altes_Heizwerk_Community_Media_Center_in_Halle.ogg" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 17 - Sommersendung</title><link>https://sfdvw.de/blog/2009-08/sfdvw-17-sommersendung/</link><pubDate>Sat, 15 Aug 2009 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2009-08/sfdvw-17-sommersendung/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-17-sommersendung&#34;&gt;Sendung Nummer 17 Sommersendung&lt;/h2&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw17.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2817%29_2009_08_15_Sommersendung.ogg" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 16 - Zensursula und Internet in Afrika Teil 2</title><link>https://sfdvw.de/blog/2009-06/sfdvw-16-zensursula-und-internet-in-afrika-teil-2/</link><pubDate>Sat, 20 Jun 2009 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2009-06/sfdvw-16-zensursula-und-internet-in-afrika-teil-2/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-16-zensursula-und-internet-in-afrika-teil-2&#34;&gt;Sendung Nummer 16 Zensursula und Internet in Afrika Teil 2&lt;/h2&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw16.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2816%29_2009_06_20_Zensursula_und_Internet_in_Afrika_Teil_2.mp3" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 14 - Internet in Afrika Teil 1 OLPC</title><link>https://sfdvw.de/blog/2009-04/sfdvw-14-internet-in-afrika-teil-1-olpc/</link><pubDate>Wed, 29 Apr 2009 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2009-04/sfdvw-14-internet-in-afrika-teil-1-olpc/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-14-internet-in-afrika-teil-1-olpc&#34;&gt;Sendung Nummer 14 Internet in Afrika Teil 1 OLPC&lt;/h2&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw14.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2814%29_2009_04_29_Internet_in_Afrika_Teil_1_OLPC.ogg" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 13-2.0 - Hacken Freiheit Anarchie eine Suche nach Schnittstellen</title><link>https://sfdvw.de/blog/2009-03/sfdvw-13-2.0-hacken-freiheit-anarchie-eine-suche-nach-schnittstellen/</link><pubDate>Wed, 25 Mar 2009 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2009-03/sfdvw-13-2.0-hacken-freiheit-anarchie-eine-suche-nach-schnittstellen/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-13-2-0-hacken-freiheit-anarchie-eine-suche-nach-schnittstellen&#34;&gt;Sendung Nummer 13-2.0 Hacken Freiheit Anarchie eine Suche nach Schnittstellen&lt;/h2&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw13-2.0.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2813_aka_13-2.0%29_2009_03_25_Hacken_Freiheit_Anarchie_eine_Suche_nach_Schnittstellen.ogg" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 12 - Gamboy Musik</title><link>https://sfdvw.de/blog/2009-02/sfdvw-12-gamboy-musik/</link><pubDate>Wed, 25 Feb 2009 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2009-02/sfdvw-12-gamboy-musik/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-12-gamboy-musik&#34;&gt;Sendung Nummer 12 Gamboy Musik&lt;/h2&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw12.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2812%29_2009_02_25_Gamboy_Musik.ogg" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 11 - IP Adressen</title><link>https://sfdvw.de/blog/2009-01/sfdvw-11-ip-adressen/</link><pubDate>Wed, 28 Jan 2009 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2009-01/sfdvw-11-ip-adressen/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-11-ip-adressen&#34;&gt;Sendung Nummer 11 IP Adressen&lt;/h2&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw11.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2811%29_2009_01_28_IP_Adressen.ogg" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 10 - Chaos Communication Congress</title><link>https://sfdvw.de/blog/2008-11/sfdvw-10-chaos-communication-congress/</link><pubDate>Wed, 26 Nov 2008 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2008-11/sfdvw-10-chaos-communication-congress/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-10-chaos-communication-congress&#34;&gt;Sendung Nummer 10 Chaos Communication Congress&lt;/h2&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw10.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2810%29_2008_11_26_Chaos_Communication_Congress.ogg" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 09 - Krude Websites</title><link>https://sfdvw.de/blog/2008-10/sfdvw-09-krude-websites/</link><pubDate>Wed, 29 Oct 2008 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2008-10/sfdvw-09-krude-websites/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-09-krude-websites&#34;&gt;Sendung Nummer 09 Krude Websites&lt;/h2&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw09.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2809%29_2008_10_29_Krude_Websites.ogg" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 08 - Betriebssysteme</title><link>https://sfdvw.de/blog/2008-09/sfdvw-08-betriebssysteme/</link><pubDate>Wed, 24 Sep 2008 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2008-09/sfdvw-08-betriebssysteme/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-08-betriebssysteme&#34;&gt;Sendung Nummer 08 Betriebssysteme&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Betriebssystem&#34;&gt;Betriebssystem&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw08.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2808%29_2008_09_24_Betriebssysteme.ogg" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 07 - Terminal.21 im Ferienkommunismus</title><link>https://sfdvw.de/blog/2008-07/sfdvw-07-terminal.21-im-ferienkommunismus/</link><pubDate>Wed, 30 Jul 2008 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2008-07/sfdvw-07-terminal.21-im-ferienkommunismus/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-07-terminal-21-im-ferienkommunismus&#34;&gt;Sendung Nummer 07 Terminal.21 im Ferienkommunismus&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://archiv.fusion-festival.de/2008/de/2008/&#34;&gt;fusion festival&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.terminal21.de/&#34;&gt;terminal.21 e.V.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw07.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2807%29_2008_07_30_Terminal_21_im_Ferienkommunismus.ogg" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 06 - Freifunk</title><link>https://sfdvw.de/blog/2008-05/sfdvw-06-freifunk/</link><pubDate>Wed, 28 May 2008 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2008-05/sfdvw-06-freifunk/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-06-freifunk&#34;&gt;Sendung Nummer 06 Freifunk&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.digitaler-bos-funk.de/digital/gedicht.htm&#34;&gt;Router-Gedicht&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://freifunk.net/&#34;&gt;freifunk.net&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://freifunk-halle.org/&#34;&gt;freifunk-halle.org&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw06.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2806%29_2008_05_28_Freifunk.ogg" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 05 - principia discordia</title><link>https://sfdvw.de/blog/2008-04/sfdvw-05-principia-discordia/</link><pubDate>Wed, 30 Apr 2008 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2008-04/sfdvw-05-principia-discordia/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-05-principia-discordia&#34;&gt;Sendung Nummer 05 principia discordia&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Principia_Discordia&#34;&gt;Principia Discordia / Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw05.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2805%29_2008_04_30_principia_discordia.ogg" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 04 - taz-Stallman Interview und Chaosradio Pfandhacking</title><link>https://sfdvw.de/blog/2008-03/sfdvw-04-taz-stallman-interview-und-chaosradio-pfandhacking/</link><pubDate>Wed, 26 Mar 2008 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2008-03/sfdvw-04-taz-stallman-interview-und-chaosradio-pfandhacking/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-04-taz-stallman-interview-und-chaosradio-pfandhacking&#34;&gt;Sendung Nummer 04 taz-Stallman Interview und Chaosradio Pfandhacking&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Richard_Stallman&#34;&gt;Richard Stallman / Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw04.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2804%29_2008_03_26_taz-Stallman_Interview_und_Chaosradio_Pfandhacking.ogg" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 03 - Richard Stallman ueber GNU</title><link>https://sfdvw.de/blog/2008-03/sfdvw-03-richard-stallman-ueber-gnu/</link><pubDate>Wed, 05 Mar 2008 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2008-03/sfdvw-03-richard-stallman-ueber-gnu/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-03-richard-stallman-ueber-gnu&#34;&gt;Sendung Nummer 03 Richard Stallman ueber GNU&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Richard_Stallman&#34;&gt;Richard Stallman / Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw03.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2803%29_2008_03_05_Richard_Stallman_ueber_GNU.ogg" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 02 - FF-Info und Chaosradio Getting things done</title><link>https://sfdvw.de/blog/2008-02/sfdvw-02-ff-info-und-chaosradio-getting-things-done/</link><pubDate>Wed, 06 Feb 2008 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2008-02/sfdvw-02-ff-info-und-chaosradio-getting-things-done/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-02-ff-info-und-chaosradio-getting-things-done&#34;&gt;Sendung Nummer 02 FF-Info und Chaosradio Getting things done&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://freifunk.net/&#34;&gt;freifunk.net&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://freifunk-halle.org/&#34;&gt;freifunk-halle.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Getting_Things_Done&#34;&gt;GTD / Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw02.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2802%29_2008_02_06_FF-Info_und_Chaosradio_Getting_things_done.ogg" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 01 - Hacker1nnen</title><link>https://sfdvw.de/blog/2008-01/sfdvw-01-hacker1nnen/</link><pubDate>Wed, 23 Jan 2008 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2008-01/sfdvw-01-hacker1nnen/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sendung-nummer-01-hacker1nnen&#34;&gt;Sendung Nummer 01 Hacker1nnen&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Hacker&#34;&gt;Hacker / Wikipedia&lt;/a&gt;&lt;/p&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw01.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2801%29_2008_01_23_Hacker1nnen.ogg" type="audio/mpeg" length="1"/><chapters/></item></channel></rss>
