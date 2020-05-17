@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Constanze on Sendung für die vernetzte Welt</title><link>https://sfdvw.de/tags/constanze/</link><description>Recent content in Constanze on Sendung für die vernetzte Welt</description><generator>Hugo -- gohugo.io</generator><language>de-DE</language><lastBuildDate>Sat, 19 Apr 2014 00:20:00 +0200</lastBuildDate><atom:link href="https://sfdvw.de/tags/constanze/index.xml" rel="self" type="application/rss+xml"/><item><title>SfdvW - 52 - Alpha Forum mit Constanze Kurz</title><link>https://sfdvw.de/blog/2014-04/sfdvw-52-alpha-forum-mit-constanze-kurz/</link><pubDate>Sat, 19 Apr 2014 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2014-04/sfdvw-52-alpha-forum-mit-constanze-kurz/</guid><description>Sendung Nummer 52 Alpha Forum mit Constanze Kurz</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Constanze on Sendung für die vernetzte Welt</title>
+    <link>https://sfdvw.de/tags/constanze/</link>
+    <description>Recent content in Constanze on Sendung für die vernetzte Welt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Sat, 19 Apr 2014 00:20:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://sfdvw.de/tags/constanze/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SfdvW - 52 - Alpha Forum mit Constanze Kurz</title>
+      <link>https://sfdvw.de/blog/2014-04/sfdvw-52-alpha-forum-mit-constanze-kurz/</link>
+      <pubDate>Sat, 19 Apr 2014 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/blog/2014-04/sfdvw-52-alpha-forum-mit-constanze-kurz/</guid>
+      <description>Sendung Nummer 52 Alpha Forum mit Constanze Kurz</description>
+    </item>
+    
+  </channel>
+</rss>

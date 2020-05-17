@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blockchain on Sendung für die vernetzte Welt</title><link>https://sfdvw.de/tags/blockchain/</link><description>Recent content in Blockchain on Sendung für die vernetzte Welt</description><generator>Hugo -- gohugo.io</generator><language>de-DE</language><lastBuildDate>Sat, 16 Dec 2017 00:20:00 +0200</lastBuildDate><atom:link href="https://sfdvw.de/tags/blockchain/index.xml" rel="self" type="application/rss+xml"/><item><title>SfdvW - 74 - Einführung in die Blockchain</title><link>https://sfdvw.de/blog/2017-12/sfdvw-74-einf%C3%BChrung-in-die-blockchain/</link><pubDate>Sat, 16 Dec 2017 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2017-12/sfdvw-74-einf%C3%BChrung-in-die-blockchain/</guid><description>Sendung Nummer 74 Einführung in die Blockchain</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blockchain on Sendung für die vernetzte Welt</title>
+    <link>https://sfdvw.de/tags/blockchain/</link>
+    <description>Recent content in Blockchain on Sendung für die vernetzte Welt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Sat, 16 Dec 2017 00:20:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://sfdvw.de/tags/blockchain/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SfdvW - 74 - Einführung in die Blockchain</title>
+      <link>https://sfdvw.de/blog/2017-12/sfdvw-74-einf%C3%BChrung-in-die-blockchain/</link>
+      <pubDate>Sat, 16 Dec 2017 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/blog/2017-12/sfdvw-74-einf%C3%BChrung-in-die-blockchain/</guid>
+      <description>Sendung Nummer 74 Einführung in die Blockchain</description>
+    </item>
+    
+  </channel>
+</rss>

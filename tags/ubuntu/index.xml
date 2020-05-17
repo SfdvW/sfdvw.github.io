@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ubuntu on Sendung für die vernetzte Welt</title><link>https://sfdvw.de/tags/ubuntu/</link><description>Recent content in Ubuntu on Sendung für die vernetzte Welt</description><generator>Hugo -- gohugo.io</generator><language>de-DE</language><lastBuildDate>Sat, 16 Nov 2019 00:20:00 +0200</lastBuildDate><atom:link href="https://sfdvw.de/tags/ubuntu/index.xml" rel="self" type="application/rss+xml"/><item><title>SfdvW - 86 - Ubuntu-Linuxeinstieg</title><link>https://sfdvw.de/blog/2019-11/sfdvw-86-ubuntu-linuxeinstieg/</link><pubDate>Sat, 16 Nov 2019 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2019-11/sfdvw-86-ubuntu-linuxeinstieg/</guid><description>Sendung Nummer 86 Ubuntu-Linuxeinstieg</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ubuntu on Sendung für die vernetzte Welt</title>
+    <link>https://sfdvw.de/tags/ubuntu/</link>
+    <description>Recent content in Ubuntu on Sendung für die vernetzte Welt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Sat, 16 Nov 2019 00:20:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://sfdvw.de/tags/ubuntu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SfdvW - 86 - Ubuntu-Linuxeinstieg</title>
+      <link>https://sfdvw.de/blog/2019-11/sfdvw-86-ubuntu-linuxeinstieg/</link>
+      <pubDate>Sat, 16 Nov 2019 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/blog/2019-11/sfdvw-86-ubuntu-linuxeinstieg/</guid>
+      <description>Sendung Nummer 86 Ubuntu-Linuxeinstieg</description>
+    </item>
+    
+  </channel>
+</rss>

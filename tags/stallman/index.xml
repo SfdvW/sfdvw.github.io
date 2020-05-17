@@ -1,1 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Stallman on Sendung für die vernetzte Welt</title><link>https://sfdvw.de/tags/stallman/</link><description>Recent content in Stallman on Sendung für die vernetzte Welt</description><generator>Hugo -- gohugo.io</generator><language>de-DE</language><lastBuildDate>Wed, 26 Mar 2008 00:20:00 +0200</lastBuildDate><atom:link href="https://sfdvw.de/tags/stallman/index.xml" rel="self" type="application/rss+xml"/><item><title>SfdvW - 04 - taz-Stallman Interview und Chaosradio Pfandhacking</title><link>https://sfdvw.de/blog/2008-03/sfdvw-04-taz-stallman-interview-und-chaosradio-pfandhacking/</link><pubDate>Wed, 26 Mar 2008 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2008-03/sfdvw-04-taz-stallman-interview-und-chaosradio-pfandhacking/</guid><description>Sendung Nummer 04 taz-Stallman Interview und Chaosradio Pfandhacking</description></item><item><title>SfdvW - 03 - Richard Stallman ueber GNU</title><link>https://sfdvw.de/blog/2008-03/sfdvw-03-richard-stallman-ueber-gnu/</link><pubDate>Wed, 05 Mar 2008 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2008-03/sfdvw-03-richard-stallman-ueber-gnu/</guid><description>Sendung Nummer 03 Richard Stallman ueber GNU</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stallman on Sendung für die vernetzte Welt</title>
+    <link>https://sfdvw.de/tags/stallman/</link>
+    <description>Recent content in Stallman on Sendung für die vernetzte Welt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Wed, 26 Mar 2008 00:20:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://sfdvw.de/tags/stallman/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SfdvW - 04 - taz-Stallman Interview und Chaosradio Pfandhacking</title>
+      <link>https://sfdvw.de/blog/2008-03/sfdvw-04-taz-stallman-interview-und-chaosradio-pfandhacking/</link>
+      <pubDate>Wed, 26 Mar 2008 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/blog/2008-03/sfdvw-04-taz-stallman-interview-und-chaosradio-pfandhacking/</guid>
+      <description>Sendung Nummer 04 taz-Stallman Interview und Chaosradio Pfandhacking</description>
+    </item>
+    
+    <item>
+      <title>SfdvW - 03 - Richard Stallman ueber GNU</title>
+      <link>https://sfdvw.de/blog/2008-03/sfdvw-03-richard-stallman-ueber-gnu/</link>
+      <pubDate>Wed, 05 Mar 2008 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/blog/2008-03/sfdvw-03-richard-stallman-ueber-gnu/</guid>
+      <description>Sendung Nummer 03 Richard Stallman ueber GNU</description>
+    </item>
+    
+  </channel>
+</rss>

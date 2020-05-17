@@ -1,1 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>RIP on Sendung für die vernetzte Welt</title><link>https://sfdvw.de/tags/rip/</link><description>Recent content in RIP on Sendung für die vernetzte Welt</description><generator>Hugo -- gohugo.io</generator><language>de-DE</language><lastBuildDate>Sat, 21 Jul 2018 00:20:00 +0200</lastBuildDate><atom:link href="https://sfdvw.de/tags/rip/index.xml" rel="self" type="application/rss+xml"/><item><title>SfdvW - 79 - R.I.P. Gametrack 2</title><link>https://sfdvw.de/blog/2018-07/sfdvw-79-r.i.p.-gametrack-2/</link><pubDate>Sat, 21 Jul 2018 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2018-07/sfdvw-79-r.i.p.-gametrack-2/</guid><description>Sendung Nummer 79 - R.I.P. Gametrack 2</description></item><item><title>SfdvW - 72 - R.I.P. Gametrack</title><link>https://sfdvw.de/blog/2017-07/sfdvw-72-r.i.p.-gametrack/</link><pubDate>Sat, 15 Jul 2017 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2017-07/sfdvw-72-r.i.p.-gametrack/</guid><description>Sendung Nummer 72 R.I.P. Gametrack</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RIP on Sendung für die vernetzte Welt</title>
+    <link>https://sfdvw.de/tags/rip/</link>
+    <description>Recent content in RIP on Sendung für die vernetzte Welt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Sat, 21 Jul 2018 00:20:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://sfdvw.de/tags/rip/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SfdvW - 79 - R.I.P. Gametrack 2</title>
+      <link>https://sfdvw.de/blog/2018-07/sfdvw-79-r.i.p.-gametrack-2/</link>
+      <pubDate>Sat, 21 Jul 2018 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/blog/2018-07/sfdvw-79-r.i.p.-gametrack-2/</guid>
+      <description>Sendung Nummer 79 - R.I.P. Gametrack 2</description>
+    </item>
+    
+    <item>
+      <title>SfdvW - 72 - R.I.P. Gametrack</title>
+      <link>https://sfdvw.de/blog/2017-07/sfdvw-72-r.i.p.-gametrack/</link>
+      <pubDate>Sat, 15 Jul 2017 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/blog/2017-07/sfdvw-72-r.i.p.-gametrack/</guid>
+      <description>Sendung Nummer 72 R.I.P. Gametrack</description>
+    </item>
+    
+  </channel>
+</rss>

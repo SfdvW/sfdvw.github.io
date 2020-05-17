@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hebocon on Sendung für die vernetzte Welt</title><link>https://sfdvw.de/tags/hebocon/</link><description>Recent content in Hebocon on Sendung für die vernetzte Welt</description><generator>Hugo -- gohugo.io</generator><language>de-DE</language><lastBuildDate>Sat, 19 Jan 2019 00:20:00 +0200</lastBuildDate><atom:link href="https://sfdvw.de/tags/hebocon/index.xml" rel="self" type="application/rss+xml"/><item><title>SfdvW - 81 - 35C3 Immer noch nichts zu verbergen und Hebocon</title><link>https://sfdvw.de/blog/2019-01/sfdvw-81-35c3-immer-noch-nichts-zu-verbergen-und-hebocon/</link><pubDate>Sat, 19 Jan 2019 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2019-01/sfdvw-81-35c3-immer-noch-nichts-zu-verbergen-und-hebocon/</guid><description>Sendung Nummer 81 - 35C3 Immer noch nichts zu verbergen und Hebocon</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hebocon on Sendung für die vernetzte Welt</title>
+    <link>https://sfdvw.de/tags/hebocon/</link>
+    <description>Recent content in Hebocon on Sendung für die vernetzte Welt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Sat, 19 Jan 2019 00:20:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://sfdvw.de/tags/hebocon/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SfdvW - 81 - 35C3 Immer noch nichts zu verbergen und Hebocon</title>
+      <link>https://sfdvw.de/blog/2019-01/sfdvw-81-35c3-immer-noch-nichts-zu-verbergen-und-hebocon/</link>
+      <pubDate>Sat, 19 Jan 2019 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/blog/2019-01/sfdvw-81-35c3-immer-noch-nichts-zu-verbergen-und-hebocon/</guid>
+      <description>Sendung Nummer 81 - 35C3 Immer noch nichts zu verbergen und Hebocon</description>
+    </item>
+    
+  </channel>
+</rss>

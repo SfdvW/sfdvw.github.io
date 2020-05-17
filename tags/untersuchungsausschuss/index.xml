@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Untersuchungsausschuss on Sendung für die vernetzte Welt</title><link>https://sfdvw.de/tags/untersuchungsausschuss/</link><description>Recent content in Untersuchungsausschuss on Sendung für die vernetzte Welt</description><generator>Hugo -- gohugo.io</generator><language>de-DE</language><lastBuildDate>Sat, 18 Mar 2017 00:20:00 +0200</lastBuildDate><atom:link href="https://sfdvw.de/tags/untersuchungsausschuss/index.xml" rel="self" type="application/rss+xml"/><item><title>SfdvW - 70 - Frank Rieger im NSA-Untersuchungsausschuss</title><link>https://sfdvw.de/blog/2017-03/sfdvw-70-frank-rieger-im-nsa-untersuchungsausschuss/</link><pubDate>Sat, 18 Mar 2017 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2017-03/sfdvw-70-frank-rieger-im-nsa-untersuchungsausschuss/</guid><description>Sendung Nummer 70 Frank Rieger im NSA-Untersuchungsausschuss</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Untersuchungsausschuss on Sendung für die vernetzte Welt</title>
+    <link>https://sfdvw.de/tags/untersuchungsausschuss/</link>
+    <description>Recent content in Untersuchungsausschuss on Sendung für die vernetzte Welt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Sat, 18 Mar 2017 00:20:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://sfdvw.de/tags/untersuchungsausschuss/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SfdvW - 70 - Frank Rieger im NSA-Untersuchungsausschuss</title>
+      <link>https://sfdvw.de/blog/2017-03/sfdvw-70-frank-rieger-im-nsa-untersuchungsausschuss/</link>
+      <pubDate>Sat, 18 Mar 2017 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/blog/2017-03/sfdvw-70-frank-rieger-im-nsa-untersuchungsausschuss/</guid>
+      <description>Sendung Nummer 70 Frank Rieger im NSA-Untersuchungsausschuss</description>
+    </item>
+    
+  </channel>
+</rss>

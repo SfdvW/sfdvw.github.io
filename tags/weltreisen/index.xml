@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Weltreisen on Sendung für die vernetzte Welt</title><link>https://sfdvw.de/tags/weltreisen/</link><description>Recent content in Weltreisen on Sendung für die vernetzte Welt</description><generator>Hugo -- gohugo.io</generator><language>de-DE</language><lastBuildDate>Sat, 31 Oct 2015 00:20:00 +0200</lastBuildDate><atom:link href="https://sfdvw.de/tags/weltreisen/index.xml" rel="self" type="application/rss+xml"/><item><title>SfdvW - 60 - Pommes Weltreisen Teil 1</title><link>https://sfdvw.de/blog/2015-10/sfdvw-60-pommes-weltreisen-teil-1/</link><pubDate>Sat, 31 Oct 2015 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2015-10/sfdvw-60-pommes-weltreisen-teil-1/</guid><description>Sendung Nummer 60 Pommes Weltreisen Teil 1</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Weltreisen on Sendung für die vernetzte Welt</title>
+    <link>https://sfdvw.de/tags/weltreisen/</link>
+    <description>Recent content in Weltreisen on Sendung für die vernetzte Welt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Sat, 31 Oct 2015 00:20:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://sfdvw.de/tags/weltreisen/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SfdvW - 60 - Pommes Weltreisen Teil 1</title>
+      <link>https://sfdvw.de/blog/2015-10/sfdvw-60-pommes-weltreisen-teil-1/</link>
+      <pubDate>Sat, 31 Oct 2015 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/blog/2015-10/sfdvw-60-pommes-weltreisen-teil-1/</guid>
+      <description>Sendung Nummer 60 Pommes Weltreisen Teil 1</description>
+    </item>
+    
+  </channel>
+</rss>

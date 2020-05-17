@@ -1,1 +1,60 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Freifunk on Sendung für die vernetzte Welt</title><link>https://sfdvw.de/tags/freifunk/</link><description>Recent content in Freifunk on Sendung für die vernetzte Welt</description><generator>Hugo -- gohugo.io</generator><language>de-DE</language><lastBuildDate>Sat, 23 Jan 2016 00:20:00 +0200</lastBuildDate><atom:link href="https://sfdvw.de/tags/freifunk/index.xml" rel="self" type="application/rss+xml"/><item><title>SfdvW - 61 - Freifunk Halle</title><link>https://sfdvw.de/blog/2016-01/sfdvw-61-freifunk-halle/</link><pubDate>Sat, 23 Jan 2016 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2016-01/sfdvw-61-freifunk-halle/</guid><description>Sendung Nummer 61 Freifunk Halle</description></item><item><title>SfdvW - 57 - CRE203 Freifunk statt Angst</title><link>https://sfdvw.de/blog/2015-01/sfdvw-57-cre203-freifunk-statt-angst/</link><pubDate>Sat, 24 Jan 2015 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2015-01/sfdvw-57-cre203-freifunk-statt-angst/</guid><description>Sendung Nummer 57 CRE203 Freifunk statt Angst</description></item><item><title>SfdvW - 25 - Freifunk Stand der Dinge WCW2010 WBOTM3 FOSSASIA GSOC</title><link>https://sfdvw.de/blog/2010-06/sfdvw-25-freifunk-stand-der-dinge-wcw2010-wbotm3-fossasia-gsoc/</link><pubDate>Sat, 19 Jun 2010 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2010-06/sfdvw-25-freifunk-stand-der-dinge-wcw2010-wbotm3-fossasia-gsoc/</guid><description>Sendung Nummer 25 Freifunk Stand der Dinge WCW2010 WBOTM3 FOSSASIA GSOC</description></item><item><title>SfdvW - 06 - Freifunk</title><link>https://sfdvw.de/blog/2008-05/sfdvw-06-freifunk/</link><pubDate>Wed, 28 May 2008 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2008-05/sfdvw-06-freifunk/</guid><description>Sendung Nummer 06 Freifunk</description></item><item><title>SfdvW - 02 - FF-Info und Chaosradio Getting things done</title><link>https://sfdvw.de/blog/2008-02/sfdvw-02-ff-info-und-chaosradio-getting-things-done/</link><pubDate>Wed, 06 Feb 2008 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2008-02/sfdvw-02-ff-info-und-chaosradio-getting-things-done/</guid><description>Sendung Nummer 02 FF-Info und Chaosradio Getting things done</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Freifunk on Sendung für die vernetzte Welt</title>
+    <link>https://sfdvw.de/tags/freifunk/</link>
+    <description>Recent content in Freifunk on Sendung für die vernetzte Welt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Sat, 23 Jan 2016 00:20:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://sfdvw.de/tags/freifunk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SfdvW - 61 - Freifunk Halle</title>
+      <link>https://sfdvw.de/blog/2016-01/sfdvw-61-freifunk-halle/</link>
+      <pubDate>Sat, 23 Jan 2016 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/blog/2016-01/sfdvw-61-freifunk-halle/</guid>
+      <description>Sendung Nummer 61 Freifunk Halle</description>
+    </item>
+    
+    <item>
+      <title>SfdvW - 57 - CRE203 Freifunk statt Angst</title>
+      <link>https://sfdvw.de/blog/2015-01/sfdvw-57-cre203-freifunk-statt-angst/</link>
+      <pubDate>Sat, 24 Jan 2015 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/blog/2015-01/sfdvw-57-cre203-freifunk-statt-angst/</guid>
+      <description>Sendung Nummer 57 CRE203 Freifunk statt Angst</description>
+    </item>
+    
+    <item>
+      <title>SfdvW - 25 - Freifunk Stand der Dinge WCW2010 WBOTM3 FOSSASIA GSOC</title>
+      <link>https://sfdvw.de/blog/2010-06/sfdvw-25-freifunk-stand-der-dinge-wcw2010-wbotm3-fossasia-gsoc/</link>
+      <pubDate>Sat, 19 Jun 2010 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/blog/2010-06/sfdvw-25-freifunk-stand-der-dinge-wcw2010-wbotm3-fossasia-gsoc/</guid>
+      <description>Sendung Nummer 25 Freifunk Stand der Dinge WCW2010 WBOTM3 FOSSASIA GSOC</description>
+    </item>
+    
+    <item>
+      <title>SfdvW - 06 - Freifunk</title>
+      <link>https://sfdvw.de/blog/2008-05/sfdvw-06-freifunk/</link>
+      <pubDate>Wed, 28 May 2008 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/blog/2008-05/sfdvw-06-freifunk/</guid>
+      <description>Sendung Nummer 06 Freifunk</description>
+    </item>
+    
+    <item>
+      <title>SfdvW - 02 - FF-Info und Chaosradio Getting things done</title>
+      <link>https://sfdvw.de/blog/2008-02/sfdvw-02-ff-info-und-chaosradio-getting-things-done/</link>
+      <pubDate>Wed, 06 Feb 2008 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/blog/2008-02/sfdvw-02-ff-info-und-chaosradio-getting-things-done/</guid>
+      <description>Sendung Nummer 02 FF-Info und Chaosradio Getting things done</description>
+    </item>
+    
+  </channel>
+</rss>

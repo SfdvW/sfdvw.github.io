@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacktivismus on Sendung für die vernetzte Welt</title><link>https://sfdvw.de/tags/hacktivismus/</link><description>Recent content in Hacktivismus on Sendung für die vernetzte Welt</description><generator>Hugo -- gohugo.io</generator><language>de-DE</language><lastBuildDate>Sat, 18 Jun 2011 00:20:00 +0200</lastBuildDate><atom:link href="https://sfdvw.de/tags/hacktivismus/index.xml" rel="self" type="application/rss+xml"/><item><title>SfdvW - 32 - c&#39;t online talk auf DRadioWissen Hacktivismus</title><link>https://sfdvw.de/blog/2011-06/sfdvw-32-ct-online-talk-auf-dradiowissen-hacktivismus/</link><pubDate>Sat, 18 Jun 2011 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2011-06/sfdvw-32-ct-online-talk-auf-dradiowissen-hacktivismus/</guid><description>Sendung Nummer 32 c&amp;rsquo;t online talk auf DRadioWissen Hacktivismus</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hacktivismus on Sendung für die vernetzte Welt</title>
+    <link>https://sfdvw.de/tags/hacktivismus/</link>
+    <description>Recent content in Hacktivismus on Sendung für die vernetzte Welt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Sat, 18 Jun 2011 00:20:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://sfdvw.de/tags/hacktivismus/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SfdvW - 32 - c&#39;t online talk auf DRadioWissen Hacktivismus</title>
+      <link>https://sfdvw.de/blog/2011-06/sfdvw-32-ct-online-talk-auf-dradiowissen-hacktivismus/</link>
+      <pubDate>Sat, 18 Jun 2011 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/blog/2011-06/sfdvw-32-ct-online-talk-auf-dradiowissen-hacktivismus/</guid>
+      <description>Sendung Nummer 32 c&amp;rsquo;t online talk auf DRadioWissen Hacktivismus</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Backup on Sendung für die vernetzte Welt</title><link>https://sfdvw.de/tags/backup/</link><description>Recent content in Backup on Sendung für die vernetzte Welt</description><generator>Hugo -- gohugo.io</generator><language>de-DE</language><lastBuildDate>Sat, 21 Dec 2019 00:20:00 +0200</lastBuildDate><atom:link href="https://sfdvw.de/tags/backup/index.xml" rel="self" type="application/rss+xml"/><item><title>SfdvW - 87 - Backups</title><link>https://sfdvw.de/blog/2019-12/sfdvw-87-backups/</link><pubDate>Sat, 21 Dec 2019 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2019-12/sfdvw-87-backups/</guid><description>Sendung Nummer 87 Backups</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Backup on Sendung für die vernetzte Welt</title>
+    <link>https://sfdvw.de/tags/backup/</link>
+    <description>Recent content in Backup on Sendung für die vernetzte Welt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Sat, 21 Dec 2019 00:20:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://sfdvw.de/tags/backup/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SfdvW - 87 - Backups</title>
+      <link>https://sfdvw.de/blog/2019-12/sfdvw-87-backups/</link>
+      <pubDate>Sat, 21 Dec 2019 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/blog/2019-12/sfdvw-87-backups/</guid>
+      <description>Sendung Nummer 87 Backups</description>
+    </item>
+    
+  </channel>
+</rss>

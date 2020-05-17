@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Großvater on Sendung für die vernetzte Welt</title><link>https://sfdvw.de/tags/gro%C3%9Fvater/</link><description>Recent content in Großvater on Sendung für die vernetzte Welt</description><generator>Hugo -- gohugo.io</generator><language>de-DE</language><lastBuildDate>Sat, 27 Mar 2010 00:20:00 +0200</lastBuildDate><atom:link href="https://sfdvw.de/tags/gro%C3%9Fvater/index.xml" rel="self" type="application/rss+xml"/><item><title>SfdvW - 23 - Großvater Gerhard</title><link>https://sfdvw.de/blog/2010-03/sfdvw-23-gro%C3%9Fvater-gerhard/</link><pubDate>Sat, 27 Mar 2010 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2010-03/sfdvw-23-gro%C3%9Fvater-gerhard/</guid><description>Sendung Nummer 23 Großvater Gerhard</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Großvater on Sendung für die vernetzte Welt</title>
+    <link>https://sfdvw.de/tags/gro%C3%9Fvater/</link>
+    <description>Recent content in Großvater on Sendung für die vernetzte Welt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Sat, 27 Mar 2010 00:20:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://sfdvw.de/tags/gro%C3%9Fvater/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SfdvW - 23 - Großvater Gerhard</title>
+      <link>https://sfdvw.de/blog/2010-03/sfdvw-23-gro%C3%9Fvater-gerhard/</link>
+      <pubDate>Sat, 27 Mar 2010 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/blog/2010-03/sfdvw-23-gro%C3%9Fvater-gerhard/</guid>
+      <description>Sendung Nummer 23 Großvater Gerhard</description>
+    </item>
+    
+  </channel>
+</rss>
