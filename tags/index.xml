@@ -6,10 +6,46 @@
     <description>Recent content in Tags on Sendung für die vernetzte Welt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Sat, 16 May 2020 00:20:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2020 00:20:00 +0200</lastBuildDate>
     
 	<atom:link href="https://sfdvw.de/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>9front</title>
+      <link>https://sfdvw.de/tags/9front/</link>
+      <pubDate>Sat, 20 Jun 2020 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/tags/9front/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Betriebssystem</title>
+      <link>https://sfdvw.de/tags/betriebssystem/</link>
+      <pubDate>Sat, 20 Jun 2020 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/tags/betriebssystem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>https://sfdvw.de/tags/linux/</link>
+      <pubDate>Sat, 20 Jun 2020 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plan_9</title>
+      <link>https://sfdvw.de/tags/plan_9/</link>
+      <pubDate>Sat, 20 Jun 2020 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/tags/plan_9/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ASCII</title>
@@ -192,15 +228,6 @@
     </item>
     
     <item>
-      <title>Junghacker</title>
-      <link>https://sfdvw.de/tags/junghacker/</link>
-      <pubDate>Sat, 21 Mar 2020 00:20:00 +0200</pubDate>
-      
-      <guid>https://sfdvw.de/tags/junghacker/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>discord</title>
       <link>https://sfdvw.de/tags/discord/</link>
       <pubDate>Sat, 21 Mar 2020 00:20:00 +0200</pubDate>
@@ -215,6 +242,15 @@
       <pubDate>Sat, 21 Mar 2020 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/tags/jugend/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>junghacker</title>
+      <link>https://sfdvw.de/tags/junghacker/</link>
+      <pubDate>Sat, 21 Mar 2020 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/tags/junghacker/</guid>
       <description></description>
     </item>
     
@@ -287,15 +323,6 @@
       <pubDate>Sat, 21 Dec 2019 00:20:00 +0200</pubDate>
       
       <guid>https://sfdvw.de/tags/backup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Linux</title>
-      <link>https://sfdvw.de/tags/linux/</link>
-      <pubDate>Sat, 16 Nov 2019 00:20:00 +0200</pubDate>
-      
-      <guid>https://sfdvw.de/tags/linux/</guid>
       <description></description>
     </item>
     

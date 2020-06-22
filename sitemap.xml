@@ -3,6 +3,77 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://sfdvw.de/tags/9front/</loc>
+    <lastmod>2020-06-20T00:20:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sfdvw.de/tags/betriebssystem/</loc>
+    <lastmod>2020-06-20T00:20:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sfdvw.de/blog/</loc>
+    <lastmod>2020-06-20T00:20:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sfdvw.de/categories/</loc>
+    <lastmod>2020-06-20T00:20:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sfdvw.de/tags/linux/</loc>
+    <lastmod>2020-06-20T00:20:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sfdvw.de/tags/plan_9/</loc>
+    <lastmod>2020-06-20T00:20:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sfdvw.de/categories/sendebeitrag/</loc>
+    <lastmod>2020-06-20T00:20:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sfdvw.de/</loc>
+    <lastmod>2020-06-20T00:20:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sfdvw.de/series/</loc>
+    <lastmod>2020-06-20T00:20:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sfdvw.de/series/sfdvw/</loc>
+    <lastmod>2020-06-20T00:20:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sfdvw.de/blog/2020-06/sfdvw-93-plan-9/</loc>
+    <lastmod>2020-06-20T00:20:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sfdvw.de/tags/</loc>
+    <lastmod>2020-06-20T00:20:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://sfdvw.de/tags/ascii/</loc>
     <lastmod>2020-05-16T00:20:00+02:00</lastmod>
     <priority>0</priority>
@@ -21,18 +92,6 @@
   </url>
   
   <url>
-    <loc>https://sfdvw.de/blog/</loc>
-    <lastmod>2020-05-16T00:20:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sfdvw.de/categories/</loc>
-    <lastmod>2020-05-16T00:20:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://sfdvw.de/tags/reaper/</loc>
     <lastmod>2020-05-16T00:20:00+02:00</lastmod>
     <priority>0</priority>
@@ -45,42 +104,12 @@
   </url>
   
   <url>
-    <loc>https://sfdvw.de/categories/sendebeitrag/</loc>
-    <lastmod>2020-05-16T00:20:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sfdvw.de/</loc>
-    <lastmod>2020-05-16T00:20:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sfdvw.de/series/</loc>
-    <lastmod>2020-05-16T00:20:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sfdvw.de/series/sfdvw/</loc>
-    <lastmod>2020-05-16T00:20:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://sfdvw.de/blog/2020-05/sfdvw-92-sendungstitel-hier-einf%C3%BCgen/</loc>
     <lastmod>2020-05-16T00:20:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://sfdvw.de/tags/studio-link/</loc>
-    <lastmod>2020-05-16T00:20:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sfdvw.de/tags/</loc>
     <lastmod>2020-05-16T00:20:00+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -175,12 +204,6 @@
   </url>
   
   <url>
-    <loc>https://sfdvw.de/tags/junghacker/</loc>
-    <lastmod>2020-03-21T00:20:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://sfdvw.de/blog/2020-03/sfdvw-90-technik-der-jugend/</loc>
     <lastmod>2020-03-21T00:20:00+02:00</lastmod>
   </url>
@@ -193,6 +216,12 @@
   
   <url>
     <loc>https://sfdvw.de/tags/jugend/</loc>
+    <lastmod>2020-03-21T00:20:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sfdvw.de/tags/junghacker/</loc>
     <lastmod>2020-03-21T00:20:00+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -258,12 +287,6 @@
   <url>
     <loc>https://sfdvw.de/blog/2019-12/sfdvw-87-backups/</loc>
     <lastmod>2019-12-21T00:20:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sfdvw.de/tags/linux/</loc>
-    <lastmod>2019-11-16T00:20:00+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
