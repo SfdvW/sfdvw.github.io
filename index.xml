@@ -20,6 +20,113 @@
     </itunes:category>
     
     <item>
+      <title>SfdvW - 94 - ARM Prozessoren</title>
+      <link>https://sfdvw.de/blog/2020-07/sfdvw-94-arm-prozessoren/</link>
+      <pubDate>Sat, 18 Jul 2020 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/blog/2020-07/sfdvw-94-arm-prozessoren/</guid>
+      <description>
+
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;sfdvw-94-arm-prozessoren&#34;&gt;SfdvW - 94 - ARM Prozessoren&lt;/h2&gt;
+
+&lt;p&gt;mit dabei: tmk, markus, nilo, jotilux und Alex&lt;/p&gt;
+
+&lt;h3 id=&#34;worum-geht-es-heute&#34;&gt;Worum geht es Heute?&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ARM ( Advanced Risc Machine ) Prozessoren&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=1jOJl8gRPyQ&#34;&gt;Erfinder erzählt /Youtube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/ARM-Architektur&#34;&gt;ARM-Architektur /Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;corax-themen&#34;&gt;CORAX Themen&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://radiocorax.de/radio-corax-wird-20/&#34;&gt;Corax ist 20 Jahre &amp;ldquo;auf der Luft&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Corax hat die Akkredition für die Verhandlungen Halle&amp;rsquo;scher Attentäter erhalten
+
+&lt;ul&gt;
+&lt;li&gt;Auf Radio CORAX gibt es dazu am kommenden Dienstag den 21.07.2020 von 8:00 – 15:00 Uhr eine &lt;a href=&#34;https://radiocorax.de/sondersendung-zum-prozessauftakt-gegen-den-rechten-attentaeter-von-halle/&#34;&gt;Sondersendung&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Der Tathergang wurde live im Internet gestreamt und ist dadurch auch eine Killerspiel / Gamer-Debatte erneut angeklungen&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Berichterstattung/Fragen immernoch im täglichen Corona-Pressebericht der &lt;a href=&#34;https://www.halle.de/de/Verwaltung/Presseportal/Nachrichten/?NewsId=45334&#34;&gt;Stadt Halle&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;18.07.2020: Gesamtsumme der Infizierten: 372 (+1) Anzahl der Neuinfizierten auf 100.000 Einwohner in den vergangenen 7 Tagen: 0,83 (+0,41)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;alex-und-seine-arm-vergangenheit&#34;&gt;Alex und seine ARM-Vergangenheit&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Verkaufte Arm Prozessoren warscheinlich irgendwas um 80 Milliarden Stück&lt;/li&gt;
+&lt;li&gt;Standart CPUs sind CISC Prozessoren
+
+&lt;ul&gt;
+&lt;li&gt;Arm waren nicht die ersten RISC Prozessoren haben es aber in größeren Mengen verbreitet&lt;/li&gt;
+&lt;li&gt;geringere Befehlskomplexität und geringerer Befehlssatz&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Prozessorgeschwindigkeit in MIPS ( Millions Instructions per second ) siehe &lt;a href=&#34;https://de.wikipedia.org/wiki/Instruktionen_pro_Sekunde&#34;&gt;Instruktionen pro Sekunde /Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Sinclair custom Chip ULA&lt;/li&gt;
+&lt;li&gt;Sophie Wilson wird in der Entwicklung oft vergessen&lt;/li&gt;
+&lt;li&gt;Hardware: DSL Modems, Switche, Telefone, Einplatinen-PC, neue Macbooks (Apple Silicon)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Acorn&#34;&gt;Acorn /Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/search?q=acorn+archimedes&amp;amp;source=lnms&amp;amp;tbm=isch&amp;amp;sa=X&amp;amp;ved=2ahUKEwjKzqHMk67qAhXuk4sKHYDvCGgQ_AUoAnoECBUQBA&amp;amp;biw=2560&amp;amp;bih=1453&#34;&gt;Britischer Acorn Archimedes (~Mitte/Ende 80er) /google-Bildersuche&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://media.ccc.de/v/36c3-10703-the_ultimate_acorn_archimedes_talk&#34;&gt;The Ultimate Acorn Archimedes talk - Matt Evans 36C3-Talk /media.ccc.de&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cre.fm/cre151-die-arm-architektur&#34;&gt;cre151-die-arm-architektur vom April 2010 /cre.fm&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;arm-zukuft&#34;&gt;ARM-Zukuft&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.golem.de/news/apple-silicon-arm-loest-intel-bei-apple-ab-2006-149235.html&#34;&gt;ARM löst Intel bei Apple ab /golem.de&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;ARM Server, Top 500 Liste &lt;a href=&#34;https://www.top500.org/news/japan-captures-top500-crown-arm-powered-supercomputer/&#34;&gt;Japan captures top500 crown arm powered supercomputer&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;ddr-computerszene&#34;&gt;DDR Computerszene&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;DDR Computer Szene &lt;a href=&#34;https://www.3sat.de/kultur/kulturdoku/190921-platinen-deutschedebatten-104.html&#34;&gt;Dokumentation 3sat&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sfdvw.de/blog/2017-02/sfdvw-69-computermuseum-halle/&#34;&gt;Sendung für die vernetzte Welt 69 Computermuseum Halle&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;kommende-veranstaltungen&#34;&gt;kommende Veranstaltungen:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;neuer Termin für jugend hackt Halle, jetzt online!
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://jugendhackt.org/events/halle/&#34;&gt;Anmeldung jugend hackt Halle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;04. bis 06. September 2020&lt;/li&gt;
+&lt;li&gt;Jugend hackt ist für programmier- und makingbegeisterte Menschen zwischen 12 und 18 Jahren offen&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;C3D2 Datenspuren - Utopia  18. bis 20. September 2020  Teilnahme mit Präsenzroboter
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://datenspuren.de/2020/&#34;&gt;Datenspuren 2020&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Außerdem suchen wir noch Kreative und Macher, die den Planeten Utopia gestalten wollen. Ihr könnt einen Bereich im großen Saal des Zentralwerks gestalten, so dass sich unsere Besucher über Ihre Roboter darin umschauen können. Interesse? Dann meldet Euch bitte bald: datenspuren@c3d2.de&lt;/li&gt;
+&lt;li&gt;Bitte erstellen Sie alle Einreichungen bis zum: 31.08.2020&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;script&gt;
+  podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw94.json&#39;);
+&lt;/script&gt;
+</description>
+      <enclosure url="https://oxwo.de/audio/Sendung_fuer_die_vernetzte_Welt_%2894%29_2020_07_18_ARM_Prozessoren.mp3" type="audio/mpeg" length="1" />
+      
+      <chapters>
+                      
+      </chapters>
+    </item>
+    
+    <item>
       <title>SfdvW - 93 - Plan 9</title>
       <link>https://sfdvw.de/blog/2020-06/sfdvw-93-plan-9/</link>
       <pubDate>Sat, 20 Jun 2020 00:20:00 +0200</pubDate>
@@ -1786,7 +1893,7 @@ mit dabei: tmk, nilo, Wolfgang, markus&lt;/p&gt;
   podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw69.json&#39;);
 &lt;/script&gt;
 </description>
-      <enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2869%29_2017_02_18_Computermuseum_Halle.mp3" type="audio/mpeg" length="1" />
+      <enclosure url="https://oxwo.de/audio/Sendung_fuer_die_vernetzte_Welt_%2869%29_2017_02_18_Computermuseum_Halle.mp3" type="audio/mpeg" length="1" />
       
       <chapters>
                       

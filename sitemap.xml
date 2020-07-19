@@ -3,6 +3,83 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://sfdvw.de/tags/20jarecorax/</loc>
+    <lastmod>2020-07-18T00:20:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sfdvw.de/tags/arm/</loc>
+    <lastmod>2020-07-18T00:20:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sfdvw.de/tags/apple/</loc>
+    <lastmod>2020-07-18T00:20:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sfdvw.de/blog/</loc>
+    <lastmod>2020-07-18T00:20:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sfdvw.de/tags/cpu/</loc>
+    <lastmod>2020-07-18T00:20:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sfdvw.de/categories/</loc>
+    <lastmod>2020-07-18T00:20:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sfdvw.de/tags/ddr-computerszene/</loc>
+    <lastmod>2020-07-18T00:20:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sfdvw.de/categories/sendebeitrag/</loc>
+    <lastmod>2020-07-18T00:20:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sfdvw.de/</loc>
+    <lastmod>2020-07-18T00:20:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sfdvw.de/series/</loc>
+    <lastmod>2020-07-18T00:20:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sfdvw.de/series/sfdvw/</loc>
+    <lastmod>2020-07-18T00:20:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sfdvw.de/blog/2020-07/sfdvw-94-arm-prozessoren/</loc>
+    <lastmod>2020-07-18T00:20:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sfdvw.de/tags/</loc>
+    <lastmod>2020-07-18T00:20:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://sfdvw.de/tags/9front/</loc>
     <lastmod>2020-06-20T00:20:00+02:00</lastmod>
     <priority>0</priority>
@@ -10,18 +87,6 @@
   
   <url>
     <loc>https://sfdvw.de/tags/betriebssystem/</loc>
-    <lastmod>2020-06-20T00:20:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sfdvw.de/blog/</loc>
-    <lastmod>2020-06-20T00:20:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sfdvw.de/categories/</loc>
     <lastmod>2020-06-20T00:20:00+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -39,38 +104,8 @@
   </url>
   
   <url>
-    <loc>https://sfdvw.de/categories/sendebeitrag/</loc>
-    <lastmod>2020-06-20T00:20:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sfdvw.de/</loc>
-    <lastmod>2020-06-20T00:20:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sfdvw.de/series/</loc>
-    <lastmod>2020-06-20T00:20:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sfdvw.de/series/sfdvw/</loc>
-    <lastmod>2020-06-20T00:20:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://sfdvw.de/blog/2020-06/sfdvw-93-plan-9/</loc>
     <lastmod>2020-06-20T00:20:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sfdvw.de/tags/</loc>
-    <lastmod>2020-06-20T00:20:00+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -204,6 +239,12 @@
   </url>
   
   <url>
+    <loc>https://sfdvw.de/tags/junghacker/</loc>
+    <lastmod>2020-03-21T00:20:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://sfdvw.de/blog/2020-03/sfdvw-90-technik-der-jugend/</loc>
     <lastmod>2020-03-21T00:20:00+02:00</lastmod>
   </url>
@@ -216,12 +257,6 @@
   
   <url>
     <loc>https://sfdvw.de/tags/jugend/</loc>
-    <lastmod>2020-03-21T00:20:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sfdvw.de/tags/junghacker/</loc>
     <lastmod>2020-03-21T00:20:00+02:00</lastmod>
     <priority>0</priority>
   </url>
