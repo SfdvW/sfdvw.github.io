@@ -6,17 +6,35 @@
     <description>Recent content in Tags on Sendung für die vernetzte Welt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Sat, 18 Jul 2020 00:20:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2020 00:20:00 +0200</lastBuildDate>
     
 	<atom:link href="https://sfdvw.de/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>20JareCORAX</title>
-      <link>https://sfdvw.de/tags/20jarecorax/</link>
+      <title>Garten</title>
+      <link>https://sfdvw.de/tags/garten/</link>
+      <pubDate>Sat, 15 Aug 2020 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/tags/garten/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sommer</title>
+      <link>https://sfdvw.de/tags/sommer/</link>
+      <pubDate>Sat, 15 Aug 2020 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/tags/sommer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>20JahreCORAX</title>
+      <link>https://sfdvw.de/tags/20jahrecorax/</link>
       <pubDate>Sat, 18 Jul 2020 00:20:00 +0200</pubDate>
       
-      <guid>https://sfdvw.de/tags/20jarecorax/</guid>
+      <guid>https://sfdvw.de/tags/20jahrecorax/</guid>
       <description></description>
     </item>
     

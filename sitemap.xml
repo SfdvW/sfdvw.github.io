@@ -3,7 +3,66 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sfdvw.de/tags/20jarecorax/</loc>
+    <loc>https://sfdvw.de/blog/</loc>
+    <lastmod>2020-08-15T00:20:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sfdvw.de/categories/</loc>
+    <lastmod>2020-08-15T00:20:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sfdvw.de/tags/garten/</loc>
+    <lastmod>2020-08-15T00:20:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sfdvw.de/categories/sendebeitrag/</loc>
+    <lastmod>2020-08-15T00:20:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sfdvw.de/</loc>
+    <lastmod>2020-08-15T00:20:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sfdvw.de/series/</loc>
+    <lastmod>2020-08-15T00:20:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sfdvw.de/series/sfdvw/</loc>
+    <lastmod>2020-08-15T00:20:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sfdvw.de/blog/2020-08/sfdvw-95-gartensendung/</loc>
+    <lastmod>2020-08-15T00:20:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sfdvw.de/tags/sommer/</loc>
+    <lastmod>2020-08-15T00:20:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sfdvw.de/tags/</loc>
+    <lastmod>2020-08-15T00:20:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sfdvw.de/tags/20jahrecorax/</loc>
     <lastmod>2020-07-18T00:20:00+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -21,19 +80,7 @@
   </url>
   
   <url>
-    <loc>https://sfdvw.de/blog/</loc>
-    <lastmod>2020-07-18T00:20:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://sfdvw.de/tags/cpu/</loc>
-    <lastmod>2020-07-18T00:20:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sfdvw.de/categories/</loc>
     <lastmod>2020-07-18T00:20:00+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -45,38 +92,8 @@
   </url>
   
   <url>
-    <loc>https://sfdvw.de/categories/sendebeitrag/</loc>
-    <lastmod>2020-07-18T00:20:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sfdvw.de/</loc>
-    <lastmod>2020-07-18T00:20:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sfdvw.de/series/</loc>
-    <lastmod>2020-07-18T00:20:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sfdvw.de/series/sfdvw/</loc>
-    <lastmod>2020-07-18T00:20:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://sfdvw.de/blog/2020-07/sfdvw-94-arm-prozessoren/</loc>
     <lastmod>2020-07-18T00:20:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sfdvw.de/tags/</loc>
-    <lastmod>2020-07-18T00:20:00+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

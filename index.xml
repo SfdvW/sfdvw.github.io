@@ -4,11 +4,11 @@
     <link>https://sfdvw.de/</link>
     <description>Technik ~ Gesellschaft ~ Internet ~ neue Medien</description>
     <language>de</language>
-    <copyright>Radio Corax</copyright>
+    <copyright>Sendung für die vernetzte Welt</copyright>
     
     <lastBuildDate>Wed, 1 Jan 0001 00:00:00 GMT</lastBuildDate>
     <itunes:author>SfdvW</itunes:author>
-    <itunes:summary>Immer am dritten Samstag des Monats, 20.00 Uhr, befasst sich die Sendung für die vernetzte Welt mit den Themenfeldern Technik und Gesellschaft, Internet und neue Medien. Die rechnerphile Redaktion versucht euch mitzunehmen auf eine Reise in die Welt der Daten und Netzwerke, der Onlinecommunities und Netz- und Softwarekunst. Radio Corax Freies Radio im Raum Halle ist zu höhren auf UKW 95.9 oder im Webplayer.Ihr könnt live mitmachen über Sendediensttelefon (Halle/4700744). Schreibt eure Fragen und Kritiken über eMail an SfdvW aat radiocorax ddot de. Funk frei!</itunes:summary>
+    <itunes:summary>Immer am dritten Samstag des Monats, 20.00 Uhr, befasst sich die Sendung für die vernetzte Welt mit den Themenfeldern Technik und Gesellschaft, Internet und neue Medien. Die rechnerphile Redaktion versucht euch mitzunehmen auf eine Reise in die Welt der Daten und Netzwerke, der Onlinecommunities und Netz- und Softwarekunst. Radio Corax Freies Radio im Raum Halle ist zu höhren auf UKW 95.9 oder im Webplayer. Ihr könnt live mitmachen über Sendediensttelefon (Halle/4700744). Schreibt eure Fragen und Kritiken über eMail an SfdvW aat radiocorax ddot de. Funk frei!</itunes:summary>
     <itunes:owner>
         <itunes:name>Sendung für die vernetzte Welt</itunes:name>
         <itunes:email>SfdvW aat radiocorax ddot de</itunes:email>
@@ -18,6 +18,46 @@
      <itunes:category text="Podcast">
         <itunes:category text="Podcast" />
     </itunes:category>
+    
+    <item>
+      <title>SfdvW - 95 - Gartensendung</title>
+      <link>https://sfdvw.de/blog/2020-08/sfdvw-95-gartensendung/</link>
+      <pubDate>Sat, 15 Aug 2020 00:20:00 +0200</pubDate>
+      
+      <guid>https://sfdvw.de/blog/2020-08/sfdvw-95-gartensendung/</guid>
+      <description>
+
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;sfdvw-95-gartensendung&#34;&gt;SfdvW - 95 - Gartensendung&lt;/h2&gt;
+
+&lt;p&gt;mit dabei: tmk, Alex&lt;/p&gt;
+
+&lt;h3 id=&#34;worum-geht-es-heute&#34;&gt;Worum geht es Heute?&lt;/h3&gt;
+
+&lt;p&gt;Ein Spatziergang im August durch einen Stadtgarten, mit Alex
+Diesesmal keine Sendung über Bits und Bytes aber mit ganz viel Ausgleichsthemen zur hallischen Stadtsonneblume! Lasst mal fließen&amp;hellip; und regt euch nicht immer über belanglosen Technikkram auf.&lt;/p&gt;
+
+&lt;h3 id=&#34;quellen&#34;&gt;Quellen&lt;/h3&gt;
+
+&lt;p&gt;Vogelgesänge vom Schaltplattenvogelbuch &amp;ldquo;Sang da nicht die Nachtigall?&amp;rdquo; von Ernst Schälow und Dr. Viktor Wendland, J. Neumann-Neudamm Verlag, Melsungen 1960&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://oxwo.de/audio/Sendung_fuer_die_vernetzte_Welt_(95)_2020_08_15_Gartensendung.jpg&#34; alt=&#34;Congress_Review_36C3&#34; /&gt;&lt;/p&gt;
+
+&lt;script&gt;
+  podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw95.json&#39;);
+&lt;/script&gt;
+</description>
+      <enclosure url="https://oxwo.de/audio/Sendung_fuer_die_vernetzte_Welt_%2895%29_2020_08_15_Gartensendung.mp3" type="audio/mpeg" length="1" />
+      
+      <chapters>
+                      
+      </chapters>
+    </item>
     
     <item>
       <title>SfdvW - 94 - ARM Prozessoren</title>
