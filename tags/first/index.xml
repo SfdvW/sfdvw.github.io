@@ -1,25 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>first on Sendung für die vernetzte Welt</title>
-    <link>https://sfdvw.de/tags/first/</link>
-    <description>Recent content in first on Sendung für die vernetzte Welt</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>de-DE</language>
-    <lastBuildDate>Sat, 21 Sep 2019 19:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://sfdvw.de/tags/first/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Hello World - cats in space - sfdvw.de</title>
-      <link>https://sfdvw.de/blog/2019-09/hello-world-cats-in-space-sfdvw.de/</link>
-      <pubDate>Sat, 21 Sep 2019 19:00:00 +0000</pubDate>
-      
-      <guid>https://sfdvw.de/blog/2019-09/hello-world-cats-in-space-sfdvw.de/</guid>
-      <description>Hello World,
-Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer kleinen Seite über die Sendung für die vernetzte Welt Radio Corax Freies Radio im Raum Halle Immer am dritten Samstag des Monats 20.00 Uhr live</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>first on Sendung für die vernetzte Welt</title><link>https://sfdvw.de/tags/first/</link><description>Recent content in first on Sendung für die vernetzte Welt</description><generator>Hugo -- gohugo.io</generator><language>de-DE</language><lastBuildDate>Sat, 21 Sep 2019 19:00:00 +0000</lastBuildDate><atom:link href="https://sfdvw.de/tags/first/index.xml" rel="self" type="application/rss+xml"/><item><title>Hello World - cats in space - sfdvw.de</title><link>https://sfdvw.de/blog/2019-09/hello-world-cats-in-space-sfdvw.de/</link><pubDate>Sat, 21 Sep 2019 19:00:00 +0000</pubDate><guid>https://sfdvw.de/blog/2019-09/hello-world-cats-in-space-sfdvw.de/</guid><description>Hello World,
+Hi here you can see cats in space, jetzt auch unter https://sfdvw.de mit einer kleinen Seite über die Sendung für die vernetzte Welt Radio Corax Freies Radio im Raum Halle Immer am dritten Samstag des Monats 20.00 Uhr live</description></item></channel></rss>
