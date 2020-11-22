@@ -1,4 +1,51 @@
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sendung für die vernetzte Welt</title><link>https://sfdvw.de/</link><description>Technik ~ Gesellschaft ~ Internet ~ neue Medien</description><language>de</language><copyright>Sendung für die vernetzte Welt</copyright><lastBuildDate>Wed, 1 Jan 0001 00:00:00 GMT</lastBuildDate><itunes:author>SfdvW</itunes:author><itunes:summary>Immer am dritten Samstag des Monats, 20.00 Uhr, befasst sich die Sendung für die vernetzte Welt mit den Themenfeldern Technik und Gesellschaft, Internet und neue Medien. Die rechnerphile Redaktion versucht euch mitzunehmen auf eine Reise in die Welt der Daten und Netzwerke, der Onlinecommunities und Netz- und Softwarekunst. Radio Corax Freies Radio im Raum Halle ist zu höhren auf UKW 95.9 oder im Webplayer. Ihr könnt live mitmachen über Sendediensttelefon (Halle/4700744). Schreibt eure Fragen und Kritiken über eMail an SfdvW aat radiocorax ddot de. Funk frei!</itunes:summary><itunes:owner><itunes:name>Sendung für die vernetzte Welt</itunes:name><itunes:email>SfdvW aat radiocorax ddot de</itunes:email></itunes:owner><itunes:explicit>No</itunes:explicit><itunes:image href="https://sfdvw.de/img/profile.jpg"/><itunes:category text="Podcast"><itunes:category text="Podcast"/></itunes:category><item><title>SfdvW - 97 - Freifunk Halle 2020</title><link>https://sfdvw.de/blog/2020-10/sfdvw-97-freifunk-halle-2020/</link><pubDate>Sat, 17 Oct 2020 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2020-10/sfdvw-97-freifunk-halle-2020/</guid><description>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sendung für die vernetzte Welt</title><link>https://sfdvw.de/</link><description>Technik ~ Gesellschaft ~ Internet ~ neue Medien</description><language>de</language><copyright>Sendung für die vernetzte Welt</copyright><lastBuildDate>Wed, 1 Jan 0001 00:00:00 GMT</lastBuildDate><itunes:author>SfdvW</itunes:author><itunes:summary>Immer am dritten Samstag des Monats, 20.00 Uhr, befasst sich die Sendung für die vernetzte Welt mit den Themenfeldern Technik und Gesellschaft, Internet und neue Medien. Die rechnerphile Redaktion versucht euch mitzunehmen auf eine Reise in die Welt der Daten und Netzwerke, der Onlinecommunities und Netz- und Softwarekunst. Radio Corax Freies Radio im Raum Halle ist zu höhren auf UKW 95.9 oder im Webplayer. Ihr könnt live mitmachen über Sendediensttelefon (Halle/4700744). Schreibt eure Fragen und Kritiken über eMail an SfdvW aat radiocorax ddot de. Funk frei!</itunes:summary><itunes:owner><itunes:name>Sendung für die vernetzte Welt</itunes:name><itunes:email>SfdvW aat radiocorax ddot de</itunes:email></itunes:owner><itunes:explicit>No</itunes:explicit><itunes:image href="https://sfdvw.de/img/profile.jpg"/><itunes:category text="Podcast"><itunes:category text="Podcast"/></itunes:category><item><title>SfdvW - 98 - Neue alte Computer</title><link>https://sfdvw.de/blog/2020-11/sfdvw-98-neue-alte-computer/</link><pubDate>Sat, 21 Nov 2020 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2020-11/sfdvw-98-neue-alte-computer/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sfdvw-98-neue-alte-computer&#34;&gt;SfdvW - 98 - Neue alte Computer&lt;/h2&gt;
+&lt;p&gt;mit dabei: markus, nilo, jotilux, Alex&lt;/p&gt;
+&lt;h3 id=&#34;worum-geht-es-heute&#34;&gt;Worum geht es Heute?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Alex baut aus alter Hardware neue Computer bzw. aus neuer Hardware alte Computer&lt;/li&gt;
+&lt;li&gt;Alex war schon mal bei uns, Hardwaretalk mit Alexander Heidenreich (&lt;a href=&#34;https://sfdvw.de/blog/2020-07/sfdvw-94-arm-prozessoren/&#34;&gt;SfdvW - 94 - ARM-Prozessoren&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Bau neuer Komponenten für alte Computer (Gotech-Floppy, Flash-Adapter, Videoumsetzer usw)
+&lt;ul&gt;
+&lt;li&gt;mangelnde Verfügbarkeit alter Komponenten (Laufwerke, Monitore usw)&lt;/li&gt;
+&lt;li&gt;bessere Integration in moderne IT (Datenübertragung, Nutzung aktueller Technik)&lt;/li&gt;
+&lt;li&gt;Erweiterung der Fähigkeiten alter Systeme (Internet auf dem C64 usw.)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Nachbau alter Rechner (VAX,PET, Speccy usw.)
+&lt;ul&gt;
+&lt;li&gt;Nachbau mit alter Technik (Harlequin)&lt;/li&gt;
+&lt;li&gt;Nachbau mit FPGA (Amiga-Clones)&lt;/li&gt;
+&lt;li&gt;Nachbau mit Softwareemulation (C64max, VAX auf RasPi usw.)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Neuentwicklung von Systemen inspiriert von alten Rechnern
+&lt;ul&gt;
+&lt;li&gt;“Weiterentwicklung” alter Systeme (Spectrum Next)&lt;/li&gt;
+&lt;li&gt;Neuentwicklungen im Geiste alter Systeme (rc2014)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;aktuelle-projekte&#34;&gt;aktuelle Projekte&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://8bit-museum.de/zx-spectrum-nachbau-superfo-harlequin-rev-g/&#34;&gt;Spectrum Harlequin /8bit-museu.de&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gigatron.io/&#34;&gt;Gigatron&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;diverse Retro-Erweiterungen&lt;/li&gt;
+&lt;li&gt;IO-Panel aus Blinkenlights und Schaltern&lt;/li&gt;
+&lt;li&gt;Nachbau &lt;a href=&#34;https://de.wikipedia.org/wiki/PDP-8&#34;&gt;PDP-8 /wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;zusatz&#34;&gt;Zusatz&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Demoszene&#34;&gt;Demoszene /wikipedia&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Beispiel: &lt;a href=&#34;https://js1024.fun/demos/2020&#34;&gt;max. 1024Byte Javascript /js1024.fun&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;DDR Computer Szene &lt;a href=&#34;https://www.youtube.com/results?search_query=auferstanden+aus+platinen&#34;&gt;Dokumentation 3sat /youtube.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw98.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%2898%29_2020_11_21_Neue_alte_Computer.mp3" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 97 - Freifunk Halle 2020</title><link>https://sfdvw.de/blog/2020-10/sfdvw-97-freifunk-halle-2020/</link><pubDate>Sat, 17 Oct 2020 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2020-10/sfdvw-97-freifunk-halle-2020/</guid><description>
 &lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
 &lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
 &lt;p&gt;Feedback zur Sendung?
