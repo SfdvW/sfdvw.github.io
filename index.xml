@@ -1,4 +1,79 @@
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sendung für die vernetzte Welt</title><link>https://sfdvw.de/</link><description>Technik ~ Gesellschaft ~ Internet ~ neue Medien</description><language>de</language><copyright>Sendung für die vernetzte Welt</copyright><lastBuildDate>Wed, 1 Jan 0001 00:00:00 GMT</lastBuildDate><itunes:author>SfdvW</itunes:author><itunes:summary>Immer am dritten Samstag des Monats, 20.00 Uhr, befasst sich die Sendung für die vernetzte Welt mit den Themenfeldern Technik und Gesellschaft, Internet und neue Medien. Die rechnerphile Redaktion versucht euch mitzunehmen auf eine Reise in die Welt der Daten und Netzwerke, der Onlinecommunities und Netz- und Softwarekunst. Radio Corax Freies Radio im Raum Halle ist zu höhren auf UKW 95.9 oder im Webplayer. Ihr könnt live mitmachen über Sendediensttelefon (Halle/4700744). Schreibt eure Fragen und Kritiken über eMail an SfdvW aat radiocorax ddot de. Funk frei!</itunes:summary><itunes:owner><itunes:name>Sendung für die vernetzte Welt</itunes:name><itunes:email>SfdvW aat radiocorax ddot de</itunes:email></itunes:owner><itunes:explicit>No</itunes:explicit><itunes:image href="https://sfdvw.de/img/profile.jpg"/><itunes:category text="Podcast"><itunes:category text="Podcast"/></itunes:category><item><title>SfdvW - 108 - Datenträger</title><link>https://sfdvw.de/blog/2021-08/sfdvw-108-datentr%C3%A4ger/</link><pubDate>Sat, 21 Aug 2021 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2021-08/sfdvw-108-datentr%C3%A4ger/</guid><description>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sendung für die vernetzte Welt</title><link>https://sfdvw.de/</link><description>Technik ~ Gesellschaft ~ Internet ~ neue Medien</description><language>de</language><copyright>Sendung für die vernetzte Welt</copyright><lastBuildDate>Wed, 1 Jan 0001 00:00:00 GMT</lastBuildDate><itunes:author>SfdvW</itunes:author><itunes:summary>Immer am dritten Samstag des Monats, 20.00 Uhr, befasst sich die Sendung für die vernetzte Welt mit den Themenfeldern Technik und Gesellschaft, Internet und neue Medien. Die rechnerphile Redaktion versucht euch mitzunehmen auf eine Reise in die Welt der Daten und Netzwerke, der Onlinecommunities und Netz- und Softwarekunst. Radio Corax Freies Radio im Raum Halle ist zu höhren auf UKW 95.9 oder im Webplayer. Ihr könnt live mitmachen über Sendediensttelefon (Halle/4700744). Schreibt eure Fragen und Kritiken über eMail an SfdvW aat radiocorax ddot de. Funk frei!</itunes:summary><itunes:owner><itunes:name>Sendung für die vernetzte Welt</itunes:name><itunes:email>SfdvW aat radiocorax ddot de</itunes:email></itunes:owner><itunes:explicit>No</itunes:explicit><itunes:image href="https://sfdvw.de/img/profile.jpg"/><itunes:category text="Podcast"><itunes:category text="Podcast"/></itunes:category><item><title>SfdvW - 109 - LoRaWAN</title><link>https://sfdvw.de/blog/2021-09/sfdvw-109-lorawan/</link><pubDate>Sat, 18 Sep 2021 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2021-09/sfdvw-109-lorawan/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sfdvw-109-lorawan&#34;&gt;SfdvW - 109 - LoRaWAN&lt;/h2&gt;
+&lt;p&gt;mit dabei: tmk, nilo, Andreas, Spiegie&lt;/p&gt;
+&lt;h3 id=&#34;worum-geht-es-heute&#34;&gt;Worum geht es Heute?&lt;/h3&gt;
+&lt;p&gt;In Folge 109 geht es um LoRaWAN - dem &amp;ldquo;Long Range Wide Area Netzwork&amp;rdquo;. Wir haben mit Andreas gesprochen,
+ein &amp;ldquo;Early Adopter&amp;rdquo; von LoRaWAN und Initiator der lokalen TTN Community. Im zweiten Teil der Sendung berichtet
+spiegie über zwei seiner eigenen LoRa-Projekte.&lt;/p&gt;
+&lt;h3 id=&#34;zum-anfang&#34;&gt;zum Anfang&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Jugend hackt Ost 2016
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/CldlrDOTxVI?t=1999&#34;&gt;https://youtu.be/CldlrDOTxVI?t=1999&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;grundlegendes&#34;&gt;Grundlegendes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Long Range Wide Area Network&lt;/li&gt;
+&lt;li&gt;proprietäres, patentiertes Übertragungsverfahren basierend auf einer &amp;ldquo;Zirpenfrequenzspreizung&amp;rdquo; genannten Modulationstechnik
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;Als ein Chirp oder eine Zirpe wird in der Signalverarbeitung ein Signal bezeichnet, dessen Frequenz sich zeitlich ändert.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Vorteile CSS gegenüber anderer Modulationstechniken (z.B. AM, FM)
+&lt;ul&gt;
+&lt;li&gt;Energieeffizient&lt;/li&gt;
+&lt;li&gt;hohe Störunanfälligkeit
+&lt;ul&gt;
+&lt;li&gt;Reflektionen sind kein Problem, daher gut für Stadt geeignet&lt;/li&gt;
+&lt;li&gt;Doppler-Effekt sind kein Problem, daher gut für mobile Anwendungen geeignet&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Tipp zum vertiefen: &lt;a href=&#34;https://media.ccc.de/v/33c3-7945-decoding_the_lora_phy&#34;&gt;https://media.ccc.de/v/33c3-7945-decoding_the_lora_phy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;863 bis 870 MHz&lt;/li&gt;
+&lt;li&gt;durch niedrige Frequenz hohe Reichweiten &amp;gt; 10km möglich, auch gute Abdeckung in Innenstädten&lt;/li&gt;
+&lt;li&gt;Übertragungsraten bis zu 50kbit/s (1MB in 46h)&lt;/li&gt;
+&lt;li&gt;geeignet für Messdaten, Steuersignale&lt;/li&gt;
+&lt;li&gt;energiesparend (z.B. für Sender mit Batterieversorgung)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;funktionsweise&#34;&gt;Funktionsweise&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Gateways haben Internet&lt;/li&gt;
+&lt;li&gt;Empfangene Daten werden über Internet an Application Server weitergeschickt&lt;/li&gt;
+&lt;li&gt;Dort werden die Daten dann an die Anwendungen weitergeleitet&lt;/li&gt;
+&lt;li&gt;Rückkanal entsprechend andersrum&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;stacks&#34;&gt;&amp;ldquo;Stacks&amp;rdquo;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Es gibt verschiedene, proprietäre &amp;ldquo;Stacks&amp;rdquo;, aber auch offene.&lt;/li&gt;
+&lt;li&gt;Der jeweilige Stack muss auf den Gateways vorhanden sein, die die &amp;ldquo;Reichweite&amp;rdquo; der Anwendung abdecken.&lt;/li&gt;
+&lt;li&gt;Am verbreitetsten ist TTN (The Things Network)
+&lt;ul&gt;
+&lt;li&gt;Kann frei genutzt werden&lt;/li&gt;
+&lt;li&gt;fair-use Policy&lt;/li&gt;
+&lt;li&gt;The Things Industries ist kommerzielle Firma, die das The Things Network &amp;ldquo;sponsort&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Es gibt auch alternative &amp;ldquo;Stacks&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;lora-community&#34;&gt;LoRa Community&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;TTN Halle-Saalkreis &lt;a href=&#34;https://www.thethingsnetwork.org/community/halle-saalekreis/&#34;&gt;https://www.thethingsnetwork.org/community/halle-saalekreis/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;TTN Mitteldeutschland &lt;a href=&#34;https://www.thethingsnetwork.org/community/mitteldeutschland/&#34;&gt;https://www.thethingsnetwork.org/community/mitteldeutschland/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Freifunk Halle &lt;a href=&#34;https://freifunk-halle.org&#34;&gt;https://freifunk-halle.org&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;konkrete-anwendungen&#34;&gt;Konkrete Anwendungen&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Openbike &lt;a href=&#34;https://github.com/stadtulm/OpenBike&#34;&gt;https://github.com/stadtulm/OpenBike&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Katzentracker&lt;/li&gt;
+&lt;li&gt;LoRa-Chat-Pager&lt;/li&gt;
+&lt;li&gt;TTN Mapper &lt;a href=&#34;https://ttnmapper.org&#34;&gt;https://ttnmapper.org&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw109.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%28109%29_2021_09_18_LoRaWAN.mp3" type="audio/mpeg" length="1"/><chapters/></item><item><title>SfdvW - 108 - Datenträger</title><link>https://sfdvw.de/blog/2021-08/sfdvw-108-datentr%C3%A4ger/</link><pubDate>Sat, 21 Aug 2021 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2021-08/sfdvw-108-datentr%C3%A4ger/</guid><description>
 &lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
 &lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
 &lt;p&gt;Feedback zur Sendung?
