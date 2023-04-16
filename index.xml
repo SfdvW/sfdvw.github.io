@@ -1,4 +1,172 @@
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sendung für die vernetzte Welt</title><link>https://sfdvw.de/</link><description>Technik ~ Gesellschaft ~ Internet ~ neue Medien</description><language>de</language><copyright>Sendung für die vernetzte Welt</copyright><lastBuildDate> Sat, 18 Mar 2023 00:20:00 +0200</lastBuildDate><itunes:author>SfdvW</itunes:author><itunes:summary>Immer am dritten Samstag des Monats, 20.00 Uhr, befasst sich die Sendung für die vernetzte Welt mit den Themenfeldern Technik und Gesellschaft, Internet und neue Medien. Die rechnerphile Redaktion versucht euch mitzunehmen auf eine Reise in die Welt der Daten und Netzwerke, der Onlinecommunities und Netz- und Softwarekunst. Radio Corax Freies Radio im Raum Halle ist zu höhren auf UKW 95.9 oder im Webplayer. Ihr könnt live mitmachen über Sendediensttelefon (Halle/4700744). Schreibt eure Fragen und Kritiken über eMail an SfdvW aat radiocorax ddot de. Funk frei!</itunes:summary><itunes:owner><itunes:name>Sendung für die vernetzte Welt</itunes:name><itunes:email>SfdvW aat radiocorax ddot de</itunes:email></itunes:owner><itunes:explicit>No</itunes:explicit><itunes:image href="https://sfdvw.de/img/profile.jpg"/><itunes:category text="Podcast"><itunes:category text="Podcast"/></itunes:category><item><title>SfdvW - 124 - ChatGPT</title><link>https://sfdvw.de/blog/2023-03/sfdvw-124-chatgpt/</link><pubDate>Sat, 18 Mar 2023 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2023-03/sfdvw-124-chatgpt/</guid><description>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sendung für die vernetzte Welt</title><link>https://sfdvw.de/</link><description>Technik ~ Gesellschaft ~ Internet ~ neue Medien</description><language>de</language><copyright>Sendung für die vernetzte Welt</copyright><lastBuildDate> Sat, 15 Apr 2023 00:20:00 +0200</lastBuildDate><itunes:author>SfdvW</itunes:author><itunes:summary>Immer am dritten Samstag des Monats, 20.00 Uhr, befasst sich die Sendung für die vernetzte Welt mit den Themenfeldern Technik und Gesellschaft, Internet und neue Medien. Die rechnerphile Redaktion versucht euch mitzunehmen auf eine Reise in die Welt der Daten und Netzwerke, der Onlinecommunities und Netz- und Softwarekunst. Radio Corax Freies Radio im Raum Halle ist zu höhren auf UKW 95.9 oder im Webplayer. Ihr könnt live mitmachen über Sendediensttelefon (Halle/4700744). Schreibt eure Fragen und Kritiken über eMail an SfdvW aat radiocorax ddot de. Funk frei!</itunes:summary><itunes:owner><itunes:name>Sendung für die vernetzte Welt</itunes:name><itunes:email>SfdvW aat radiocorax ddot de</itunes:email></itunes:owner><itunes:explicit>No</itunes:explicit><itunes:image href="https://sfdvw.de/img/profile.jpg"/><itunes:category text="Podcast"><itunes:category text="Podcast"/></itunes:category><item><title>SfdvW - 125 - CB Funk</title><link>https://sfdvw.de/blog/2023-04/sfdvw-125-cb-funk/</link><pubDate>Sat, 15 Apr 2023 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2023-04/sfdvw-125-cb-funk/</guid><description>
+&lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Feedback zur Sendung?
+&lt;a href=&#34;mailto:SfdvW@radiocorax.de&#34;&gt;Schreibe uns ein Kommentar&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sfdvw-125-cb-funk&#34;&gt;SfdvW - 125 - CB Funk&lt;/h2&gt;
+&lt;p&gt;mit dabei: littlealex, markus, tmk, nilo, jotilux&lt;/p&gt;
+&lt;h3 id=&#34;worum-geht-es-heute&#34;&gt;Worum geht es heute&lt;/h3&gt;
+&lt;p&gt;Heute befinden wir uns thematisch im 11 Meter Band oder anders gesagt auf der Funkfrequenz bei 27MHz. Es geht um CB Funk (citizens band radio) und all seinen Betriebsarten und Eigenheiten. Mit dabei sind unsere Gäste Alex und Markus, die extra Spielzeug mitgebracht haben. Was das mit dem Wetter zu tun hat müsst Ihr selbst erhöhren!&lt;/p&gt;
+&lt;h3 id=&#34;shownotes&#34;&gt;Shownotes&lt;/h3&gt;
+&lt;h5 id=&#34;technik-geschichte-und-unterschiede-zu-anderen-funktechniken&#34;&gt;Technik, Geschichte und Unterschiede zu anderen Funktechniken&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;Einleitung
+&lt;ul&gt;
+&lt;li&gt;Beweggründe (weitestgehend ungenutzt, hoher Hackfaktor, soziale Komponente)&lt;/li&gt;
+&lt;li&gt;Jedermannfunkanwendung, also ohne Lizenz, wie auch das WIFI-Band, keine abgeschlossene Benutzergruppe wie bei HAM oder Betriebsfunk, gehört zum ISM&lt;/li&gt;
+&lt;li&gt;unterscheidet sich von anderem Sprechfunk
+&lt;ul&gt;
+&lt;li&gt;Freenet (nur BRD, UKW,149MHz,1W)&lt;/li&gt;
+&lt;li&gt;SRD (Short Range Device, ehem. LPD, 70cm, 433MHz,10mW)&lt;/li&gt;
+&lt;li&gt;PMR/DMR (EU-weit, Personal Mobile Radio, 466MHz,0.5W, max. 180sec, Frequenzzuteilung befristet bis 31.12.2030)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Übersicht CB
+&lt;ul&gt;
+&lt;li&gt;11m-Band, 27MHz&lt;/li&gt;
+&lt;li&gt;Feststationen, Mobilgeräte, Handfunkgeräte&lt;/li&gt;
+&lt;li&gt;AM, FM, SSB&lt;/li&gt;
+&lt;li&gt;4w, 12W&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Geschichte CB
+&lt;ul&gt;
+&lt;li&gt;1975 in der BRD, DDR ab 1990, dafür für Betriebsfunk etc genutzt, sogenannte K-Geräte&lt;/li&gt;
+&lt;li&gt;erste Geräte hatten AM, 0.1W mobil, 0.5W fest, Kanäle 4-15&lt;/li&gt;
+&lt;li&gt;seit 1996 80 Kanäle, 4W FM, 1W AM, seit 2011 4W FM/AM, 12W SSB&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Technische Eigenschaften
+&lt;ul&gt;
+&lt;li&gt;Kurzwelle
+&lt;ul&gt;
+&lt;li&gt;analog&lt;/li&gt;
+&lt;li&gt;27MHz, 11m&lt;/li&gt;
+&lt;li&gt;Wellenausbreitung
+&lt;ul&gt;
+&lt;li&gt;Bodenwelle (folget der Erdkrümmung, &amp;ldquo;Ortsgespräch&amp;rdquo;)&lt;/li&gt;
+&lt;li&gt;Raumwelle (kann an der Ionosphäre reflektiert werden, DX)&lt;/li&gt;
+&lt;li&gt;je leitfähiger der Boden um so bessere Ausbreitung&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Reichweiten 100m - 100km, DX tausende Kilometer (abhängig vom Funkwetter, Standort usw.)
+&lt;ul&gt;
+&lt;li&gt;Stationsantennen 20-100km&lt;/li&gt;
+&lt;li&gt;Mobilantennen auf KFZ 10-25km&lt;/li&gt;
+&lt;li&gt;Handfunkgeräte 100m-5km&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Normen
+&lt;ul&gt;
+&lt;li&gt;CEPT (EU plus weitere Staaten, 40 Kanäle, AM/FM, 1W/4W)&lt;/li&gt;
+&lt;li&gt;Polen (40FM 4W, 40AM 4W, 40SSB 12W9)&lt;/li&gt;
+&lt;li&gt;UK (40FM 4W, AM &amp;amp; SSB sollen irgendwann komnmen)&lt;/li&gt;
+&lt;li&gt;EU-Grundnorm (40FM 4W, 40AM 4W, 40 SSB 12W)&lt;/li&gt;
+&lt;li&gt;BRD (80Kanäle, 1-40 AM/FM 4W, 12W SSB, 40-80 FM 4W)&lt;/li&gt;
+&lt;li&gt;nur zugelassene Geräte dürfen betrieben werden, d.h. kein Selbstbau&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Antennen
+&lt;ul&gt;
+&lt;li&gt;müssen abgestimmt werden, ansonsten drohen Defekte am Funkgerät&lt;/li&gt;
+&lt;li&gt;Basis (bis zu 8m lang, meist an Mast, starr oder flexibel, λ1/2 oder λ5/8, selten λ1/4 )&lt;/li&gt;
+&lt;li&gt;Mobil (KFZ, fest, Magnetfuss, Klemmantenne, 30cm bis 2m, halbstarr oder flexibel, meist λ1/4, selten λ1/2 oder λ5/8)&lt;/li&gt;
+&lt;li&gt;Handfunkgeräte (10cm - 50cm, meist flexibel, meist λ1/4)&lt;/li&gt;
+&lt;li&gt;meist Groundplane, aber auch Langdrahtantennen
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;sicherheit&#34;&gt;Sicherheit&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;keine Verschlüsselung&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;funkbetrieb&#34;&gt;Funkbetrieb&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;anders als bei HAM oder Betriebsfunk keine zugeteilten Rufzeichen, wählt man selbst&lt;/li&gt;
+&lt;li&gt;keine Anmeldung&lt;/li&gt;
+&lt;li&gt;keine Gebühren&lt;/li&gt;
+&lt;li&gt;keine Lizenz&lt;/li&gt;
+&lt;li&gt;Verhalten
+&lt;ul&gt;
+&lt;li&gt;viel vom Amateurfunk abgeschaut&lt;/li&gt;
+&lt;li&gt;Leben und Leben lassen&lt;/li&gt;
+&lt;li&gt;bei Fehlverhalten kommen die anderen und sägen die Antenne ab und irgendwann kommt auch die Bundesnetzagentur&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Verbotenes
+&lt;ul&gt;
+&lt;li&gt;andere stören&lt;/li&gt;
+&lt;li&gt;Dauersendungen (a.k.a. Radio machen)&lt;/li&gt;
+&lt;li&gt;Verstärker (alias Brenner oder Oma)&lt;/li&gt;
+&lt;li&gt;nicht zugelassene oder manipulierte Geräte&lt;/li&gt;
+&lt;li&gt;Richtfunk (mit Einschränkungen, zum Beispiel Fuchsjagt)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;gründe-sich-mit-cb-funk-zu-beschäftigen&#34;&gt;Gründe sich mit CB Funk zu beschäftigen&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;Krisenfunk (siehe Arltal)&lt;/li&gt;
+&lt;li&gt;Funk mitunter praktischer als Handy&lt;/li&gt;
+&lt;li&gt;Hobby verbindet Technik mit Sozialem&lt;/li&gt;
+&lt;li&gt;sehr niedriche Einstiegshürde
+&lt;ul&gt;
+&lt;li&gt;keine Lizenz&lt;/li&gt;
+&lt;li&gt;keine Anmeldung&lt;/li&gt;
+&lt;li&gt;Geräte liegen in Kellern und Dachböden&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;digitale-betriebsarten&#34;&gt;digitale Betriebsarten&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;Packet Radio
+&lt;ul&gt;
+&lt;li&gt;Datenübertragung über Funk&lt;/li&gt;
+&lt;li&gt;bei CB ist die Bandbreite begrenzt&lt;/li&gt;
+&lt;li&gt;üblich ist AFSK mit 1.2kBit, 2.4kBit möglich, 4.8kBit geht manchmal, aber ausserhalb der Kanalbreite
+&lt;ul&gt;
+&lt;li&gt;AMTOR, ROS&lt;/li&gt;
+&lt;li&gt;AX.25, FX.25, IP, KISS&lt;/li&gt;
+&lt;li&gt;Kommunikation&lt;/li&gt;
+&lt;li&gt;Statusmeldungen&lt;/li&gt;
+&lt;li&gt;Telemetrie&lt;/li&gt;
+&lt;li&gt;Fernwirkung&lt;/li&gt;
+&lt;li&gt;Warum nicht LoRA? (andere Technik, anderes Ziel, schwer vergleichbar)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Geräte
+&lt;ul&gt;
+&lt;li&gt;TNC (implementieren AX.25 und AFSK)
+&lt;ul&gt;
+&lt;li&gt;kommerziell&lt;/li&gt;
+&lt;li&gt;Arduino, ESP&lt;/li&gt;
+&lt;li&gt;Raspbery PI&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;analoge Modems (implementieren AFSK, AX.25 in Software auf Hostrechner)
+&lt;ul&gt;
+&lt;li&gt;kommerziell (Minicom, CB-Com)&lt;/li&gt;
+&lt;li&gt;Eigenbau&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Soundmodem (alles in Software, nur Adapterkabel nötig)
+&lt;ul&gt;
+&lt;li&gt;gibts für alle OS&lt;/li&gt;
+&lt;li&gt;einfach zu upgraden/erweitern&lt;/li&gt;
+&lt;li&gt;flexibel&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Netzwerken
+&lt;ul&gt;
+&lt;li&gt;im Prinzip alles machbar was man mit LAN oder WIFI machen kann&lt;/li&gt;
+&lt;li&gt;IP geht, aber recht viel Overhead&lt;/li&gt;
+&lt;li&gt;AX.25 ist Quasistandard, anderes theoretisch möglich&lt;/li&gt;
+&lt;li&gt;Routing, Direktverbindung, Store&amp;amp;Forward&lt;/li&gt;
+&lt;li&gt;Tunneling über Internet&lt;/li&gt;
+&lt;li&gt;Mailboxen (BBS), Chat, Email usw.&lt;/li&gt;
+&lt;li&gt;Datenübertragung&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;links-mit-audiobeispiel&#34;&gt;Links mit Audiobeispiel&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Packet_Radio#AFSK-Modus&#34;&gt;https://de.wikipedia.org/wiki/Packet_Radio#AFSK-Modus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/AMTOR&#34;&gt;https://de.wikipedia.org/wiki/AMTOR&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/ROS_(Betriebsart&#34;&gt;https://de.wikipedia.org/wiki/ROS_(Betriebsart&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;script&gt;
+podlovePlayer(&#39;#example&#39;, &#39;/blog/sfdvw125.json&#39;);
+&lt;/script&gt;</description><enclosure url="https://cdn.sfdvw.de/audio/Sendung_fuer_die_vernetzte_Welt_%28125%29_2023_04_15_CB_Funk.mp3" type="audio/mpeg" length="58000000"/><enclosure url="https://sfdvw.de/img/blog/sfdvw125.jpg" length="96264" type="image/jpg"/><itunes:image href="https://sfdvw.de/img/blog/sfdvw125.jpg"/><chapters/></item><item><title>SfdvW - 124 - ChatGPT</title><link>https://sfdvw.de/blog/2023-03/sfdvw-124-chatgpt/</link><pubDate>Sat, 18 Mar 2023 00:20:00 +0200</pubDate><guid>https://sfdvw.de/blog/2023-03/sfdvw-124-chatgpt/</guid><description>
 &lt;p&gt;&lt;div align=&#34;center&#34; id=&#34;example&#34;&gt;&lt;/div&gt;
 &lt;script src=&#34;https://cdn.podlove.org/web-player/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
 &lt;p&gt;Feedback zur Sendung?
